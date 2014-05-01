@@ -1,0 +1,75 @@
+@charset "UTF-8";
+html
+{
+	line-height: 1.2em;
+	font-size: 0.9em;
+	font-family: "Times New Roman","Liberation Serif",serif;
+	word-spacing: 0.1em;
+	background-color: #FFF;
+	color: #000;
+}
+
+h1
+{
+	font-style: italic;
+	letter-spacing: 0.3em;
+	text-transform: lowercase;
+}
+
+h1 a
+{
+	color: #000;
+	text-decoration: none;
+}
+
+h2
+{
+	letter-spacing: 0.3em;
+	text-align: right;
+	padding-right: 6em;
+}
+
+.shark
+{
+	white-space: pre;
+}
+
+hr
+{
+	border: #000 solid;
+	border-width: 1px 0 0;
+	margin: 1em;
+}
+
+td, th
+{
+	border: #000 1px solid;
+}
+
+tr:nth-child(even)
+{
+	background-color: #DDD;
+}
+
+thead tr
+{
+	background-color: #999;
+}
+
+table
+{
+	border-collapse: collapse;
+}
+
+.inline li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+
+.game strong
+{
+	font-weight: normal;
+	font-variant: small-caps;
+}

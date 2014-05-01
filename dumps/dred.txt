@@ -1,0 +1,16235 @@
+=Pokemon Red text dump=
+
+MASTER BALL
+ULTRA BALL
+GREAT BALL
+POKé BALL
+TOWN MAP
+BICYCLE
+?????
+SAFARI BALL
+POKéDEX
+MOON STONE
+ANTIDOTE
+BURN HEAL
+ICE HEAL
+AWAKENING
+PARLYZ HEAL
+FULL RESTORE
+MAX POTION
+HYPER POTION
+SUPER POTION
+POTION
+BOULDERBADGE
+CASCADEBADGE
+THUNDERBADGE
+RAINBOWBADGE
+SOULBADGE
+MARSHBADGE
+VOLCANOBADGE
+EARTHBADGE
+ESCAPE ROPE
+REPEL
+OLD AMBER
+FIRE STONE
+THUNDERSTONE
+WATER STONE
+HP UP
+PROTEIN
+IRON
+CARBOS
+CALCIUM
+RARE CANDY
+DOME FOSSIL
+HELIX FOSSIL
+SECRET KEY
+?????
+BIKE VOUCHER
+X ACCURACY
+LEAF STONE
+CARD KEY
+NUGGET
+PP UP
+POKé DOLL
+FULL HEAL
+REVIVE
+MAX REVIVE
+GUARD SPEC.
+SUPER REPEL
+MAX REPEL
+DIRE HIT
+COIN
+FRESH WATER
+SODA POP
+LEMONADE
+S.S.TICKET
+GOLD TEETH
+X ATTACK
+X DEFEND
+X SPEED
+X SPECIAL
+COIN CASE
+OAK's PARCEL
+ITEMFINDER
+SILPH SCOPE
+POKé FLUTE
+LIFT KEY
+EXP.ALL
+OLD ROD
+GOOD ROD
+SUPER ROD
+PP UP
+ETHER
+MAX ETHER
+ELIXER
+MAX ELIXER
+B2F
+B1F
+1F
+2F
+3F
+4F
+5F
+6F
+7F
+8F
+9F
+10F
+11F
+B4F
+
+
+
+Waiting...!
+
+
+
+PLEASE WAIT!
+
+
+
+CANCEL
+
+
+
+
+Too bad! The trade
+was canceled!
+
+
+
+CONTINUE
+NEW GAME
+OPTION
+
+
+
+TRADE CENTER
+COLOSSEUM
+CANCEL
+
+
+
+PLAYER
+BADGES    
+POKéDEX    
+TIME
+
+
+
+TEXT SPEED
+ FAST  MEDIUM SLOW
+
+BATTLE ANIMATION
+ ON       OFF
+
+BATTLE STYLE
+ SHIFT    SET
+
+CANCEL
+
+
+
+abcdefghijklmnopqrstuvwxyz ×)):;[]{*PK*}{*MN*}-?!♂♀/.,¥UPPER CASE
+ABCDEFGHIJKLMNOPQRSTUVWXYZ ×)):;[]{*PK*}{*MN*}-?!♂♀/.,¥lower case
+
+
+
+YOUR 
+RIVAL's 
+NAME?
+NICKNAME?
+
+
+
+NAME
+
+NEW NAME
+RED
+ASH
+JACK
+
+
+
+NEW NAME
+BLUE
+GARY
+JOHN
+
+
+
+NEW NAME
+RED
+ASH
+JACK
+
+
+
+NEW NAME
+BLUE
+GARY
+JOHN
+
+
+
+POKéDEX
+POKéMON
+ITEM
+SAVE
+RESET
+EXIT
+OPTION
+
+
+
+BUY
+SELL
+QUIT
+
+
+
+USE
+TOSS
+
+
+
+ITEM  RUN
+
+BALL×       BAIT
+THROW ROCK  RUN
+
+
+
+SWITCH
+STATS
+CANCEL
+
+
+
+NO
+YES
+
+
+
+YES
+NO
+
+
+
+NORTH
+WEST
+
+
+
+SOUTH
+EAST
+
+
+
+NORTH
+EAST
+
+
+
+TRADE
+CANCEL
+
+
+
+HEAL
+CANCEL
+
+
+
+CUT
+FLY
+
+SURF
+STRENGTH
+FLASH
+DIG
+TELEPORT
+SOFTBOILED
+STATS
+SWITCH
+CANCEL
+
+
+
+BALL××          
+
+
+
+HEALTH
+ATTACK
+DEFENSE
+SPEED
+SPECIAL
+
+
+
+TYPE1/
+TYPE2/
+
+OT/
+
+STATUS/
+OK
+
+
+
+ATTACK
+DEFENSE
+SPEED
+SPECIAL
+
+
+
+EXP POINTS
+LEVEL UP
+
+
+
+ABLE
+NOT ABLE
+
+
+
+ABLE
+NOT ABLE
+
+
+
+NAME/
+MONEY/
+TIME/
+BADGES
+
+
+
+YOU WIN
+
+YOU LOSE
+
+  DRAW
+
+
+RHYDON
+KANGASKHAN
+NIDORAN♂
+CLEFAIRY
+SPEAROW
+VOLTORB
+NIDOKING
+SLOWBRO
+IVYSAUR
+EXEGGUTOR
+LICKITUNG
+EXEGGCUTE
+GRIMER
+GENGAR
+NIDORAN♀
+NIDOQUEEN
+CUBONE
+RHYHORN
+LAPRAS
+ARCANINE
+MEW
+GYARADOS
+SHELLDER
+TENTACOOL
+GASTLY
+SCYTHER
+STARYU
+BLASTOISE
+PINSIR
+TANGELA
+MISSINGNO.
+MISSINGNO.
+GROWLITHE
+ONIX
+FEAROW
+PIDGEY
+SLOWPOKE
+KADABRA
+GRAVELER
+CHANSEY
+MACHOKE
+MR.MIME
+HITMONLEE
+HITMONCHAN
+ARBOK
+PARASECT
+PSYDUCK
+DROWZEE
+GOLEM
+MISSINGNO.
+MAGMAR
+MISSINGNO.
+ELECTABUZZ
+MAGNETON
+KOFFING
+MISSINGNO.
+MANKEY
+SEEL
+DIGLETT
+TAUROS
+MISSINGNO.
+MISSINGNO.
+MISSINGNO.
+FARFETCH'D
+VENONAT
+DRAGONITE
+MISSINGNO.
+MISSINGNO.
+MISSINGNO.
+DODUO
+POLIWAG
+JYNX
+MOLTRES
+ARTICUNO
+ZAPDOS
+DITTO
+MEOWTH
+KRABBY
+MISSINGNO.
+MISSINGNO.
+MISSINGNO.
+VULPIX
+NINETALES
+PIKACHU
+RAICHU
+MISSINGNO.
+MISSINGNO.
+DRATINI
+DRAGONAIR
+KABUTO
+KABUTOPS
+HORSEA
+SEADRA
+MISSINGNO.
+MISSINGNO.
+SANDSHREW
+SANDSLASH
+OMANYTE
+OMASTAR
+JIGGLYPUFF
+WIGGLYTUFF
+EEVEE
+FLAREON
+JOLTEON
+VAPOREON
+MACHOP
+ZUBAT
+EKANS
+PARAS
+POLIWHIRL
+POLIWRATH
+WEEDLE
+KAKUNA
+BEEDRILL
+MISSINGNO.
+DODRIO
+PRIMEAPE
+DUGTRIO
+VENOMOTH
+DEWGONG
+MISSINGNO.
+MISSINGNO.
+CATERPIE
+METAPOD
+BUTTERFREE
+MACHAMP
+MISSINGNO.
+GOLDUCK
+HYPNO
+GOLBAT
+MEWTWO
+SNORLAX
+MAGIKARP
+MISSINGNO.
+MISSINGNO.
+MUK
+MISSINGNO.
+KINGLER
+CLOYSTER
+MISSINGNO.
+ELECTRODE
+CLEFABLE
+WEEZING
+PERSIAN
+MAROWAK
+MISSINGNO.
+HAUNTER
+ABRA
+ALAKAZAM
+PIDGEOTTO
+PIDGEOT
+STARMIE
+BULBASAUR
+VENUSAUR
+TENTACRUEL
+MISSINGNO.
+GOLDEEN
+SEAKING
+MISSINGNO.
+MISSINGNO.
+MISSINGNO.
+MISSINGNO.
+PONYTA
+RAPIDASH
+RATTATA
+RATICATE
+NIDORINO
+NIDORINA
+GEODUDE
+PORYGON
+AERODACTYL
+MISSINGNO.
+MAGNEMITE
+MISSINGNO.
+MISSINGNO.
+CHARMANDER
+SQUIRTLE
+CHARMELEON
+WARTORTLE
+CHARIZARD
+MISSINGNO.
+MISSINGNO.
+MISSINGNO.
+MISSINGNO.
+ODDISH
+GLOOM
+VILEPLUME
+BELLSPROUT
+WEEPINBELL
+VICTREEBEL
+
+
+
+BICYCLE
+CANCEL
+
+¥1000000
+
+
+
+EEVEE
+FLAREON
+JOLTEON
+VAPOREON
+CANCEL
+
+
+
+SOMEONE's PC
+BILL's PC
+'s PC
+PROF.OAK's PC
+{*PK*MN*}LEAGUE
+LOG OFF
+
+
+
+WITHDRAW {*PK*MN*}
+DEPOSIT {*PK*MN*}
+RELEASE {*PK*MN*}
+CHANGE BOX
+SEE YA!
+
+
+
+BOX No.
+
+
+
+DEPOSIT
+WITHDRAW
+STATS
+CANCEL
+
+
+
+NORMAL
+FIGHTING
+FLYING
+POISON
+FIRE
+WATER
+GRASS
+ELECTRIC
+PSYCHIC
+ICE
+GROUND
+ROCK
+BIRD
+BUG
+GHOST
+DRAGON
+
+
+
+YOUNGSTER
+BUG CATCHER
+LASS
+JR.TRAINER♂
+JR.TRAINER♀
+POKéMANIAC
+SUPER NERD
+BURGLAR
+ENGINEER
+JUGGLER
+SWIMMER
+BEAUTY
+ROCKER
+JUGGLER
+BLACKBELT
+PROF.OAK
+CHIEF
+SCIENTIST
+ROCKET
+COOLTRAINER♂
+COOLTRAINER
+
+
+
+
+YOUNGSTER
+BUG CATCHER
+LASS
+SAILOR
+JR.TRAINER♂
+JR.TRAINER♀
+POKéMANIAC
+SUPER NERD
+HIKER
+BIKER
+BURGLAR
+ENGINEER
+JUGGLER
+FISHERMAN
+SWIMMER
+CUE BALL
+GAMBLER
+BEAUTY
+PSYCHIC
+ROCKER
+JUGGLER
+TAMER
+BIRD KEEPER
+BLACKBELT
+RIVAL1
+PROF.OAK
+CHIEF
+SCIENTIST
+GIOVANNI
+ROCKET
+COOLTRAINER♂
+COOLTRAINER♀
+BRUNO
+BROCK
+MISTY
+LT.SURGE
+ERIKA
+KOGA
+BLAINE
+SABRINA
+GENTLEMAN
+RIVAL2
+RIVAL3
+LORELEI
+CHANNELER
+AGATHA
+LANCE
+
+
+
+OLD MAN
+
+
+
+disabled!
+
+
+
+ATTACK
+DEFENSE
+SPEED
+SPECIAL
+ACCURACY
+EVADE
+
+
+
+----------
+
+
+
+SEEN
+OWN
+CONTENTS
+
+DATA
+CRY
+AREA
+QUIT
+
+
+
+HT  ?{*A*}??{*B*}
+WT   ???lb
+
+
+DRILL
+PARENT
+POISON PIN
+FAIRY
+TINY BIRD
+BALL
+DRILL
+HERMITCRAB
+SEED
+COCONUT
+LICKING
+EGG
+SLUDGE
+SHADOW
+POISON PIN
+DRILL
+LONELY
+SPIKES
+TRANSPORT
+LEGENDARY
+NEW SPECIE
+ATROCIOUS
+BIVALVE
+JELLYFISH
+GAS
+MANTIS
+STARSHAPE
+SHELLFISH
+STAGBEETLE
+VINE
+PUPPY
+ROCK SNAKE
+BEAK
+TINY BIRD
+DOPEY
+PSI
+ROCK
+EGG
+SUPERPOWER
+BARRIER
+KICKING
+PUNCHING
+COBRA
+MUSHROOM
+DUCK
+HYPNOSIS
+MEGATON
+SPITFIRE
+ELECTRIC
+MAGNET
+POISON GAS
+PIG MONKEY
+SEA LION
+MOLE
+WILD BULL
+WILD DUCK
+INSECT
+DRAGON
+TWIN BIRD
+TADPOLE
+HUMANSHAPE
+FLAME
+FREEZE
+ELECTRIC
+TRANSFORM
+SCRATCHCAT
+RIVER CRAB
+FOX
+FOX
+MOUSE
+MOUSE
+DRAGON
+DRAGON
+SHELLFISH
+SHELLFISH
+DRAGON
+DRAGON
+MOUSE
+MOUSE
+SPIRAL
+SPIRAL
+BALLOON
+BALLOON
+EVOLUTION
+FLAME
+LIGHTNING
+BUBBLE JET
+SUPERPOWER
+BAT
+SNAKE
+MUSHROOM
+TADPOLE
+TADPOLE
+HAIRY BUG
+COCOON
+POISON BEE
+TRIPLEBIRD
+PIG MONKEY
+MOLE
+POISONMOTH
+SEA LION
+WORM
+COCOON
+BUTTERFLY
+SUPERPOWER
+DUCK
+HYPNOSIS
+BAT
+GENETIC
+SLEEPING
+FISH
+SLUDGE
+PINCER
+BIVALVE
+BALL
+FAIRY
+POISON GAS
+CLASSY CAT
+BONEKEEPER
+GAS
+PSI
+PSI
+BIRD
+BIRD
+MYSTERIOUS
+SEED
+SEED
+JELLYFISH
+GOLDFISH
+GOLDFISH
+FIRE HORSE
+FIRE HORSE
+RAT
+RAT
+POISON PIN
+POISON PIN
+ROCK
+VIRTUAL
+FOSSIL
+MAGNET
+LIZARD
+TINYTURTLE
+FLAME
+TURTLE
+FLAME
+WEED
+WEED
+FLOWER
+FLOWER
+FLYCATCHER
+FLYCATCHER
+
+
+
+EARTHBADGE
+VOLCANOBADGE
+MARSHBADGE
+SOULBADGE
+RAINBOWBADGE
+THUNDERBADGE
+CASCADEBADGE
+
+
+
+NO THANKS
+
+
+
+COIN
+
+
+
+Diploma
+
+Player
+
+
+Congrats! This
+diploma certifies
+that you have
+completed your
+POKéDEX.
+
+GAME FREAK
+
+
+
+PEWTER CITY
+BROCK
+
+
+
+CERULEAN CITY
+MISTY
+
+
+
+VERMILION CITY
+LT.SURGE
+
+
+
+SAFFRON CITY
+SABRINA
+
+
+HOW TO LINK
+COLOSSEUM
+TRADE CENTER
+STOP READING
+
+
+
+SLP
+PSN
+PAR
+
+BRN
+FRZ
+QUIT
+
+
+
+LEVEL/
+TYPE1/
+TYPE2/
+
+
+PLAY TIME
+MONEY
+
+
+'s NEST
+
+
+AREA UNKNOWN
+
+
+
+PALLET TOWN
+VIRIDIAN CITY
+PEWTER CITY
+CERULEAN CITY
+LAVENDER TOWN
+VERMILION CITY
+CELADON CITY
+FUCHSIA CITY
+CINNABAR ISLAND
+INDIGO PLATEAU
+SAFFRON CITY
+ROUTE 1
+ROUTE 2
+ROUTE 3
+ROUTE 4
+ROUTE 5
+ROUTE 6
+ROUTE 7
+ROUTE 8
+ROUTE 9
+ROUTE 10
+ROUTE 11
+ROUTE 12
+ROUTE 13
+ROUTE 14
+ROUTE 15
+ROUTE 16
+ROUTE 17
+ROUTE 18
+SEA ROUTE 19
+SEA ROUTE 20
+SEA ROUTE 21
+ROUTE 22
+ROUTE 23
+ROUTE 24
+ROUTE 25
+VIRIDIAN FOREST
+MT.MOON
+ROCK TUNNEL
+SEA COTTAGE
+S.S.ANNE
+POKéMON LEAGUE
+UNDERGROUND PATH
+POKéMON TOWER
+SEAFOAM ISLANDS
+VICTORY ROAD
+DIGLETT's CAVE
+ROCKET HQ
+SILPH CO.
+{*PK*MN*} MANSION
+SAFARI ZONE
+CERULEAN CAVE
+POWER PLANT
+
+
+
+TRAINER
+TERRY
+MARCEL
+CHIKUCHIKU
+SAILOR
+DUX
+MARC
+LOLA
+CRINKLES
+
+
+
+Now saving...
+
+
+
+BOX 1
+BOX 2
+BOX 3
+BOX 4
+BOX 5
+BOX 6
+BOX 7
+BOX 8
+BOX 9
+BOX10
+BOX11
+BOX12
+BOX No.
+
+
+
+RED VERSION STAFF
+4SATOSHI TAJIRI
+4TAKENORI OOTA
+3SHIGEKI MORIMOTO
+3TETSUYA WATANABE
+4JUNICHI MASUDA
+5KOHJI NISINO
+5KEN SUGIMORI
+4ATSUKO NISHIDA
+3SHIGERU MIYAMOTO
+2TAKASHI KAWAGUCHI
+2TSUNEKAZU ISHIHARA
+3HIROSHI YAMAUCHI
+3HIROYUKI ZINNAI
+3TATSUYA HISHIDA
+4YASUHIRO SAKAI
+3WATARU YAMAGUCHI
+2KAZUYUKI YAMAMOTO
+2RYOHSUKE TANIGUCHI
+2FUMIHIRO NONOMURA
+3MOTOFUMI FUZIWARA
+3KENJI MATSUSIMA
+3AKIHITO TOMISAWA
+3HIROSHI KAWAMOTO
+4AKIYOSHI KAKEI
+3KAZUKI TSUCHIYA
+4TAKEO NAKAMURA
+4MASAMITSU YUDA
+7POKéMON
+7DIRECTOR
+5PROGRAMMERS
+3CHARACTER DESIGN
+8MUSIC
+4SOUND EFFECTS
+5GAME DESIGN
+4MONSTER DESIGN
+4GAME SCENARIO
+2PARAMETRIC DESIGN
+6MAP DESIGN
+3PRODUCT TESTING
+4SPECIAL THANKS
+6PRODUCERS
+6PRODUCER
+2EXECUTIVE PRODUCER
+4SOUSUKE TAMADA
+5SATOSHI OOTA
+4RENA YOSHIKAWA
+4TOMOMICHI OOTA
+3US VERSION STAFF
+3US COORDINATION
+5GAIL TILDEN
+4NAOKO KAWAKAMI
+4HIRO NAKAMURA
+4WILLIAM GIESE
+5SARA OSBORNE
+3TEXT TRANSLATION
+4NOB OGASAWARA
+5SATORU IWATA
+3TAKEHIRO IZUSHI
+3TAKAHIRO HARADA
+3TERUKI MURAKAWA
+5KOHTA FUKUI
+1NCL SUPER MARIO CLUB
+5PAAD TESTING
+
+
+
+
+?   S  L  P  P  S  N  B  R  N  F  R  Z  P  A  R
+
+
+FRESH WATER
+SODA POP
+LEMONADE
+CANCEL
+
+¥200
+¥300
+¥350
+
+
+
+FUCHSIA CITY
+KOGA
+
+
+
+CINNABAR ISLAND
+BLAINE
+
+
+
+Bingo!
+
+The CARD KEY
+opened the door!
+
+
+Darn! It needs a
+CARD KEY!
+
+
+Not even a nibble!
+
+
+Looks like there's
+nothing here.
+
+
+Oh!
+It's a bite!
+
+
+Ground rose up
+somewhere!
+
+ This requires
+STRENGTH to move!
+
+
+All your item
+needs fulfilled!
+
+POKéMON MART
+
+
+Heal Your POKéMON!
+POKéMON CENTER
+
+
+NINTEN found
+{4B}!
+
+
+No more room for
+items!
+
+
+Hi! Remember me?
+I'm PROF.OAK's
+AIDE!
+
+If you caught {50}
+kinds of POKéMON,
+I'm supposed to
+give you an
+{50}!
+
+So, NINTEN! Have
+you caught at
+least {50} kinds of
+POKéMON?
+
+
+Let's see...
+Uh-oh! You have
+caught only {50}
+kinds of POKéMON!
+
+You need {50} kinds
+if you want the
+{50}.
+
+
+Oh. I see.
+When you get {50}
+kinds, come back
+for {50}.
+
+
+Great! You have
+caught {50} kinds
+of POKéMON!
+Congratulations!
+
+Here you go!
+
+NINTEN got the
+{50}!
+
+
+Oh! I see you
+don't have any
+room for the
+{50}.
+
+
+I came here with
+some friends!
+
+They're out for
+POKéMON fights!
+
+Hey! You have
+POKéMON! Come on!
+Let's battle'em!
+
+
+No!
+CATERPIE can't
+cut it!
+
+
+Ssh! You'll scare
+the bugs away!
+
+
+Yo! You can't jam
+out if you're a
+POKéMON trainer!
+
+
+Huh?
+I ran out of
+POKéMON!
+
+
+Darn! I'm going
+to catch some
+stronger ones!
+
+
+Hey, wait up!
+What's the hurry?
+
+
+I
+give! You're good
+at this!
+
+
+Sometimes, you
+can find stuff on
+the ground!
+
+I'm looking for
+the stuff I
+dropped!
+
+
+I ran out of POKé
+BALLs to catch
+POKéMON with!
+
+You should carry
+extras!
+
+
+TRAINER TIPS
+
+If you want to
+avoid battles,
+stay away from
+grassy areas!
+
+
+For poison, use
+ANTIDOTE! Get it
+at POKéMON MARTs!
+
+
+TRAINER TIPS
+
+Contact PROF.OAK
+via PC to get
+your POKéDEX
+evaluated!
+
+
+TRAINER TIPS
+
+No stealing of
+POKéMON from
+other trainers!
+Catch only wild
+POKéMON!
+
+
+TRAINER TIPS
+
+Weaken POKéMON
+before attempting
+capture!
+
+When healthy,
+they may escape!
+
+
+LEAVING
+VIRIDIAN FOREST
+PEWTER CITY AHEAD
+
+
+WHOA! You shocked
+me! Oh, you're
+just a kid!
+
+
+Wow!
+Shocked again!
+
+
+Kids like you
+shouldn't be
+here!
+
+
+Did you come to
+explore too?
+
+
+Losing
+stinks!
+
+
+I came down here
+to show off to
+girls.
+
+
+Wow! It's way
+bigger in here
+than I thought!
+
+
+Oh!
+I lost it!
+
+
+How do you get
+out of here?
+
+
+What! Don't sneak
+up on me!
+
+
+My
+POKéMON won't do!
+
+
+I have to find
+stronger POKéMON.
+
+
+What? I'm waiting
+for my friends to
+find me here.
+
+
+I lost?
+
+
+I heard there are
+some very rare
+fossils here.
+
+
+Suspicious men
+are in the cave.
+What about you?
+
+
+You
+got me!
+
+
+I saw them! I'm
+sure they're from
+TEAM ROCKET!
+
+
+Go through this
+cave to get to
+CERULEAN CITY!
+
+
+I
+lost.
+
+
+ZUBAT is tough!
+But, it can be
+useful if you
+catch one.
+
+
+Beware! ZUBAT is
+a blood sucker!
+
+
+
+You want the
+DOME FOSSIL?
+
+
+You want the
+HELIX FOSSIL?
+
+
+NINTEN got the
+{50}!
+
+
+Look, you've got
+no room for this.
+
+
+Hey, stop!
+
+I found these
+fossils! They're
+both mine!
+
+
+OK!
+I'll share!
+
+
+We'll each take
+one!
+
+No being greedy!
+
+
+Far away, on
+CINNABAR ISLAND,
+there's a POKéMON
+LAB.
+
+They do research
+on regenerating
+fossils.
+
+
+All right. Then
+this is mine!
+
+
+TEAM ROCKET will
+find the fossils,
+revive and sell
+them for cash!
+
+
+Urgh!
+Now I'm mad!
+
+
+You made me mad!
+TEAM ROCKET will
+blacklist you!
+
+
+We, TEAM ROCKET,
+are POKéMON
+gangsters!
+
+
+I blew
+it!
+
+
+Darn it all! My
+associates won't
+stand for this!
+
+
+NINTEN! What are
+you, seasick?
+
+You should shape
+up, pal!
+
+
+SONY: I heard
+there was a CUT
+master on board.
+
+But, he was just a
+seasick, old man!
+
+But, CUT itself is
+really useful!
+
+You should go see
+him! Smell ya!
+
+
+Our CAPTAIN is a
+sword master!
+
+He even teaches
+CUT to POKéMON!
+
+
+The party's over.
+The ship will be
+departing soon.
+
+
+Scrubbing decks
+is hard work!
+
+
+Urf. I feel ill.
+
+I stepped out to
+get some air.
+
+
+Hey matey!
+
+Let's do a little
+jig!
+
+
+You're
+impressive!
+
+
+How many kinds of
+POKéMON do you
+think there are?
+
+
+Ahoy there!
+Are you seasick?
+
+
+I was
+just careless!
+
+
+My Pa said there
+are 100 kinds of
+POKéMON. I think
+there are more.
+
+
+You, mon petit!
+We're busy here!
+Out of the way!
+
+
+I saw an odd ball
+in the trash.
+
+
+I'm so busy I'm
+getting dizzy!
+
+
+Hum-de-hum-de-
+ho...
+
+I peel spuds
+every day!
+Hum-hum...
+
+
+Did you hear about
+SNORLAX?
+
+All it does is
+eat and sleep!
+
+
+Snivel...Sniff...
+
+I only get to
+peel onions...
+Snivel...
+
+
+Er-hem! Indeed I
+am le CHEF!
+
+Le main course is
+
+
+Salmon du Salad!
+
+Les guests may
+gripe it's fish
+again, however!
+
+
+Eels au Barbecue!
+
+Les guests will
+mutiny, I fear.
+
+
+Prime Beef Steak!
+
+But, have I enough
+fillets du beef?
+
+
+CAPTAIN: Ooargh...
+I feel hideous...
+Urrp! Seasick...
+
+NINTEN rubbed
+the CAPTAIN's
+back!
+
+Rub-rub...
+Rub-rub...
+
+
+CAPTAIN: Whew!
+Thank you! I
+feel much better!
+
+You want to see
+my CUT technique?
+
+I could show you
+if I wasn't ill...
+
+I know! You can
+have this!
+
+Teach it to your
+POKéMON and you
+can see it CUT
+any time!
+
+
+NINTEN got
+{4B}!
+
+
+CAPTAIN: Whew!
+
+Now that I'm not
+sick any more, I
+guess it's time.
+
+
+Oh no! You have
+no room for this!
+
+
+Yuck! Shouldn't
+have looked!
+
+
+How to Conquer
+Seasickness...
+The CAPTAIN's
+reading this!
+
+
+WIGGLYTUFF: Puup
+pupuu!
+
+
+I travel alone
+on my journeys!
+
+My POKéMON are my
+only friends!
+
+
+My, my
+friends...
+
+
+You should be
+nice to friends!
+
+
+You pup! How dare
+you barge in!
+
+
+Humph!
+You rude child!
+
+
+I wish to be left
+alone! Get out!
+
+
+I love POKéMON!
+Do you?
+
+
+Wow!
+You're great!
+
+
+Let me be your
+friend, OK?
+
+Then we can trade
+POKéMON!
+
+
+I collected these
+POKéMON from all
+around the world!
+
+
+Oh no!
+I went around the
+world for these!
+
+
+You hurt my poor
+worldly POKéMON!
+
+I demand that you
+heal them at a
+POKéMON CENTER!
+
+
+Waiter, I would
+like a cherry pie
+please!
+
+
+A cruise is so
+elegant yet cozy!
+
+
+I always travel
+with WIGGLYTUFF!
+
+
+We are cruising
+around the world.
+
+
+Ssh! I'm a GLOBAL
+POLICE agent!
+
+I'm on the trail
+of TEAM ROCKET!
+
+
+In all my travels
+I've never seen
+any POKéMON sleep
+like this one!
+
+It was something
+like this!
+
+
+Ah yes, I have
+seen some POKéMON
+ferry people
+across the water!
+
+
+POKéMON can CUT
+down small bushes.
+
+
+Have you gone to
+the SAFARI ZONE
+in FUCHSIA CITY?
+
+It had many rare
+kinds of POKéMON!!
+
+
+Me and my Daddy
+think the SAFARI
+ZONE is awesome!
+
+
+The CAPTAIN looked
+really sick and
+pale!
+
+
+I hear many people
+get seasick!
+
+
+Competing against
+the young keeps
+me youthful.
+
+
+Good
+fight! Ah, I feel
+young again!
+
+
+15 years ago, I
+would have won!
+
+
+Check out what I
+fished up!
+
+
+I'm
+all out!
+
+
+Party?
+
+The cruise ship's
+party should be
+over by now.
+
+
+Which do you like,
+a strong or a
+rare POKéMON?
+
+
+I must
+salute you!
+
+
+I prefer strong
+and rare POKéMON.
+
+
+I never saw you
+at the party.
+
+
+Take
+it easy!
+
+
+Oh, I adore your
+strong POKéMON!
+
+
+MACHOKE: Gwoh!
+Goggoh!
+
+
+You know what they
+say about sailors
+and fighting!
+
+
+Right!
+Good fight, mate!
+
+
+Haha! Want to be
+a sailor, mate?
+
+
+My sailor's pride
+is at stake!
+
+
+Your
+spirit sank me!
+
+
+Did you see the
+FISHING GURU in
+VERMILION CITY?
+
+
+Us sailors have
+POKéMON too!
+
+
+OK,
+you're not bad.
+
+
+We caught all our
+POKéMON while
+out at sea!
+
+
+I like feisty
+kids like you!
+
+
+Argh!
+Lost it!
+
+
+Sea POKéMON live
+in deep water.
+You'll need a ROD!
+
+
+Matey, you're
+walking the plank
+if you lose!
+
+
+Argh!
+Beaten by a kid!
+
+
+Jellyfish some-
+times drift into
+the ship.
+
+
+Hello stranger!
+Stop and chat!
+
+All my POKéMON
+are from the sea!
+
+
+Darn!
+I let that one
+get away!
+
+
+I was going to
+make you my
+assistant too!
+
+
+My buddy, MACHOKE,
+is super strong!
+
+He has enough
+STRENGTH to move
+big rocks!
+
+
+I heard rumors of
+a child prodigy!
+
+
+The
+rumors were true!
+
+
+You beat GIOVANNI
+of TEAM ROCKET?
+
+
+I'll show you just
+how good you are!
+
+
+I'm
+furious!
+
+
+You showed me just
+how good I was!
+
+
+Only the chosen
+can pass here!
+
+
+I
+don't believe it!
+
+
+All trainers here
+are headed to the
+POKéMON LEAGUE!
+Be careful!
+
+
+Trainers live to
+seek stronger
+opponents!
+
+
+Oh!
+So strong!
+
+
+By fighting tough
+battles, you get
+stronger!
+
+
+Why...?
+
+
+Who are you? How
+did you get here?
+
+
+Oww!
+Beaten!
+
+
+Are you dissing
+TEAM ROCKET?
+
+
+You broke into
+our operation?
+
+
+Burnt!
+
+
+You're not going
+to get away with
+this, brat!
+
+
+Intruder alert!
+
+
+I
+can't do it!
+
+
+SILPH SCOPE?
+I don't know
+where it is!
+
+
+Why did you come
+here?
+
+
+This
+won't do!
+
+
+OK, I'll talk!
+Take the elevator
+to see my BOSS!
+
+
+Are you lost, you
+little rat?
+
+
+Uh-oh, that fight
+opened the door!
+
+
+BOSS said you can
+see GHOSTs with
+the SILPH SCOPE!
+
+
+I
+surrender!
+
+
+The TEAM ROCKET
+HQ has 4 basement
+floors. Can you
+reach the BOSS?
+
+
+Stop meddling in
+TEAM ROCKET's
+affairs!
+
+
+Oof!
+Taken down!
+
+
+SILPH SCOPE?
+The machine the
+BOSS stole. It's
+here somewhere.
+
+
+We got word from
+upstairs that you
+were coming!
+
+
+What?
+I lost? No!
+
+
+Go ahead and go!
+But, you need the
+LIFT KEY to run
+the elevator!
+
+
+So! I must say, I
+am impressed you
+got here!
+
+
+WHAT!
+This cannot be!
+
+
+I see that you
+raise POKéMON
+with utmost care.
+
+A child like you
+would never
+understand what I
+hope to achieve.
+
+I shall step
+aside this time!
+
+I hope we meet
+again...
+
+
+I know you! You
+ruined our plans
+at MT.MOON!
+
+
+Burned
+again!
+
+
+Do you have
+something against
+TEAM ROCKET?
+
+
+How can you not
+see the beauty of
+our evil?
+
+
+Ayaya!
+
+
+BOSS! I'm sorry I
+failed you!
+
+
+The elevator
+doesn't work? Who
+has the LIFT KEY?
+
+
+No!
+
+
+Oh no! I dropped
+the LIFT KEY!
+
+
+It appears to
+need a key.
+
+
+Eeek!
+No! Stop! Help!
+
+Oh, you're not
+with TEAM ROCKET.
+I thought...
+I'm sorry. Here,
+please take this!
+
+
+NINTEN got
+{4B}!
+
+
+TM36 is
+SELFDESTRUCT!
+
+It's powerful, but
+the POKéMON that
+uses it faints!
+Be careful.
+
+
+You don't have any
+room for this.
+
+
+Help! I'm a SILPH
+employee.
+
+
+How
+did you know I
+was a ROCKET?
+
+
+I work for both
+SILPH and TEAM
+ROCKET!
+
+
+It's off limits
+here! Go home!
+
+
+You're
+good.
+
+
+Can you solve the
+maze in here?
+
+
+No kids are
+allowed in here!
+
+
+Tough!
+
+
+Diamond shaped
+tiles are
+teleport blocks!
+
+They're hi-tech
+transporters!
+
+
+Hey kid! What are
+you doing here?
+
+
+I goofed!
+
+
+SILPH CO. will
+be merged with
+TEAM ROCKET!
+
+
+I work for SILPH.
+What should I do?
+
+
+NINTEN! You and
+your POKéMON
+saved us!
+
+
+Quit messing with
+us, kid!
+
+
+I give
+up!
+
+
+A hint? You can
+open doors with a
+CARD KEY!
+
+
+I support TEAM
+ROCKET more than
+I support SILPH!
+
+
+You
+really got me!
+
+
+Humph...
+
+TEAM ROCKET said
+that if I helped
+them, they'd let
+me study POKéMON!
+
+
+Sssh! Can't you
+see I'm hiding?
+
+
+Huh? TEAM ROCKET
+is gone?
+
+
+TEAM ROCKET has
+taken command of
+SILPH CO.!
+
+
+Arrgh!
+
+
+Fwahahaha!
+My BOSS has been
+after this place!
+
+
+My POKéMON are my
+loyal soldiers!
+
+
+Darn!
+You weak POKéMON!
+
+
+The doors are
+electronically
+locked! A CARD
+KEY opens them!
+
+
+Intruder spotted!
+
+
+Who
+are you?
+
+
+I better tell the
+BOSS on 11F!
+
+
+TEAM ROCKET is
+in an uproar over
+some intruder.
+That's you right?
+
+
+TEAM ROCKET took
+off! You're our
+hero! Thank you!
+
+
+I heard a kid was
+wandering around.
+
+
+Boom!
+
+
+It's not smart
+to pick a fight
+with TEAM ROCKET!
+
+
+We study POKé
+BALL technology
+on this floor!
+
+
+Dang!
+Blast it!
+
+
+We worked on the
+ultimate POKé
+BALL which would
+catch anything!
+
+
+Whaaat? There
+shouldn't be any
+children here?
+
+
+Oh
+goodness!
+
+
+You're only on 5F.
+It's a long way
+to my BOSS!
+
+
+Show TEAM ROCKET
+a little respect!
+
+
+Cough...
+Cough...
+
+
+Which reminds me.
+
+KOFFING evolves
+into WEEZING!
+
+
+It's a POKéMON
+REPORT!
+
+POKéMON LAB
+created PORYGON,
+the first virtual
+reality POKéMON.
+
+
+It's a POKéMON
+REPORT!
+
+Over 160 POKéMON
+techniques have
+been confirmed.
+
+
+It's a POKéMON
+REPORT!
+
+4 POKéMON evolve
+only when traded
+by link-cable.
+
+
+The ROCKETs came
+and took over the
+building!
+
+
+Well, better get
+back to work!
+
+
+Oh dear, oh dear.
+Help me please!
+
+
+We got engaged!
+Heheh!
+
+
+Look at him! He's
+such a coward!
+
+
+I feel so sorry
+for him, I have
+to marry him!
+
+
+TEAM ROCKET is
+trying to conquer
+the world with
+POKéMON!
+
+
+TEAM ROCKET ran
+because of you!
+
+
+They must have
+targeted SILPH
+for our POKéMON
+products.
+
+
+Come work for
+SILPH when you
+get older!
+
+
+I am one of the 4
+ROCKET BROTHERS!
+
+
+Flame
+out!
+
+
+No matter!
+My brothers will
+avenge me!
+
+
+That rotten
+PRESIDENT!
+
+He shouldn't have
+sent me to the
+TIKSI BRANCH!
+
+
+Shoot!
+
+
+TIKSI BRANCH?
+It's in Russian
+no man's land!
+
+
+You dare betray
+TEAM ROCKET?
+
+
+You
+traitor!
+
+
+If you stand for
+justice, you
+betray evil!
+
+
+Oh! Hi! You're
+not a ROCKET! You
+came to save us?
+Why, thank you!
+
+I want you to
+have this POKéMON
+for saving us.
+
+
+It's LAPRAS. It's
+very intelligent.
+
+We kept it in our
+lab, but it will
+be much better
+off with you!
+
+I think you will
+be a good trainer
+for LAPRAS!
+
+It's a good
+swimmer. It'll
+give you a lift!
+
+
+TEAM ROCKET's
+BOSS went to the
+boardroom! Is our
+PRESIDENT OK?
+
+
+Saved at last!
+Thank you!
+
+
+TEAM ROCKET was
+after the MASTER
+BALL which will
+catch any POKéMON!
+
+
+We canceled the
+MASTER BALL
+project because
+of TEAM ROCKET.
+
+
+It would be bad
+if TEAM ROCKET
+took over SILPH
+or our POKéMON!
+
+
+Wow! You chased
+off TEAM ROCKET
+all by yourself?
+
+
+You! It's really
+dangerous here!
+You came to save
+me? You can't!
+
+
+Safe at last!
+Oh thank you!
+
+
+Oh ho! I smell a
+little rat!
+
+
+Lights
+out!
+
+
+You won't find my
+BOSS by just
+scurrying around!
+
+
+Heheh!
+
+You mistook me for
+a SILPH worker?
+
+
+I'm
+done!
+
+
+Despite your age,
+you are a skilled
+trainer!
+
+
+I am one of the 4
+ROCKET BROTHERS!
+
+
+Aack!
+Brothers, I lost!
+
+
+Doesn't matter.
+My brothers will
+repay the favor!
+
+
+A child intruder?
+That must be you!
+
+
+Fine!
+I lost!
+
+
+Go on home
+before my BOSS
+gets ticked off!
+
+
+SONY: What
+kept you NINTEN?
+
+
+SONY: Hahaha!
+I thought you'd
+turn up if I
+waited here!
+
+I guess TEAM
+ROCKET slowed you
+down! Not that I
+care!
+
+I saw you in
+SAFFRON, so I
+decided to see if
+you got better!
+
+
+Oh ho!
+So, you are ready
+for BOSS ROCKET!
+
+
+SONY: How can
+I put this?
+
+You're not good
+enough to play
+with us big boys!
+
+
+Well, NINTEN!
+
+I'm moving on up
+and ahead!
+
+By checking my
+POKéDEX, I'm
+starting to see
+what's strong and
+how they evolve!
+
+I'm going to the
+POKéMON LEAGUE
+to boot out the
+ELITE FOUR!
+
+I'll become the
+world's most
+powerful trainer!
+
+NINTEN, well
+good luck to you!
+Don't sweat it!
+Smell ya!
+
+
+I wonder if SILPH
+is finished...
+
+
+Thanks for saving
+us!
+
+
+That's as far as
+you'll go!
+
+
+Not
+enough grit!
+
+
+If you don't turn
+back, I'll call
+for backup!
+
+
+You're causing us
+problems!
+
+
+Huh?
+I lost?
+
+
+So, what do you
+think of SILPH
+BUILDING's maze?
+
+
+I am one of the 4
+ROCKET BROTHERS!
+
+
+Whoo!
+Oh brothers!
+
+
+I'll leave you up
+to my brothers!
+
+
+You look tired!
+You should take a
+quick nap!
+
+
+Don't give up!
+
+
+Thank you so
+much!
+
+
+Your POKéMON seem
+to adore you, kid!
+
+
+Ghaaah!
+
+
+If I had started
+as a trainer at
+your age...
+
+
+Your POKéMON have
+weak points! I
+can nail them!
+
+
+You
+hammered me!
+
+
+Exploiting weak
+spots does work!
+Think about
+element types!
+
+
+I am one of the 4
+ROCKET BROTHERS!
+
+
+Warg!
+Brothers, I lost!
+
+
+My brothers will
+avenge me!
+
+
+Waaaaa!
+I'm scared!
+
+
+Please keep quiet
+about my crying!
+
+
+Welcome to the
+10F! So good of
+you to join me!
+
+
+I'm
+stunned!
+
+
+Nice try, but the
+boardroom is up
+one more floor!
+
+
+Enough of your
+silly games!
+
+
+No
+continues left!
+
+
+Are you satisfied
+with beating me?
+Then go on home!
+
+
+PRESIDENT: Thank
+you for saving
+SILPH!
+
+I will never
+forget you saved
+us in our moment
+of peril!
+
+I have to thank
+you in some way!
+
+Because I am rich,
+I can give you
+anything!
+
+Here, maybe this
+will do!
+
+
+NINTEN got a
+{4B}!
+
+
+PRESIDENT: You
+can't buy that
+anywhere!
+
+It's our secret
+prototype MASTER
+BALL!
+
+It will catch any
+POKéMON without
+fail!
+
+You should be
+quiet about using
+it, though.
+
+
+You have no
+room for this.
+
+
+SECRETARY: Thank
+you for rescuing
+all of us!
+
+We admire your
+courage.
+
+
+Ah NINTEN!
+So we meet again!
+
+The PRESIDENT and
+I are discussing
+a vital business
+proposition.
+
+Keep your nose
+out of grown-up
+matters...
+
+Or, experience a
+world of pain!
+
+
+Arrgh!!
+I lost again!?
+
+
+Blast it all!
+You ruined our
+plans for SILPH!
+
+But, TEAM ROCKET
+will never fall!
+
+NINTEN! Never
+forget that all
+POKéMON exist
+for TEAM ROCKET!
+
+I must go, but I
+shall return!
+
+
+Stop right there!
+Don't you move!
+
+
+Don't...
+Please!
+
+
+So, you want to
+see my BOSS?
+
+
+Halt! Do you have
+an appointment
+with my BOSS?
+
+
+Gaah!
+Demolished!
+
+
+Watch your step,
+my BOSS likes his
+POKéMON tough!
+
+
+The monitor has
+POKéMON on it!
+
+
+I can't get out!
+This old place is
+one big puzzle!
+
+
+Oh no!
+My bag of loot!
+
+
+Switches open and
+close alternating
+sets of doors!
+
+
+Diary: July 5
+Guyana,
+South America
+
+A new POKéMON was
+discovered deep
+in the jungle.
+
+
+Diary: July 10
+We christened the
+newly discovered
+POKéMON, MEW.
+
+
+A secret switch!
+
+Press it?
+
+
+Who wouldn't?
+
+
+Not quite yet!
+
+
+This place is
+like, huge!
+
+
+Ayah!
+
+
+I wonder where
+my partner went.
+
+
+My mentor once
+lived here.
+
+
+Whew!
+Overwhelming!
+
+
+So, you're stuck?
+Try jumping off
+over there!
+
+
+Diary: Feb. 6
+MEW gave birth.
+
+We named the
+newborn MEWTWO.
+
+
+Uh-oh. Where am
+I now?
+
+
+Awooh!
+
+
+You can find stuff
+lying around.
+
+
+This place is
+ideal for a lab.
+
+
+What
+was that for?
+
+
+I like it here!
+It's conducive to
+my studies!
+
+
+Diary; Sept. 1
+MEWTWO is far too
+powerful.
+
+We have failed to
+curb its vicious
+tendencies...
+
+
+REST HOUSE
+
+
+TRAINER TIPS
+
+The remaining time
+declines only
+while you walk!
+
+
+CENTER AREA
+NORTH: AREA 2
+
+
+REST HOUSE
+
+
+TRAINER TIPS
+
+The SECRET HOUSE
+is still ahead!
+
+
+AREA 2
+
+
+TRAINER TIPS
+
+POKéMON hide in
+tall grass!
+
+Zigzag through
+grassy areas to
+flush them out.
+
+
+TRAINER TIPS
+
+Win a free HM for
+finding the
+SECRET HOUSE!
+
+
+REST HOUSE
+
+
+REQUEST NOTICE
+
+Please find the
+SAFARI WARDEN's
+lost GOLD TEETH.
+They're around
+here somewhere.
+
+Reward offered!
+Contact: WARDEN
+
+
+TRAINER TIPS
+
+Zone Exploration
+Campaign!
+
+The Search for
+the SECRET HOUSE!
+
+
+AREA 3
+EAST: CENTER AREA
+
+
+REST HOUSE
+
+
+TRAINER TIPS
+
+Press the START
+Button to check
+remaining time!
+
+
+SARA: Where did
+my boy friend,
+ERIK, go?
+
+
+I'm catching
+POKéMON to take
+home as gifts!
+
+
+Ah! Finally!
+
+You're the first
+person to reach
+the SECRET HOUSE!
+
+I was getting
+worried that no
+one would win our
+campaign prize.
+
+Congratulations!
+You have won!
+
+
+NINTEN received
+{4B}!
+
+
+HM03 is SURF!
+
+POKéMON will be
+able to ferry you
+across water!
+
+And, this HM isn't
+disposable! You
+can use it over
+and over!
+
+You're super lucky
+for winning this
+fabulous prize!
+
+
+You don't have
+room for this
+fabulous prize!
+
+
+Tossing ROCKs at
+POKéMON might
+make them run,
+but they'll be
+easier to catch.
+
+
+Using BAIT will
+make POKéMON
+easier to catch.
+
+
+I hiked a lot, but
+I didn't see any
+POKéMON I wanted.
+
+
+How many did you
+catch? I'm bushed
+from the work!
+
+
+I caught a
+CHANSEY!
+
+That makes this
+all worthwhile!
+
+
+Whew! I'm tired
+from all the fun!
+
+
+You can keep any
+item you find on
+the ground here.
+
+But, you'll run
+out of time if
+you try for all
+of them at once!
+
+
+Go to the deepest
+part of the
+SAFARI ZONE. You
+will win a prize!
+
+
+My EEVEE evolved
+into FLAREON!
+
+But, a friend's
+EEVEE turned into
+a VAPOREON!
+I wonder why?
+
+
+Mew!
+
+
+I wonder if you
+are good enough
+for me!
+
+
+I
+lost out!
+
+
+I never wanted to
+lose to anybody!
+
+
+I can see you're
+good! Let me see
+exactly how good!
+
+
+I
+had a chance...
+
+
+I concede, you're
+better than me!
+
+
+Ah! I heard about
+you NINTEN!
+
+I lead the ELITE
+FOUR! You can
+call me LANCE the
+dragon trainer!
+
+You know that
+dragons are
+mythical POKéMON!
+
+They're hard to
+catch and raise,
+but their powers
+are superior!
+
+They're virtually
+indestructible!
+
+Well, are you
+ready to lose?
+
+Your LEAGUE
+challenge ends
+with me, NINTEN!
+
+
+That's it!
+
+I hate to admit
+it, but you are a
+POKéMON master!
+
+
+I still can't
+believe my
+dragons lost to
+you, NINTEN!
+
+You are now the
+POKéMON LEAGUE
+champion!
+
+...Or, you would
+have been, but
+you have one more
+challenge ahead.
+
+You have to face
+another trainer!
+His name is...
+
+SONY!
+He beat the ELITE
+FOUR before you!
+
+He is the real
+POKéMON LEAGUE
+champion!
+
+
+OAK: Er-hem!
+Congratulations
+NINTEN!
+
+This floor is the
+POKéMON HALL OF
+FAME!
+
+POKéMON LEAGUE
+champions are
+honored for their
+exploits here!
+
+Their POKéMON are
+also recorded in
+the HALL OF FAME!
+
+NINTEN! You have
+endeavored hard
+to become the new
+LEAGUE champion!
+
+Congratulations,
+NINTEN, you and
+your POKéMON are
+HALL OF FAMERs!
+
+
+SONY: Hey!
+
+I was looking
+forward to seeing
+you, NINTEN!
+
+My rival should
+be strong to keep
+me sharp!
+
+While working on
+POKéDEX, I looked
+all over for
+powerful POKéMON!
+
+Not only that, I
+assembled teams
+that would beat
+any POKéMON type!
+
+And now!
+
+I'm the POKéMON
+LEAGUE champion!
+
+NINTEN! Do you
+know what that
+means?
+
+I'll tell you!
+
+I am the most
+powerful trainer
+in the world!
+
+
+NO!
+That can't be!
+You beat my best!
+
+After all that
+work to become
+LEAGUE champ?
+
+My reign is over
+already?
+It's not fair!
+
+
+Hahaha!
+I won, I won!
+
+I'm too good for
+you, NINTEN!
+
+You did well to
+even reach me,
+SONY, the
+POKéMON genius!
+
+Nice try, loser!
+Hahaha!
+
+
+Why?
+Why did I lose?
+
+I never made any
+mistakes raising
+my POKéMON...
+
+Darn it! You're
+the new POKéMON
+LEAGUE champion!
+
+Although I don't
+like to admit it.
+
+
+OAK: NINTEN!
+
+
+OAK: So, you won!
+Congratulations!
+You're the new
+POKéMON LEAGUE
+champion!
+
+You've grown up so
+much since you
+first left with
+{50}!
+
+NINTEN, you have
+come of age!
+
+
+OAK: SONY! I'm
+disappointed!
+
+I came when I
+heard you beat
+the ELITE FOUR!
+
+But, when I got
+here, you had
+already lost!
+
+SONY! Do you
+understand why
+you lost?
+
+You have forgotten
+to treat your
+POKéMON with
+trust and love!
+
+Without them, you
+will never become
+a champ again!
+
+
+OAK: NINTEN!
+
+You understand
+that your victory
+was not just your
+own doing!
+
+The bond you share
+with your POKéMON
+is marvelous!
+
+NINTEN!
+Come with me!
+
+
+Welcome to
+POKéMON LEAGUE!
+
+I am LORELEI of
+the ELITE FOUR!
+
+No one can best
+me when it comes
+to icy POKéMON!
+
+Freezing moves
+are powerful!
+
+Your POKéMON will
+be at my mercy
+when they are
+frozen solid!
+
+Hahaha!
+Are you ready?
+
+
+How
+dare you!
+
+
+You're better
+than I thought!
+Go on ahead!
+
+You only got a
+taste of POKéMON
+LEAGUE power!
+
+
+Someone's voice:
+Don't run away!
+
+
+I am BRUNO of
+the ELITE FOUR!
+
+Through rigorous
+training, people
+and POKéMON can
+become stronger!
+
+I've weight
+trained with
+my POKéMON!
+
+NINTEN!
+
+We will grind you
+down with our
+superior power!
+
+Hoo hah!
+
+
+Why?
+How could I lose?
+
+
+My job is done!
+Go face your next
+challenge!
+
+
+Someone's voice:
+Don't run away!
+
+
+I am AGATHA of
+the ELITE FOUR!
+
+OAK's taken a lot
+of interest in
+you, child!
+
+That old duff was
+once tough and
+handsome! That
+was decades ago!
+
+Now he just wants
+to fiddle with
+his POKéDEX! He's
+wrong! POKéMON
+are for fighting!
+
+NINTEN! I'll show
+you how a real
+trainer fights!
+
+
+Oh ho!
+You're something
+special, child!
+
+
+You win! I see
+what the old duff
+sees in you now!
+
+I have nothing
+else to say! Run
+along now, child!
+
+
+Someone's voice:
+Don't run away!
+
+
+Hikers leave twigs
+as trail markers.
+
+
+Ohhh!
+I did my best!
+
+
+I want to go
+home!
+
+
+Hahaha! Can you
+beat my power?
+
+
+Oops!
+Out-muscled!
+
+
+I go for power
+because I hate
+thinking!
+
+
+You have a
+POKéDEX?
+I want one too!
+
+
+Shoot!
+I'm so jealous!
+
+
+When you finish
+your POKéDEX, can
+I have it?
+
+
+Do you know about
+costume players?
+
+
+Well,
+that's that.
+
+
+Costume players
+dress up as
+POKéMON for fun.
+
+
+My POKéMON
+techniques will
+leave you crying!
+
+
+I give!
+You're a better
+technician!
+
+
+In mountains,
+you'll often find
+rock-type POKéMON.
+
+
+I don't often
+come here, but I
+will fight you.
+
+
+Oh!
+I lost!
+
+
+I like tiny
+POKéMON, big ones
+are too scary!
+
+
+Hit me with your
+best shot!
+
+
+Fired
+away!
+
+
+I'll raise my
+POKéMON to beat
+yours, kid!
+
+
+I draw POKéMON
+when I'm home.
+
+
+Whew!
+I'm exhausted!
+
+
+I'm an artist,
+not a fighter.
+
+
+Gyaoo!
+
+
+Boulders might
+change the flow
+of water!
+
+
+DANGER
+Fast current!
+
+
+{4A} with-
+drew {50}!
+
+
+{4A}
+used {6D}
+on {50}!
+
+
+{4B} went
+to {87}.
+
+
+For NINTEN's
+{4B},
+
+
+H sends
+{6D}.
+
+
+H waves
+farewell as
+
+
+{6D} is
+transferred.
+
+
+Take good care of
+{6D}.
+
+
+H will
+trade {6D}
+
+
+for NINTEN's
+{4B}.
+
+
+A slot machine!
+Want to play?
+
+
+Darn!
+Ran out of coins!
+
+
+Bet how many
+coins?
+
+
+Start!
+
+
+Not enough
+coins!
+
+
+One more
+go?
+
+
+lined up!
+Scored {4B} coins!
+
+
+Not this time!
+
+
+Yeah!
+
+
+POKéDEX Seen:{50}
+Owned:{50}
+
+POKéDEX Rating:
+
+
+{5F}
+POKéMON GYM
+LEADER: {50}
+
+WINNING TRAINERS:
+SONY
+
+
+{5F}
+POKéMON GYM
+LEADER: {50}
+
+WINNING TRAINERS:
+SONY
+NINTEN
+
+
+POKéMON CENTERs
+heal your tired,
+hurt or fainted
+POKéMON!
+
+
+Yawn!
+
+When JIGGLYPUFF
+sings, POKéMON
+get drowsy...
+
+...Me too...
+Snore...
+
+
+BILL has lots of
+POKéMON!
+
+He collects rare
+ones too!
+
+
+CUBONEs wear
+skulls, right?
+
+People will pay a
+lot for one!
+
+
+If you have too
+many POKéMON, you
+should store them
+via PC!
+
+
+I heard that
+GHOSTs haunt
+LAVENDER TOWN!
+
+
+I wish I could
+catch POKéMON.
+
+
+I'm tired from
+all the fun...
+
+
+SILPH's manager
+is hiding in the
+SAFARI ZONE.
+
+
+It is true that a
+higher level
+POKéMON will be
+more powerful...
+
+But, all POKéMON
+will have weak
+points against
+specific types.
+
+So, there is no
+universally
+strong POKéMON.
+
+
+If I had a BIKE,
+I would go to
+CYCLING ROAD!
+
+
+If you're studying
+POKéMON, visit
+the SAFARI ZONE.
+
+It has all sorts
+of rare POKéMON.
+
+
+POKéMON can still
+learn techniques
+after canceling
+evolution.
+
+Evolution can wait
+until new moves
+have been learned.
+
+
+It would be great
+if the ELITE FOUR
+came and stomped
+TEAM ROCKET!
+
+
+TEAM ROCKET took
+off! We can go
+out safely again!
+That's great!
+
+
+My sis brought me
+on this vacation!
+
+
+Crammed full of
+POKéMON books!
+
+
+A shiny new
+BICYCLE!
+
+
+Push START to
+open the MENU!
+
+
+The SAVE option is
+on the MENU
+screen.
+
+
+All POKéMON types
+have strong and
+weak points
+against others.
+
+
+PA: Ding-dong!
+
+Time's up!
+
+
+PA: Your SAFARI
+GAME is over!
+
+
+POKéMON Quiz!
+
+Get it right and
+the door opens to
+the next room!
+
+Get it wrong and
+face a trainer!
+
+If you want to
+conserve your
+POKéMON for the
+GYM LEADER...
+
+Then get it right!
+Here we go!
+
+
+CATERPIE evolves
+into BUTTERFREE?
+
+
+There are 9
+certified POKéMON
+LEAGUE BADGEs?
+
+
+POLIWAG evolves 3
+times?
+
+
+Are thunder moves
+effective against
+ground element-
+type POKéMON?
+
+
+POKéMON of the
+same kind and
+level are not
+identical?
+
+
+TM28 contains
+TOMBSTONER?
+
+
+You're absolutely
+correct!
+
+Go on through!
+
+
+Sorry! Bad call!
+
+
+POKéMON magazines!
+
+POKéMON notebooks!
+
+POKéMON graphs!
+
+
+TELEPORTER is
+displayed on the
+PC monitor.
+
+
+NINTEN initiated
+TELEPORTER's Cell
+Separator!
+
+
+BILL's favorite
+POKéMON list!
+
+
+Which POKéMON do
+you want to see?
+
+
+There's an e-mail
+message here!
+
+...
+
+Calling all
+POKéMON trainers!
+
+The elite trainers
+of POKéMON LEAGUE
+are ready to take
+on all comers!
+
+Bring your best
+POKéMON and see
+how you rate as a
+trainer!
+
+POKéMON LEAGUE HQ
+INDIGO PLATEAU
+
+PS: PROF.OAK,
+please visit us!
+...
+
+
+A COIN CASE is
+required!
+
+
+You don't have
+any coins!
+
+
+OUT OF ORDER
+This is broken.
+
+
+OUT TO LUNCH
+This is reserved.
+
+
+Someone's keys!
+They'll be back.
+
+
+Just a moment.
+
+
+It's a pamphlet
+on TMs.
+
+...
+
+There are 50 TMs
+in all.
+
+There are also 5
+HMs that can be
+used repeatedly.
+
+SILPH CO.
+
+
+Turn the page?
+
+
+GIRL: Hey! Don't
+look at my notes!
+
+
+Looked at the
+notebook!
+
+First page...
+
+POKé BALLs are
+used to catch
+POKéMON.
+
+Up to 6 POKéMON
+can be carried.
+
+People who raise
+and make POKéMON
+fight are called
+POKéMON trainers.
+
+
+Second page...
+
+A healthy POKéMON
+may be hard to
+catch, so weaken
+it first!
+
+
+Poison, burns and
+other damage are
+effective!
+
+
+Third page...
+
+POKéMON trainers
+seek others to
+engage in POKéMON
+fights.
+
+Battles are
+constantly fought
+at POKéMON GYMs.
+
+
+Fourth page...
+
+The goal for
+POKéMON trainers
+is to beat the
+top 8 POKéMON
+GYM LEADERs.
+
+Do so to earn the
+right to face...
+
+The ELITE FOUR of
+POKéMON LEAGUE!
+
+
+Enemies on every
+side!
+
+
+What goes around
+comes around!
+
+
+FIGHTING DOJO
+
+
+INDIGO PLATEAU
+POKéMON LEAGUE HQ
+
+
+NINTEN is
+playing the SNES!
+...Okay!
+It's time to go!
+
+
+Looked into the
+binoculars...
+
+A large, shining
+bird is flying
+toward the sea.
+
+
+AERODACTYL Fossil
+A primitive and
+rare POKéMON.
+
+
+KABUTOPS Fossil
+A primitive and
+rare POKéMON.
+
+
+TRAINER TIPS
+
+Using a Game Link
+Cable
+
+
+Which heading do
+you want to read?
+
+
+When you have
+linked your GAME
+BOY with another
+GAME BOY, talk to
+the attendant on
+the right in any
+POKéMON CENTER.
+
+
+COLOSSEUM lets
+you play against
+a friend.
+
+
+TRADE CENTER is
+used for trading
+POKéMON.
+
+
+The blackboard
+describes POKéMON
+STATUS changes
+during battles.
+
+
+Which heading do
+you want to read?
+
+
+A POKéMON can't
+attack if it's
+asleep!
+
+POKéMON will stay
+asleep even after
+battles.
+
+Use AWAKENING to
+wake them up!
+
+
+When poisoned, a
+POKéMON's health
+steadily drops.
+
+Poison lingers
+after battles.
+
+Use an ANTIDOTE
+to cure poison!
+
+
+Paralysis could
+make POKéMON
+moves misfire!
+
+Paralysis remains
+after battles.
+
+Use PARLYZ HEAL
+for treatment!
+
+
+A burn reduces
+power and speed.
+It also causes
+ongoing damage.
+
+Burns remain
+after battles.
+
+Use BURN HEAL to
+cure a burn!
+
+
+If frozen, a
+POKéMON becomes
+totally immobile!
+
+It stays frozen
+even after the
+battle ends.
+
+Use ICE HEAL to
+thaw out POKéMON!
+
+
+Nope, there's
+only trash here.
+
+
+Hey! There's a
+switch under the
+trash!
+Turn it on!
+
+The 1st electric
+lock opened!
+
+
+Hey! There's
+another switch
+under the trash!
+Turn it on!
+
+
+The 2nd electric
+lock opened!
+
+The motorized door
+opened!
+
+
+Nope! There's
+only trash here.
+Hey! The electric
+locks were reset!
+
+
+NINTEN found
+{6D}!
+
+But, NINTEN has
+no more room for
+other items!
+
+
+NINTEN found
+{50} coins!
+
+
+NINTEN found
+{50} coins!
+
+
+Oops! Dropped
+some coins!
+
+
+INDIGO PLATEAU
+
+
+The ultimate goal
+of trainers!
+POKéMON LEAGUE HQ
+
+
+The highest
+POKéMON authority
+POKéMON LEAGUE HQ
+
+
+Crammed full of
+POKéMON books!
+
+
+It's a sculpture
+of DIGLETT.
+
+
+This is an
+elevator.
+
+
+A TOWN MAP.
+
+
+Wow! Tons of
+POKéMON stuff!
+
+
+PA: Ding-dong!
+
+You are out of
+SAFARI BALLs!
+
+
+Wild {50}
+ran!
+
+
+Enemy {50}
+ran!
+
+
+{5A}'s
+hurt by poison!
+
+
+{5A}'s
+hurt by the burn!
+
+
+LEECH SEED saps
+{5A}!
+
+
+Enemy {50}
+fainted!
+
+
+NINTEN got ¥{50}
+for winning!
+
+
+NINTEN defeated
+{50}!
+
+
+
+fainted!
+
+
+Use next POKéMON?
+
+
+SONY: Yeah! Am
+I great or what?
+
+
+NINTEN is out of
+useable POKéMON!
+
+NINTEN blacked
+out!
+
+
+NINTEN lost to
+{50}!
+
+
+{4A} is
+about to use
+{50}!
+
+Will NINTEN
+change POKéMON?
+
+
+{4A} sent
+out {50}!
+
+
+There's no will
+to fight!
+
+
+Can't escape!
+
+
+No! There's no
+running from a
+trainer battle!
+
+
+Got away safely!
+
+
+Items can't be
+used here.
+
+
+is
+already out!
+
+
+No PP left for
+this move!
+
+
+The move is
+disabled!
+
+
+has no
+moves left!
+
+
+Hit the enemy
+{74} times!
+
+
+is too
+scared to move!
+
+
+GHOST: Get out...
+Get out...
+
+
+{5A}
+is fast asleep!
+
+
+{5A}
+woke up!
+
+
+{5A}
+is frozen solid!
+
+
+{5A}'s
+fully paralyzed!
+
+
+{5A}
+flinched!
+
+
+{5A}
+must recharge!
+
+
+{5A}'s
+disabled no more!
+
+
+{5A}
+is confused!
+
+
+It hurt itself in
+its confusion!
+
+
+{5A}'s
+confused no more!
+
+
+{5A}
+is saving energy!
+
+
+{5A}
+unleashed energy!
+
+
+{5A}'s
+thrashing about!
+
+
+{5A}'s
+attack continues!
+
+
+{5A}
+can't move!
+
+
+{5A}'s
+{6D} is
+disabled!
+
+
+{5A}
+
+
+used {50}
+
+
+used instead,
+{4B}!
+
+
+!
+
+
+!
+
+
+!
+
+
+!
+
+
+{5A}'s
+attack missed!
+
+
+{5A}
+kept going and
+crashed!
+
+
+Enemy 's
+unaffected!
+
+
+It doesn't affect
+Enemy !
+
+
+Critical hit!
+
+
+One-hit KO!
+
+
+is
+loafing around.
+
+
+began
+to nap!
+
+
+won't
+obey!
+
+
+turned
+away!
+
+
+
+ignored orders!
+
+
+The SUBSTITUTE
+took damage for
+Enemy!
+
+
+Enemy's
+SUBSTITUTE broke!
+
+
+{5A}'s
+RAGE is building!
+
+
+The MIRROR MOVE
+failed!
+
+
+Hit {50} times!
+
+
+{6D} gained
+
+
+with EXP.ALL,
+
+
+a boosted
+
+
+{4B} EXP. Points!
+
+
+{6D} grew
+to level {50}!
+
+
+Wild {50}
+appeared!
+
+
+The hooked
+{50}
+attacked!
+
+
+
+appeared!
+
+
+{4A} wants
+to fight!
+
+
+SILPH SCOPE
+unveiled the
+GHOST's identity!
+
+
+Darn! The GHOST
+can't be ID'd!
+
+
+Go!
+
+
+Do it!
+
+
+Get'm!
+
+
+The enemy's weak!
+Get'm!
+
+
+!
+
+
+{50} enough!
+
+
+{50} OK!
+
+
+{50} good!
+
+
+{50}
+Come back!
+
+
+It's super
+effective!
+
+
+It's not very
+effective...
+
+
+Wild {50}
+is eating!
+
+
+Wild {50}
+is angry!
+
+
+NINTEN picked up
+¥{50}!
+
+
+Clear all saved
+data?
+
+
+Which floor do
+you want?
+
+
+Choose a POKéMON.
+
+
+Use item on which
+POKéMON?
+
+
+Bring out which
+POKéMON?
+
+
+Use TM on which
+POKéMON?
+
+
+Move POKéMON
+where?
+
+
+{6D}
+recovered by {50}!
+
+
+{6D} was
+cured of poison!
+
+
+{6D}'s
+rid of paralysis!
+
+
+{6D}'s
+burn was healed!
+
+
+{6D} was
+defrosted!
+
+
+{6D}
+woke up!
+
+
+{6D}'s
+health returned!
+
+
+{6D}
+is revitalized!
+
+
+{6D} grew
+to level {50}!
+
+
+NINTEN turned on
+the PC.
+
+
+Accessed BILL's
+PC.
+
+Accessed POKéMON
+Storage System.
+
+
+Accessed someone's
+PC.
+
+Accessed POKéMON
+Storage System.
+
+
+Accessed my PC.
+
+Accessed Item
+Storage System.
+
+
+NINTEN turned on
+the PC.
+
+
+What do you want
+to do?
+
+
+What do you want
+to deposit?
+
+
+How many?
+
+
+{6D} was
+stored via PC.
+
+
+You have nothing
+to deposit.
+
+
+No room left to
+store items.
+
+
+What do you want
+to withdraw?
+
+
+How many?
+
+
+Withdrew
+{6D}.
+
+
+There is nothing
+stored.
+
+
+You can't carry
+any more items.
+
+
+What do you want
+to toss away?
+
+
+How many?
+
+
+Accessed POKéMON
+LEAGUE's site.
+
+Accessed the HALL
+OF FAME List.
+
+
+Switch on!
+
+
+What?
+
+
+Deposit which
+POKéMON?
+
+
+{4B} was
+stored in Box {50}.
+
+
+You can't deposit
+the last POKéMON!
+
+
+Oops! This Box is
+full of POKéMON.
+
+
+{4B} is
+taken out.
+Got {4B}.
+
+
+What? There are
+no POKéMON here!
+
+
+You can't take
+any more POKéMON.
+
+Deposit POKéMON
+first.
+
+
+Release which
+POKéMON?
+
+
+Once released,
+{4B} is
+gone forever. OK?
+
+
+{4B} was
+released outside.
+Bye {4B}!
+
+
+A COIN CASE is
+required!
+
+
+We exchange your
+coins for prizes.
+
+
+Which prize do
+you want?
+
+
+Here you go!
+
+
+So, you want
+{6D}?
+
+
+Sorry, you need
+more coins.
+
+
+Oops! You don't
+have enough room.
+
+
+Oh, fine then.
+
+
+Want to get your
+POKéDEX rated?
+
+
+Closed link to
+PROF.OAK's PC.
+
+
+Accessed PROF.
+OAK's PC.
+
+Accessed POKéDEX
+Rating System.
+
+
+Where would you
+like to go?
+
+
+OK, please wait
+just a moment.
+
+
+The link was
+canceled.
+
+
+Hello there!
+Welcome to the
+world of POKéMON!
+
+My name is OAK!
+People call me
+the POKéMON PROF!
+
+
+This world is
+inhabited by
+creatures called
+POKéMON!
+
+
+For some people,
+POKéMON are
+pets. Others use
+them for fights.
+
+Myself...
+
+I study POKéMON
+as a profession.
+
+
+First, what is
+your name?
+
+
+This is my grand-
+son. He's been
+your rival since
+you were a baby.
+
+...Erm, what is
+his name again?
+
+
+NINTEN!
+
+Your very own
+POKéMON legend is
+about to unfold!
+
+A world of dreams
+and adventures
+with POKéMON
+awaits! Let's go!
+
+
+Do you want to
+give a nickname
+to {6D}?
+
+
+Right! So your
+name is NINTEN!
+
+
+That's right! I
+remember now! His
+name is SONY!
+
+
+and
+{6D} will
+be traded.
+
+
+M9 ERROR.
+
+
+I went to ROCK
+TUNNEL, but it's
+dark and scary.
+
+If a POKéMON's
+FLASH could light
+it up...
+
+
+Many POKéMON live
+only in forests
+and caves.
+
+You need to look
+everywhere to get
+different kinds!
+
+
+Have you noticed
+the bushes on the
+roadside?
+
+They can be cut
+down by a special
+POKéMON move.
+
+
+A fainted POKéMON
+can't fight. But,
+it can still use
+moves like CUT!
+
+
+The HM FLASH
+lights even the
+darkest dungeons.
+
+
+Once a POKéMON
+learns FLASH, you
+can get through
+ROCK TUNNEL.
+
+
+Are you going to
+VIRIDIAN FOREST?
+Be careful, it's
+a natural maze!
+
+
+RATTATA may be
+small, but its
+bite is wicked!
+Did you get one?
+
+
+I've 6 POKé BALLs
+set in my belt.
+
+At most, you can
+carry 6 POKéMON.
+
+
+TEAM ROCKET
+attacks CERULEAN
+citizens...
+
+TEAM ROCKET is
+always in the
+news!
+
+
+MAN: Hello, there!
+Have I got a deal
+just for you!
+
+I'll let you have
+a swell MAGIKARP
+for just ¥500!
+What do you say?
+
+
+No? I'm only
+doing this as a
+favor to you!
+
+
+You'll need more
+money than that!
+
+
+MAN: Well, I don't
+give refunds!
+
+
+I'm on guard duty.
+Gee, I'm thirsty,
+though!
+
+Oh wait there,
+the road's closed.
+
+
+Whoa, boy!
+I'm parched!
+...
+Huh? I can have
+this drink?
+Gee, thanks!
+
+
+...
+Glug glug...
+...
+Gulp...
+If you want to go
+to SAFFRON CITY...
+...
+You can go on
+through. I'll
+share this with
+the other guards!
+
+
+Hi, thanks for
+the cool drinks!
+
+
+I run a DAYCARE.
+Would you like me
+to raise one of
+your POKéMON?
+
+
+Which POKéMON
+should I raise?
+
+
+Fine, I'll look
+after {6D}
+for a while.
+
+
+Come see me in
+a while.
+
+
+Your {6D}
+has grown a lot!
+
+By level, it's
+grown by {50}!
+
+Aren't I great?
+
+
+You owe me ¥{50}
+for the return
+of this POKéMON.
+
+
+NINTEN got
+{49} back!
+
+
+Back already?
+Your {6D}
+needs some more
+time with me.
+
+
+All right then,
+come again.
+
+
+You have no room
+for this POKéMON!
+
+
+You only have one
+POKéMON with you.
+
+
+I can't accept a
+POKéMON that
+knows an HM move.
+
+
+Thank you! Here's
+your POKéMON!
+
+
+Hey, you don't
+have enough ¥!
+
+
+People often lose
+things in that
+UNDERGROUND PATH.
+
+
+I heard a sleepy
+POKéMON appeared
+near CELADON CITY.
+
+
+I want to shop at
+the dept. store
+in CELADON but...
+
+There are so many
+rough looking
+people there.
+
+
+TEAM ROCKET had a
+secret hideout in
+CELADON CITY?
+
+
+You're here to
+shop in CELADON?
+
+Just step outside
+and head west!
+
+
+The UNDERGROUND
+PATH goes beneath
+SAFFRON and leads
+to LAVENDER.
+
+If you're heading
+to CERULEAN, go
+to the building
+across the road.
+
+
+The dept. store
+in CELADON has a
+great selection!
+
+
+The element types
+of POKéMON make
+them stronger
+than some types
+and weaker than
+others!
+
+
+I sold a useless
+NUGGET for ¥5000!
+
+
+This tunnel goes
+a long way, kid!
+
+
+Doh!
+You win!
+
+
+Watch for ONIX!
+It can put the
+squeeze on you!
+
+
+Hmm. Maybe I'm
+lost in here...
+
+
+Ease up!
+What am I doing?
+Which way is out?
+
+
+That sleeping
+POKéMON on ROUTE
+12 forced me to
+take this detour.
+
+
+Outsiders like
+you need to show
+me some respect!
+
+
+I give!
+
+
+You're talented
+enough to hike!
+
+
+POKéMON fight!
+Ready, go!
+
+
+Game
+over!
+
+
+Oh well, I'll get
+a ZUBAT as I go!
+
+
+Eek! Don't try
+anything funny in
+the dark!
+
+
+It
+was too dark!
+
+
+I saw a MACHOP
+in this tunnel!
+
+
+I came this far
+for POKéMON!
+
+
+I'm
+out of POKéMON!
+
+
+You looked cute
+and harmless!
+
+
+You have POKéMON!
+Let's start!
+
+
+You
+play hard!
+
+
+Whew! I'm all
+sweaty now!
+
+
+ROCK TUNNEL
+CERULEAN CITY -
+LAVENDER TOWN
+
+
+Bzzzt!
+
+
+Gyaoo!
+
+
+When you catch
+lots of POKéMON,
+isn't it hard to
+think up names?
+
+In LAVENDER TOWN,
+there's a man who
+rates POKéMON
+nicknames.
+
+He'll help you
+rename them too!
+
+
+There are items on
+the ground that
+can't be seen.
+
+ITEMFINDER will
+detect an item
+close to you.
+
+It can't pinpoint
+it, so you have
+to look yourself!
+
+
+Looked into the
+binoculars.
+
+A big POKéMON is
+asleep on a road!
+
+
+Looked into the
+binoculars.
+
+It's a beautiful
+view!
+
+
+Looked into the
+binoculars.
+
+The only way to
+get from CERULEAN
+CITY to LAVENDER
+is by way of the
+ROCK TUNNEL.
+
+
+What a surprise!
+DIGLETTs dug this
+long tunnel!
+
+It goes right to
+VIRIDIAN CITY!
+
+
+There's a lookout
+spot upstairs.
+
+
+My POKéMON's
+ashes are stored
+in POKéMON TOWER.
+
+You can have this
+TM. I don't need
+it any more...
+
+
+NINTEN received
+TM39!
+
+
+TM39 is a move
+called SWIFT.
+
+It's very accurate,
+so use it during
+battles you can't
+afford to lose.
+
+
+You don't have
+room for this.
+
+
+Looked into the
+binoculars.
+
+A man fishing!
+
+
+Looked into the
+binoculars.
+
+It's POKéMON TOWER!
+
+
+I'm the FISHING
+GURU's brother!
+
+I simply Looove
+fishing!
+
+Do you like to
+fish?
+
+
+Grand! I like
+your style!
+
+Take this and
+fish, young one!
+
+NINTEN received
+a {4B}!
+
+
+Fishing is a way
+of life!
+
+From the seas to
+rivers, go out
+and land the big
+one!
+
+
+Oh... That's so
+disappointing...
+
+
+Hello there,
+NINTEN!
+
+Use the SUPER ROD
+in any water!
+You can catch
+different kinds
+of POKéMON.
+
+Try fishing
+wherever you can!
+
+
+Oh no!
+
+I had a gift for
+you, but you have
+no room for it!
+
+
+Are you working
+on a POKéDEX?
+
+PROF.OAK's AIDE
+came by here.
+
+
+EXP.ALL gives
+EXP points to all
+the POKéMON with
+you, even if they
+don't fight.
+
+It does, however,
+reduce the amount
+of EXP for each
+POKéMON.
+
+If you don't need
+it, you should
+store it via PC.
+
+
+Looked into the
+binoculars.
+
+It looks like a
+small island!
+
+
+No pedestrians
+are allowed on
+CYCLING ROAD!
+
+
+CYCLING ROAD is a
+downhill course
+by the sea. It's
+a great ride.
+
+
+Excuse me! Wait
+up please!
+
+
+How'd you get in?
+Good effort!
+
+
+I'm going for a
+ride with my girl
+friend!
+
+
+We're going
+riding together!
+
+
+Looked into the
+binoculars.
+
+It's CELADON DEPT.
+STORE!
+
+
+Looked into the
+binoculars.
+
+There's a long
+path over water!
+
+
+Oh, you found my
+secret retreat!
+
+Please don't tell
+anyone I'm here.
+I'll make it up
+to you with this!
+
+
+NINTEN received
+HM02!
+
+
+HM02 is FLY.
+It will take you
+back to any town.
+
+Put it to good
+use!
+
+
+You don't have any
+room for this.
+
+
+FEAROW: Kyueen!
+
+
+You need a BICYCLE
+for CYCLING ROAD!
+
+
+CYCLING ROAD is
+all uphill from
+here.
+
+
+Excuse me!
+
+
+Looked into the
+binoculars.
+
+PALLET TOWN is in
+the west!
+
+
+Looked into the
+binoculars.
+
+There are people
+swimming!
+
+
+Only truly skilled
+trainers are
+allowed through.
+
+You don't have the
+BOULDERBADGE yet!
+
+
+The rules are
+rules. I can't
+let you pass.
+
+
+Oh! That is the
+BOULDERBADGE!
+Go right ahead!
+
+
+Gyaoo!
+
+
+VICTORY ROAD is
+the final test
+for trainers!
+
+
+Aiyah!
+
+
+If you get stuck,
+try moving some
+boulders around!
+
+
+Ah, so you wish
+to challenge the
+ELITE FOUR?
+
+
+You
+got me!
+
+
+SONY also came
+through here!
+
+
+Come on!
+I'll whip you!
+
+
+I got
+whipped!
+
+
+You earned the
+right to be on
+VICTORY ROAD!
+
+
+If you can get
+through here, you
+can go meet the
+ELITE FOUR!
+
+
+No!
+Unbelievable!
+
+
+I can beat you
+when it comes to
+knowledge about
+POKéMON!
+
+
+Is VICTORY ROAD
+too tough?
+
+
+Well
+done!
+
+
+Many trainers give
+up the challenge
+here.
+
+
+Hiya! I'm a
+POKéMON...
+...No I'm not!
+
+Call me BILL!
+I'm a true blue
+POKéMANIAC! Hey!
+What's with that
+skeptical look?
+
+I'm not joshing
+you, I screwed up
+an experiment and
+got combined with
+a POKéMON!
+
+So, how about it?
+Help me out here!
+
+
+When I'm in the
+TELEPORTER, go to
+my PC and run the
+Cell Separation
+System!
+
+
+No!? Come on, you
+gotta help a guy
+in deep trouble!
+
+What do you say,
+chief? Please?
+OK? All right!
+
+
+BILL: Yeehah!
+Thanks, bud! I
+owe you one!
+
+So, did you come
+to see my POKéMON
+collection?
+You didn't?
+That's a bummer.
+
+I've got to thank
+you... Oh here,
+maybe this'll do.
+
+
+NINTEN received
+an {4B}!
+
+
+You've got too
+much stuff, bud!
+
+
+That cruise ship,
+S.S.ANNE, is in
+VERMILION CITY.
+Its passengers
+are all trainers!
+
+They invited me
+to their party,
+but I can't stand
+fancy do's. Why
+don't you go
+instead of me?
+
+
+BILL: Look, bud,
+just check out
+some of my rare
+POKéMON on my PC!
+
+
+Hi! I work at a
+POKéMON MART.
+
+It's a convenient
+shop, so please
+visit us in
+VIRIDIAN CITY.
+
+I know, I'll give
+you a sample!
+Here you go!
+
+
+NINTEN got
+{4B}!
+
+
+We also carry
+POKé BALLs for
+catching POKéMON!
+
+
+You have too much
+stuff with you!
+
+
+See those ledges
+along the road?
+
+It's a bit scary,
+but you can jump
+from them.
+
+You can get back
+to PALLET TOWN
+quicker that way.
+
+
+ROUTE 1
+PALLET TOWN -
+VIRIDIAN CITY
+
+
+ROUTE 2
+VIRIDIAN CITY -
+PEWTER CITY
+
+
+DIGLETT's CAVE
+
+
+Whew... I better
+take a rest...
+Groan...
+
+That tunnel from
+CERULEAN takes a
+lot out of you!
+
+
+Hey! I met you in
+VIRIDIAN FOREST!
+
+
+You
+beat me again!
+
+
+There are other
+kinds of POKéMON
+than those found
+in the forest!
+
+
+Hi! I like shorts!
+They're comfy and
+easy to wear!
+
+
+I don't
+believe it!
+
+
+Are you storing
+your POKéMON on
+PC? Each BOX can
+hold 20 POKéMON!
+
+
+You looked at me,
+didn't you?
+
+
+You're
+mean!
+
+
+Quit staring if
+you don't want to
+fight!
+
+
+Are you a trainer?
+Let's fight!
+
+
+If I
+had new POKéMON I
+would've won!
+
+
+If a POKéMON BOX
+on the PC gets
+full, just switch
+to another BOX!
+
+
+That look you
+gave me, it's so
+intriguing!
+
+
+Be nice!
+
+
+Avoid fights by
+not letting
+people see you!
+
+
+Hey! You're not
+wearing shorts!
+
+
+Lost!
+Lost! Lost!
+
+
+I always wear
+shorts, even in
+winter!
+
+
+You can fight my
+new POKéMON!
+
+
+Done
+like dinner!
+
+
+Trained POKéMON
+are stronger than
+the wild ones!
+
+
+Eek! Did you
+touch me?
+
+
+That's it?
+
+
+ROUTE 4 is at the
+foot of MT.MOON.
+
+
+ROUTE 3
+MT.MOON AHEAD
+
+
+Ouch! I tripped
+over a rocky
+POKéMON, GEODUDE!
+
+
+I came to get my
+mushroom POKéMON!
+
+
+Oh! My cute
+mushroom POKéMON!
+
+
+There might not
+be any more
+mushrooms here.
+
+I think I got
+them all.
+
+
+MT.MOON
+Tunnel Entrance
+
+
+ROUTE 4
+MT.MOON -
+CERULEAN CITY
+
+
+UNDERGROUND PATH
+CERULEAN CITY -
+VERMILION CITY
+
+
+Who's there?
+Quit listening in
+on us!
+
+
+I
+just can't win!
+
+
+Whisper...
+whisper...
+
+
+Excuse me! This
+is a private
+conversation!
+
+
+Ugh!
+I hate losing!
+
+
+There aren't many
+bugs out here.
+
+
+No!
+You're kidding!
+
+
+I like bugs, so
+I'm going back to
+VIRIDIAN FOREST.
+
+
+Huh? You want
+to talk to me?
+
+
+I
+didn't start it!
+
+
+I should carry
+more POKéMON with
+me for safety.
+
+
+Me? Well, OK.
+I'll play!
+
+
+Just
+didn't work!
+
+
+I want to get
+stronger! What's
+your secret?
+
+
+I've never seen
+you around!
+Are you good?
+
+
+You
+are too good!
+
+
+Are my POKéMON
+weak? Or, am I
+just bad?
+
+
+UNDERGROUND PATH
+CERULEAN CITY -
+VERMILION CITY
+
+
+UNDERGROUND PATH
+CELADON CITY -
+LAVENDER TOWN
+
+
+You look good at
+POKéMON, but
+how's your chem?
+
+
+Ow!
+Meltdown!
+
+
+I am better at
+school than this!
+
+
+All right! Let's
+roll the dice!
+
+
+Drat!
+Came up short!
+
+
+Lady Luck's not
+with me today!
+
+
+You need strategy
+to win at this!
+
+
+It's
+not logical!
+
+
+Go with GRIMER
+first...and...
+...and...then...
+
+
+I like NIDORAN, so
+I collect them!
+
+
+Why? Why??
+
+
+When POKéMON grow
+up they get ugly!
+They shouldn't
+evolve!
+
+
+School is fun, but
+so are POKéMON.
+
+
+I'll
+stay with school.
+
+
+We're stuck here
+because of the
+gates at SAFFRON.
+
+
+MEOWTH is so cute,
+meow, meow, meow!
+
+
+Meow!
+
+
+I think PIDGEY
+and RATTATA
+are cute too!
+
+
+We must look
+silly standing
+here like this!
+
+
+Look what
+you did!
+
+
+SAFFRON's gate
+keeper won't let
+us through.
+He's so mean!
+
+
+I'm a rambling,
+gambling dude!
+
+
+Missed
+the big score!
+
+
+Gambling and
+POKéMON are like
+eating peanuts!
+Just can't stop!
+
+
+What's a cute,
+round and fluffy
+POKéMON?
+
+
+Stop!
+
+Don't be so mean
+to my CLEFAIRY!
+
+
+I heard that
+CLEFAIRY evolves
+when it's exposed
+to a MOON STONE.
+
+
+UNDERGROUND PATH
+CELADON CITY -
+LAVENDER TOWN
+
+
+You have POKéMON
+with you!
+You're mine!
+
+
+You
+deceived me!
+
+
+You need light to
+get through that
+dark tunnel ahead.
+
+
+Who's that walking
+with those good
+looking POKéMON?
+
+
+Out
+like a light!
+
+
+Keep walking!
+
+
+I'm taking ROCK
+TUNNEL to go to
+LAVENDER...
+
+
+Can't
+measure up!
+
+
+Are you off to
+ROCK TUNNEL too?
+
+
+Don't you dare
+condescend me!
+
+
+No!
+You're too much!
+
+
+You're obviously
+talented! Good
+luck to you!
+
+
+Bwahaha!
+Great! I was
+bored, eh!
+
+
+Keep it
+coming, eh!
+
+Oh wait. I'm out
+of POKéMON!
+
+
+You sure had guts
+standing up to me
+there, eh?
+
+
+Hahaha!
+Aren't you a
+little toughie!
+
+
+What's
+that?
+
+
+Hahaha! Kids
+should be tough!
+
+
+I got up early
+every day to
+raise my POKéMON
+from cocoons!
+
+
+WHAT?
+
+What a total
+waste of time!
+
+
+I have to collect
+more than bugs to
+get stronger...
+
+
+Hahahaha!
+Come on, dude!
+
+
+Hahahaha!
+You beat me fair!
+
+
+Hahahaha!
+Us hearty guys
+always laugh!
+
+
+Go, my super bug
+POKéMON!
+
+
+My
+bugs...
+
+
+If you don't like
+bug POKéMON, you
+bug me!
+
+
+ROUTE 9
+CERULEAN CITY-
+ROCK TUNNEL
+
+
+Wow, are you a
+POKéMANIAC too?
+Want to see my
+collection?
+
+
+Humph.
+I'm not angry!
+
+
+I have more rare
+POKéMON at home!
+
+
+Ha-hahah-ah-ha!
+
+
+Ha-haha!
+Not laughing!
+Ha-hay fever!
+Haha-ha-choo!
+
+
+Haha-ha-choo!
+Ha-choo!
+Snort! Snivel!
+
+
+Hi kid, want to
+see my POKéMON?
+
+
+Oh no!
+My POKéMON!
+
+
+I don't like you
+for beating me!
+
+
+I've been to a
+POKéMON GYM a few
+times. But, I
+lost each time.
+
+
+Ohh!
+Blew it again!
+
+
+I noticed some
+POKéMANIACs
+prowling around.
+
+
+Ah! This mountain
+air is delicious!
+
+
+That
+cleared my head!
+
+
+I feel bloated on
+mountain air!
+
+
+I'm feeling a bit
+faint from this
+tough hike.
+
+
+I'm
+not up to it!
+
+
+The POKéMON here
+are so chunky!
+There should be a
+pink one with a
+floral pattern!
+
+
+ROCK TUNNEL
+
+
+POWER PLANT
+
+
+Win, lose or draw!
+
+
+Atcha!
+Didn't go my way!
+
+
+POKéMON is life!
+And to live is to
+gamble!
+
+
+Competition! I
+can't get enough!
+
+
+I had
+a chance!
+
+
+You can't be a
+coward in the
+world of POKéMON!
+
+
+Let's go, but
+don't cheat!
+
+
+Huh?
+That's not right!
+
+
+I did my best! I
+have no regrets!
+
+
+Careful!
+I'm laying down
+some cables!
+
+
+That
+was electric!
+
+
+Spread the word
+to save energy!
+
+
+I just became a
+trainer! But, I
+think I can win!
+
+
+My
+POKéMON couldn't!
+
+
+What do you want?
+Leave me alone!
+
+
+Fwahaha! I have
+never lost!
+
+
+My
+first loss!
+
+
+Luck of the draw!
+Just luck!
+
+
+I have never won
+before...
+
+
+I saw
+this coming...
+
+
+It's just luck.
+Luck of the draw.
+
+
+I'm the best in
+my class!
+
+
+Darn!
+I need to make my
+POKéMON stronger!
+
+
+There's a fat
+POKéMON that
+comes down from
+the mountains.
+
+It's strong if
+you can get it.
+
+
+Watch out for
+live wires!
+
+
+Whoa!
+You spark plug!
+
+
+Well, better get
+back to work.
+
+
+My POKéMON should
+be ready by now!
+
+
+Too
+much, too young!
+
+
+I better go find
+stronger ones!
+
+
+DIGLETT's CAVE
+
+
+A sleeping POKéMON
+blocks the way!
+
+
+SNORLAX woke up!
+
+It attacked in a
+grumpy rage!
+
+
+SNORLAX calmed
+down! With a big
+yawn, it returned
+to the mountains!
+
+
+Yeah! I got a
+bite, here!
+
+
+Tch!
+Just a small fry!
+
+
+Hang on! My line's
+snagged!
+
+
+Be patient!
+Fishing is a
+waiting game!
+
+
+That
+one got away!
+
+
+With a better ROD,
+I could catch
+better POKéMON!
+
+
+Have you found a
+MOON STONE?
+
+
+Oww!
+
+
+I could have made
+my POKéMON evolve
+with MOON STONE!
+
+
+Electricity is my
+specialty!
+
+
+Unplugged!
+
+
+Water conducts
+electricity, so
+you should zap
+sea POKéMON!
+
+
+The FISHING FOOL
+vs. POKéMON KID!
+
+
+Too
+much!
+
+
+You beat me at
+POKéMON, but I'm
+good at fishing!
+
+
+I'd rather be
+working!
+
+
+It's
+not easy...
+
+
+It's all right.
+Losing doesn't
+bug me any more.
+
+
+You never know
+what you could
+catch!
+
+
+Lost
+it!
+
+
+I catch MAGIKARP
+all the time, but
+they're so weak!
+
+
+ROUTE 12
+North to LAVENDER
+
+
+SPORT FISHING AREA
+
+
+My bird POKéMON
+want to scrap!
+
+
+My
+bird combo lost?
+
+
+My POKéMON look
+happy even though
+they lost.
+
+
+I'm told I'm good
+for a kid!
+
+
+Ohh!
+I lost!
+
+
+I want to become
+a good trainer.
+I'll train hard.
+
+
+Wow! Your BADGEs
+are too cool!
+
+
+Not
+enough!
+
+
+You got those
+BADGEs from GYM
+LEADERs. I know!
+
+
+My cute POKéMON
+wish to make your
+acquaintance.
+
+
+Wow!
+You totally won!
+
+
+You have to make
+POKéMON fight to
+toughen them up!
+
+
+I found CARBOS in
+a cave once.
+
+
+Just
+messed up!
+
+
+CARBOS boosted
+the SPEED of my
+POKéMON.
+
+
+The wind's blowing
+my way!
+
+
+The
+wind turned!
+
+
+I'm beat. I guess
+I'll FLY home.
+
+
+Sure, I'll play
+with you!
+
+
+Oh!
+You little brute!
+
+
+I wonder which is
+stronger, male or
+female POKéMON?
+
+
+Do you want to
+POKéMON with me?
+
+
+It's over
+already?
+
+
+I don't know
+anything about
+POKéMON. I just
+like cool ones!
+
+
+What're you
+lookin' at?
+
+
+Dang!
+Stripped gears!
+
+
+Get lost!
+
+
+I always go with
+bird POKéMON!
+
+
+Out
+of power!
+
+
+I wish I could
+fly like PIDGEY
+and PIDGEOTTO...
+
+
+TRAINER TIPS
+
+Look to the left
+of that post!
+
+
+TRAINER TIPS
+
+Use SELECT to
+switch items in
+the ITEM window!
+
+
+ROUTE 13
+North to SILENCE
+BRIDGE
+
+
+You need to use
+TMs to teach good
+moves to POKéMON!
+
+
+Not
+good enough!
+
+
+You have some HMs
+right? POKéMON
+can't ever forget
+those moves.
+
+
+My bird POKéMON
+should be ready
+for battle.
+
+
+Not
+ready yet!
+
+
+They need to learn
+better moves.
+
+
+TMs are on sale
+in CELADON!
+But, only a few
+people have HMs!
+
+
+Aww,
+bummer!
+
+
+Teach POKéMON
+moves of the same
+element type for
+more power.
+
+
+Have you taught
+your bird POKéMON
+how to FLY?
+
+
+Shot
+down in flames!
+
+
+Bird POKéMON are
+my true love!
+
+
+Have you heard of
+the legendary
+POKéMON?
+
+
+Why?
+Why'd I lose?
+
+
+The 3 legendary
+POKéMON are all
+birds of prey.
+
+
+I'm not into it,
+but OK! Let's go!
+
+
+I
+knew it!
+
+
+Winning, losing,
+it doesn't matter
+in the long run!
+
+
+C'mon, c'mon.
+Let's go, let's
+go, let's go!
+
+
+Arrg!
+Lost! Get lost!
+
+
+What, what, what?
+What do you want?
+
+
+Perfect! I need to
+burn some time!
+
+
+What?
+You!?
+
+
+Raising POKéMON
+is a drag, man.
+
+
+We ride out here
+because there's
+more room!
+
+
+Wipe out!
+
+
+It's cool you
+made your POKéMON
+so strong!
+
+Might is right!
+And you know it!
+
+
+POKéMON fight?
+Cool! Rumble!
+
+
+Blown
+away!
+
+
+You know who'd
+win, you and me
+one on one!
+
+
+ROUTE 14
+West to FUCHSIA
+CITY
+
+
+Let me try out the
+POKéMON I just
+got in a trade!
+
+
+Not
+good enough!
+
+
+You can't change
+the nickname of
+any POKéMON you
+get in a trade.
+
+Only the Original
+Trainer can.
+
+
+You look gentle,
+so I think I can
+beat you!
+
+
+No,
+wrong!
+
+
+I'm afraid of
+BIKERs, they look
+so ugly and mean!
+
+
+When I whistle, I
+can summon bird
+POKéMON!
+
+
+Ow!
+That's tragic!
+
+
+Maybe I'm not cut
+out for battles.
+
+
+Hmm? My birds are
+shivering! You're
+good, aren't you?
+
+
+Just
+as I thought!
+
+
+Did you know moves
+like EARTHQUAKE
+don't have any
+effect on birds?
+
+
+Oh, you're a
+little cutie!
+
+
+You looked
+so cute too!
+
+
+I forgive you!
+I can take it!
+
+
+I raise POKéMON
+because I live
+alone!
+
+
+I didn't
+ask for this!
+
+
+I just like going
+home to be with
+my POKéMON!
+
+
+Hey kid! C'mon!
+I just got these!
+
+
+Why
+not?
+
+
+You only live
+once, so I live
+as an outlaw!
+TEAM ROCKET RULES!
+
+
+Fork over all your
+cash when you
+lose to me, kid!
+
+
+That
+can't be true!
+
+
+I was just joking
+about the money!
+
+
+What's cool?
+Trading POKéMON!
+
+
+I
+said trade!
+
+
+I trade POKéMON
+with my friends!
+
+
+Want to play with
+my POKéMON?
+
+
+I was
+too impatient!
+
+
+I'll go train with
+weaker people.
+
+
+ROUTE 15
+West to FUCHSIA
+CITY
+
+
+What do you want?
+
+
+Don't you
+dare laugh!
+
+
+We like just
+hanging here,
+what's it to you?
+
+
+Nice BIKE!
+Hand it over!
+
+
+Knock
+out!
+
+
+Forget it, who
+needs your BIKE!
+
+
+Come out and play,
+little mouse!
+
+
+You
+little rat!
+
+
+I hate losing!
+Get away from me!
+
+
+Hey, you just
+bumped me!
+
+
+Kaboom!
+
+
+You can also get
+to FUCHSIA from
+VERMILION using a
+coastal road.
+
+
+I'm feeling
+hungry and mean!
+
+
+Bad,
+bad, bad!
+
+
+I like my POKéMON
+ferocious! They
+tear up enemies!
+
+
+Sure, I'll go!
+
+
+Don't make
+me mad!
+
+
+I like harassing
+people with my
+vicious POKéMON!
+
+
+A sleeping POKéMON
+blocks the way!
+
+
+SNORLAX woke up!
+
+It attacked in a
+grumpy rage!
+
+
+With a big yawn,
+SNORLAX returned
+to the mountains!
+
+
+Enjoy the slope!
+CYCLING ROAD
+
+
+ROUTE 16
+CELADON CITY -
+FUCHSIA CITY
+
+
+There's no money
+in fighting kids!
+
+
+Burned
+out!
+
+
+Good stuff is
+lying around on
+CYCLING ROAD!
+
+
+What do you want,
+kiddo?
+
+
+Whoo!
+
+
+I could belly-
+bump you outta
+here!
+
+
+You heading to
+FUCHSIA?
+
+
+Crash and
+burn!
+
+
+I love racing
+downhill!
+
+
+We're BIKERs!
+Highway stars!
+
+
+Smoked!
+
+
+Are you looking
+for adventure?
+
+
+Let VOLTORB
+electrify you!
+
+
+Grounded
+out!
+
+
+I got my VOLTORB
+at the abandoned
+POWER PLANT.
+
+
+My POKéMON won't
+evolve! Why?
+
+
+Why,
+you!
+
+
+Maybe some POKéMON
+need element
+STONEs to evolve.
+
+
+I need a little
+exercise!
+
+
+Whew!
+Good workout!
+
+
+I'm sure I lost
+weight there!
+
+
+Be a rebel!
+
+
+Aaaargh!
+
+
+Be ready to fight
+for your beliefs!
+
+
+Nice BIKE!
+How's it handle?
+
+
+Shoot!
+
+
+The slope makes
+it hard to steer!
+
+
+Get lost kid!
+I'm bushed!
+
+
+Are you
+satisfied?
+
+
+I need to catch
+a few Zs!
+
+
+It's a notice!
+
+Watch out for
+discarded items!
+
+
+TRAINER TIPS
+
+All POKéMON are
+unique.
+
+Even POKéMON of
+the same type and
+level grow at
+different rates.
+
+
+TRAINER TIPS
+
+Press the A or B
+Button to stay in
+place while on a
+slope.
+
+
+ROUTE 17
+CELADON CITY -
+FUCHSIA CITY
+
+
+It's a notice!
+
+Don't throw the
+game, throw POKé
+BALLs instead!
+
+
+CYCLING ROAD
+Slope ends here!
+
+
+I always check
+every grassy area
+for new POKéMON.
+
+
+Tch!
+
+
+I wish I had a
+BIKE!
+
+
+Kurukkoo!
+How do you like
+my bird call?
+
+
+I
+had to bug you!
+
+
+I also collect sea
+POKéMON on
+weekends!
+
+
+This is my turf!
+Get out of here!
+
+
+Darn!
+
+
+This is my fave
+POKéMON hunting
+area!
+
+
+ROUTE 18
+CELADON CITY -
+FUCHSIA CITY
+
+
+CYCLING ROAD
+No pedestrians
+permitted!
+
+
+Have to warm up
+before my swim!
+
+
+All
+warmed up!
+
+
+Thanks, kid! I'm
+ready for a swim!
+
+
+Wait! You'll have
+a heart attack!
+
+
+Ooh!
+That's chilly!
+
+
+Watch out for
+TENTACOOL!
+
+
+I love swimming!
+What about you?
+
+
+Belly
+flop!
+
+
+I can beat POKéMON
+at swimming!
+
+
+What's beyond the
+horizon?
+
+
+Glub!
+
+
+I see a couple of
+islands!
+
+
+I tried diving
+for POKéMON, but
+it was a no go!
+
+
+Help!
+
+
+You have to fish
+for sea POKéMON!
+
+
+I look at the
+sea to forget!
+
+
+Ooh!
+Traumatic!
+
+
+I'm looking at the
+sea to forget!
+
+
+Oh, I just love
+your ride! Can I
+have it if I win?
+
+
+Oh!
+I lost!
+
+
+It's still a long
+way to go to
+SEAFOAM ISLANDS.
+
+
+Swimming's great!
+Sunburns aren't!
+
+
+Shocker!
+
+
+My boy friend
+wanted to swim to
+SEAFOAM ISLANDS.
+
+
+These waters are
+treacherous!
+
+
+Ooh!
+Dangerous!
+
+
+I got a cramp!
+Glub, glub...
+
+
+I swam here, but
+I'm tired.
+
+
+I'm
+exhausted...
+
+
+LAPRAS is so big,
+it must keep you
+dry on water.
+
+
+SEA ROUTE 19
+FUCHSIA CITY -
+SEAFOAM ISLANDS
+
+
+The water is
+shallow here.
+
+
+Splash!
+
+
+I wish I could
+ride my POKéMON.
+
+
+SEAFOAM is a
+quiet getaway!
+
+
+Quit it!
+
+
+There's a huge
+cavern underneath
+this island.
+
+
+I love floating
+with the fishes!
+
+
+Yowch!
+
+
+Want to float
+with me?
+
+
+Are you on
+vacation too?
+
+
+No
+mercy at all!
+
+
+SEAFOAM used to
+be one island!
+
+
+Check out my buff
+physique!
+
+
+Wimpy!
+
+
+I should've been
+buffing up my
+POKéMON, not me!
+
+
+Why are you
+riding a POKéMON?
+Can't you swim?
+
+
+Ouch!
+Torpedoed!
+
+
+Riding a POKéMON
+sure looks fun!
+
+
+I rode my bird
+POKéMON here!
+
+
+Oh
+no!
+
+
+My birds can't
+FLY me back!
+
+
+My boy friend gave
+me big pearls!
+
+
+Don't
+touch my pearls!
+
+
+Will my pearls
+grow bigger
+inside CLOYSTER?
+
+
+I swam here from
+CINNABAR ISLAND!
+
+
+I'm
+so disappointed!
+
+
+POKéMON have
+taken over an
+abandoned mansion
+on CINNABAR!
+
+
+CINNABAR, in the
+west, has a LAB
+for POKéMON.
+
+
+Wait!
+
+
+CINNABAR is a
+volcanic island!
+
+
+SEAFOAM ISLANDS
+
+
+You want to know
+if the fish are
+biting?
+
+
+Dang!
+
+
+I can't catch
+anything good!
+
+
+I got a big haul!
+Wanna go for it?
+
+
+Darn
+MAGIKARP!
+
+
+I seem to only
+catch MAGIKARP!
+
+
+The sea cleanses
+my body and soul!
+
+
+Ayah!
+
+
+I like the
+mountains too!
+
+
+What's wrong with
+me swimming?
+
+
+Cheap
+shot!
+
+
+I look like what?
+A studded inner
+tube? Get lost!
+
+
+I caught all my
+POKéMON at sea!
+
+
+Diver!!
+Down!!
+
+
+Where'd you catch
+your POKéMON?
+
+
+Right now, I'm in
+a triathlon meet!
+
+
+Pant...
+pant...pant...
+
+
+I'm beat!
+But, I still have
+the bike race and
+marathon left!
+
+
+Ahh! Feel the sun
+and the wind!
+
+
+Yow!
+I lost!
+
+
+I'm sunburnt to a
+crisp!
+
+
+Hey, don't scare
+away the fish!
+
+
+Sorry!
+I didn't mean it!
+
+
+I was just angry
+that I couldn't
+catch anything.
+
+
+Keep me company
+'til I get a hit!
+
+
+That
+burned some time.
+
+
+Oh wait! I got a
+bite! Yeah!
+
+
+SONY: Hey!
+NINTEN!
+
+You're going to
+POKéMON LEAGUE?
+
+Forget it! You
+probably don't
+have any BADGEs!
+
+The guard won't
+let you through!
+
+By the way, did
+your POKéMON
+get any stronger?
+
+
+I heard POKéMON
+LEAGUE has many
+tough trainers!
+
+I have to figure
+out how to get
+past them!
+
+You should quit
+dawdling and get
+a move on!
+
+
+Awww!
+You just lucked
+out!
+
+
+SONY: What?
+Why do I have 2
+POKéMON?
+
+You should catch
+some more too!
+
+
+SONY: What?
+NINTEN! What a
+surprise to see
+you here!
+
+So you're going to
+POKéMON LEAGUE?
+
+You collected all
+the BADGEs too?
+That's cool!
+
+Then I'll whip you
+NINTEN as a
+warm up for
+POKéMON LEAGUE!
+
+Come on!
+
+
+That loosened me
+up! I'm ready for
+POKéMON LEAGUE!
+
+NINTEN, you need
+more practice!
+
+But hey, you know
+that! I'm out of
+here. Smell ya!
+
+
+What!?
+
+I was just
+careless!
+
+
+SONY: Hahaha!
+NINTEN! That's
+your best? You're
+nowhere near as
+good as me, pal!
+
+Go train some
+more! You loser!
+
+
+POKéMON LEAGUE
+Front Gate
+
+
+You can pass here
+only if you have
+the {6D}!
+
+You don't have the
+{6D} yet!
+
+You have to have
+it to get to
+POKéMON LEAGUE!
+
+
+You can pass here
+only if you have
+the {6D}!
+
+Oh! That is the
+{6D}!
+
+
+OK then! Please,
+go right ahead!
+
+
+VICTORY ROAD GATE
+- POKéMON LEAGUE
+
+
+Congratulations!
+You beat our 5
+contest trainers!
+
+
+You just earned a
+fabulous prize!
+
+
+NINTEN received
+a {4B}!
+
+
+You don't have
+any room!
+
+
+By the way, would
+you like to join
+TEAM ROCKET?
+
+We're a group
+dedicated to evil
+using POKéMON!
+
+Want to join?
+
+Are you sure?
+
+Come on, join us!
+
+I'm telling you
+to join!
+
+OK, you need
+convincing!
+
+I'll make you an
+offer you can't
+refuse!
+
+
+Arrgh!
+You are good!
+
+
+With your ability,
+you could become
+a top leader in
+TEAM ROCKET!
+
+
+I saw your feat
+from the grass!
+
+
+I
+thought not!
+
+
+I hid because the
+people on the
+bridge scared me!
+
+
+OK! I'm No. 5!
+I'll stomp you!
+
+
+Whoa!
+Too much!
+
+
+I did my best, I
+have no regrets!
+
+
+I'm No. 4!
+Getting tired?
+
+
+I lost
+too!
+
+
+I did my best, so
+I've no regrets!
+
+
+Here's No. 3!
+I won't be easy!
+
+
+Ow!
+Stomped flat!
+
+
+I did my best, I
+have no regrets!
+
+
+I'm second!
+Now it's serious!
+
+
+How could I
+lose?
+
+
+I did my best, I
+have no regrets!
+
+
+This is NUGGET
+BRIDGE! Beat us 5
+trainers and win
+a fabulous prize!
+
+Think you got
+what it takes?
+
+
+Whoo!
+Good stuff!
+
+
+I did my best, I
+have no regrets!
+
+
+Local trainers
+come here to
+practice!
+
+
+You're
+decent.
+
+
+All POKéMON have
+weaknesses. It's
+best to raise
+different kinds.
+
+
+Dad took me to a
+great party on
+S.S.ANNE at
+VERMILION CITY!
+
+
+I'm
+not mad!
+
+
+On S.S.ANNE, I
+saw trainers from
+around the world.
+
+
+I'm a cool guy.
+I've got a girl
+friend!
+
+
+Aww,
+darn...
+
+
+Oh well. My girl
+will cheer me up.
+
+
+Hi! My boy
+friend is cool!
+
+
+I was in
+bad condition!
+
+
+I wish my guy was
+as good as you!
+
+
+I knew I had to
+fight you!
+
+
+I knew
+I'd lose too!
+
+
+If your POKéMON
+gets confused or
+falls asleep,
+switch it!
+
+
+My friend has a
+cute POKéMON.
+I'm so jealous!
+
+
+I'm
+not so jealous!
+
+
+You came from MT.
+MOON? May I have
+a CLEFAIRY?
+
+
+I just got down
+from MT.MOON,
+but I'm ready!
+
+
+You
+worked hard!
+
+
+Drat!
+A ZUBAT bit me
+back in there.
+
+
+I'm off to see a
+POKéMON collector
+at the cape!
+
+
+You
+got me.
+
+
+The collector has
+many rare kinds
+of POKéMON.
+
+
+You're going to
+see BILL? First,
+let's fight!
+
+
+You're
+something.
+
+
+The trail below
+is a shortcut to
+CERULEAN CITY.
+
+
+SEA COTTAGE
+BILL lives here!
+
+
+The file data is
+destroyed!
+
+
+Would you like to
+SAVE the game?
+
+
+NINTEN saved
+the game!
+
+
+The older file
+will be erased to
+save. Okay?
+
+
+When you change a
+POKéMON BOX, data
+will be saved.
+
+Is that okay?
+
+
+Choose a
+{*PK*MN*} BOX.
+
+
+{4B} evolved
+into {6D}!
+
+
+Huh? {4B}
+stopped evolving!
+
+
+What? {4B}
+is evolving!
+
+
+Enemy 
+fell asleep!
+
+
+Enemy 's
+already asleep!
+
+
+Enemy 
+was poisoned!
+
+
+Enemy 's
+badly poisoned!
+
+
+Enemy 
+was burned!
+
+
+Enemy 
+was frozen solid!
+
+
+Fire defrosted
+Enemy !
+
+
+{5A}'s
+{4B} greatly
+rose!
+
+
+Enemy 's
+{4B} greatly
+fell!
+
+
+{5A}
+ran from battle!
+
+
+Enemy 
+ran away scared!
+
+
+Enemy 
+was blown away!
+
+
+{5A}
+made a whirlwind!
+
+
+
+took in sunlight!
+
+
+
+lowered its head!
+
+
+
+is glowing!
+
+
+
+flew up high!
+
+
+
+dug a hole!
+
+
+Enemy 
+became confused!
+
+
+{5A}
+learned
+{6D}!
+
+
+Enemy 's
+{6D} was
+disabled!
+
+
+Nothing happened!
+
+
+No effect!
+
+
+But, it failed!
+
+
+It didn't affect
+Enemy !
+
+
+Enemy 
+is unaffected!
+
+
+Enemy 's
+paralyzed! It may
+not attack!
+
+
+It created a
+SUBSTITUTE!
+
+
+{5A}
+has a SUBSTITUTE!
+
+
+Too weak to make
+a SUBSTITUTE!
+
+
+Coins scattered
+everywhere!
+
+
+{5A}'s
+getting pumped!
+
+
+Enemy 
+was seeded!
+
+
+Enemy 
+evaded attack!
+
+
+{5A}'s
+hit with recoil!
+
+
+Converted type to
+Enemy 's!
+
+
+All STATUS changes
+are eliminated!
+
+
+{5A}
+started sleeping!
+
+
+{5A}
+fell asleep and
+became healthy!
+
+
+{5A}
+regained health!
+
+
+{5A}
+transformed into
+{50} {*:*} !
+
+
+{5A}'s
+protected against
+special attacks!
+
+
+{5A}
+gained armor!
+
+
+{5A}'s
+shrouded in mist!
+
+
+Sucked health from
+Enemy !
+
+
+Enemy 's
+dream was eaten!
+
+
+!
+
+
+!
+
+
+MOM: Right.
+All boys leave
+home some day.
+It said so on TV.
+
+PROF.OAK, next
+door, is looking
+for you.
+
+
+MOM: NINTEN!
+You should take a
+quick rest.
+
+
+MOM: Oh good!
+You and your
+POKéMON are
+looking great!
+Take care now!
+
+
+There's a movie
+on TV. Four boys
+are walking on
+railroad tracks.
+
+I better go too.
+
+
+Oops, wrong side.
+
+
+Hi NINTEN!
+SONY is out at
+Grandpa's lab.
+
+
+Grandpa asked you
+to run an errand?
+Here, this will
+help you!
+
+
+NINTEN got a
+{4B}!
+
+
+You have too much
+stuff with you.
+
+
+Use the TOWN MAP
+to find out where
+you are.
+
+
+POKéMON are living
+things! If they
+get tired, give
+them a rest!
+
+
+It's a big map!
+This is useful!
+
+
+SONY: Yo
+NINTEN! Gramps
+isn't around!
+
+
+SONY: Heh, I
+don't need to be
+greedy like you!
+
+Go ahead and
+choose, NINTEN!
+
+
+SONY: My
+POKéMON looks a
+lot stronger.
+
+
+Those are POKé
+BALLs. They
+contain POKéMON!
+
+
+So! You want the
+fire POKéMON,
+CHARMANDER?
+
+
+So! You want the
+water POKéMON,
+SQUIRTLE?
+
+
+So! You want the
+plant POKéMON,
+BULBASAUR?
+
+
+This POKéMON is
+really energetic!
+
+
+NINTEN received
+a {6D}!
+
+
+That's PROF.OAK's
+last POKéMON!
+
+
+OAK: Now, NINTEN,
+which POKéMON do
+you want?
+
+
+OAK: If a wild
+POKéMON appears,
+your POKéMON can
+fight against it!
+
+
+OAK: NINTEN,
+raise your young
+POKéMON by making
+it fight!
+
+
+OAK: Oh, NINTEN!
+
+How is my old
+POKéMON?
+
+Well, it seems to
+like you a lot.
+
+You must be
+talented as a
+POKéMON trainer!
+
+What? You have
+something for me?
+
+NINTEN delivered
+OAK's PARCEL.
+
+
+Ah! This is the
+custom POKé BALL
+I ordered!
+Thank you!
+
+
+POKéMON around the
+world wait for
+you, NINTEN!
+
+
+OAK: You can't get
+detailed data on
+POKéMON by just
+seeing them.
+
+You must catch
+them! Use these
+to capture wild
+POKéMON.
+
+NINTEN got 5
+POKé BALLs!
+
+
+When a wild
+POKéMON appears,
+it's fair game.
+
+Just throw a POKé
+BALL at it and try
+to catch it!
+
+This won't always
+work, though.
+
+A healthy POKéMON
+could escape. You
+have to be lucky!
+
+
+OAK: Come see me
+sometimes.
+
+I want to know how
+your POKéDEX is
+coming along.
+
+
+OAK: Good to see
+you! How is your
+POKéDEX coming?
+Here, let me take
+a look!
+
+
+It's encyclopedia-
+like, but the
+pages are blank!
+
+
+?
+
+
+PROF.OAK is the
+authority on
+POKéMON!
+
+Many POKéMON
+trainers hold him
+in high regard!
+
+
+SONY: Gramps!
+I'm fed up with
+waiting!
+
+
+OAK: SONY?
+Let me think...
+
+Oh, that's right,
+I told you to
+come! Just wait!
+
+Here, NINTEN!
+
+There are 3
+POKéMON here!
+
+Haha!
+
+They are inside
+the POKé BALLs.
+
+When I was young,
+I was a serious
+POKéMON trainer!
+
+In my old age, I
+have only 3 left,
+but you can have
+one! Choose!
+
+
+SONY: Hey!
+Gramps! What
+about me?
+
+
+OAK: Be patient!
+SONY, you can
+have one too!
+
+
+OAK: Hey! Don't go
+away yet!
+
+
+SONY: I'll take
+this one, then!
+
+
+SONY received
+a {6D}!
+
+
+SONY: Wait
+NINTEN!
+Let's check out
+our POKéMON!
+
+Come on, I'll take
+you on!
+
+
+WHAT?
+Unbelievable!
+I picked the
+wrong POKéMON!
+
+
+SONY: Yeah! Am
+I great or what?
+
+
+SONY: Okay!
+I'll make my
+POKéMON fight to
+toughen it up!
+
+NINTEN! Gramps!
+Smell you later!
+
+
+SONY: Gramps!
+
+
+SONY: What did
+you call me for?
+
+
+OAK: Oh right! I
+have a request
+of you two.
+
+
+On the desk there
+is my invention,
+POKéDEX!
+
+It automatically
+records data on
+POKéMON you've
+seen or caught!
+
+It's a hi-tech
+encyclopedia!
+
+
+OAK: NINTEN and
+SONY! Take
+these with you!
+
+NINTEN got
+POKéDEX from OAK!
+
+
+To make a complete
+guide on all the
+POKéMON in the
+world...
+
+That was my dream!
+
+But, I'm too old!
+I can't do it!
+
+So, I want you two
+to fulfill my
+dream for me!
+
+Get moving, you
+two!
+
+This is a great
+undertaking in
+POKéMON history!
+
+
+SONY: Alright
+Gramps! Leave it
+all to me!
+
+NINTEN, I hate to
+say it, but I
+don't need you!
+
+I know! I'll
+borrow a TOWN MAP
+from my sis!
+
+I'll tell her not
+to lend you one,
+NINTEN! Hahaha!
+
+
+I study POKéMON as
+PROF.OAK's AIDE.
+
+
+POKéDEX comp-
+letion is:
+
+{FF} POKéMON seen
+{FF} POKéMON owned
+
+PROF.OAK's
+Rating:
+
+
+You still have
+lots to do.
+Look for POKéMON
+in grassy areas!
+
+
+You're on the
+right track!
+Get a FLASH HM
+from my AIDE!
+
+
+You still need
+more POKéMON!
+Try to catch
+other species!
+
+
+Good, you're
+trying hard!
+Get an ITEMFINDER
+from my AIDE!
+
+
+Looking good!
+Go find my AIDE
+when you get 50!
+
+
+You finally got at
+least 50 species!
+Be sure to get
+EXP.ALL from my
+AIDE!
+
+
+Ho! This is geting
+even better!
+
+
+Very good!
+Go fish for some
+marine POKéMON!
+
+
+Wonderful!
+Do you like to
+collect things?
+
+
+I'm impressed!
+It must have been
+difficult to do!
+
+
+You finally got at
+least 100 species!
+I can't believe
+how good you are!
+
+
+You even have the
+evolved forms of
+POKéMON! Super!
+
+
+Excellent! Trade
+with friends to
+get some more!
+
+
+Outstanding!
+You've become a
+real pro at this!
+
+
+I have nothing
+left to say!
+You're the
+authority now!
+
+
+Your POKéDEX is
+entirely complete!
+Congratulations!
+
+
+You can use that
+PC in the corner.
+
+The receptionist
+told me. So kind!
+
+
+There's a POKéMON
+CENTER in every
+town ahead.
+
+They don't charge
+any money either!
+
+
+Okay! Say hi to
+PROF.OAK for me!
+
+
+Hey! You came from
+PALLET TOWN?
+
+
+You know PROF.
+OAK, right?
+
+His order came in.
+Will you take it
+to him?
+
+NINTEN got
+OAK's PARCEL!
+
+
+This shop sells
+many ANTIDOTEs.
+
+
+No! POTIONs are
+all sold out.
+
+
+Whew! I'm trying
+to memorize all
+my notes.
+
+
+Okay!
+
+Be sure to read
+the blackboard
+carefully!
+
+
+Coming up with
+nicknames is fun,
+but hard.
+
+Simple names are
+the easiest to
+remember.
+
+
+My Daddy loves
+POKéMON too.
+
+
+SPEARY: Tetweet!
+
+
+SPEAROW
+Name: SPEARY
+
+
+Fwahahaha! This is
+my hideout!
+
+I planned to
+resurrect TEAM
+ROCKET here!
+
+But, you have
+caught me again!
+So be it! This
+time, I'm not
+holding back!
+
+Once more, you
+shall face
+GIOVANNI, the
+greatest trainer!
+
+
+Ha!
+That was a truly
+intense fight!
+You have won!
+As proof, here is
+the EARTHBADGE!
+
+
+Having lost, I
+cannot face my
+underlings!
+TEAM ROCKET is
+finished forever!
+
+I will dedicate my
+life to the study
+of POKéMON!
+
+Let us meet again
+some day!
+Farewell!
+
+
+The EARTHBADGE
+makes POKéMON of
+any level obey!
+
+It is evidence of
+your mastery as a
+POKéMON trainer!
+
+With it, you can
+enter the POKéMON
+LEAGUE!
+
+It is my gift for
+your POKéMON
+LEAGUE challenge!
+
+
+NINTEN received
+TM27!
+
+
+TM27 is FISSURE!
+It will take out
+POKéMON with just
+one hit!
+
+I made it when I
+ran the GYM here,
+too long ago...
+
+
+You do not have
+space for this!
+
+
+Heh! You must be
+running out of
+steam by now!
+
+
+I
+ran out of gas!
+
+
+You need power to
+keep up with our
+GYM LEADER!
+
+
+Rrrroar! I'm
+working myself
+into a rage!
+
+
+Wargh!
+
+
+I'm still not
+worthy!
+
+
+POKéMON and I, we
+make wonderful
+music together!
+
+
+You are in
+perfect harmony!
+
+
+Do you know the
+identity of our
+GYM LEADER?
+
+
+Karate is the
+ultimate form of
+martial arts!
+
+
+Atcho!
+
+
+If my POKéMON
+were as good at
+Karate as I...
+
+
+The truly talented
+win with style!
+
+
+I
+lost my grip!
+
+
+The LEADER will
+scold me!
+
+
+I'm the KARATE
+KING! Your fate
+rests with me!
+
+
+Ayah!
+
+
+POKéMON LEAGUE?
+You? Don't get
+cocky!
+
+
+Your POKéMON will
+cower at the
+crack of my whip!
+
+
+Yowch!
+Whiplash!
+
+
+Wait! I was just
+careless!
+
+
+VIRIDIAN GYM was
+closed for a long
+time, but now our
+LEADER is back!
+
+
+I
+was beaten?
+
+
+You can go onto
+POKéMON LEAGUE
+only by defeating
+our GYM LEADER!
+
+
+Yo! Champ in
+making!
+
+Even I don't know
+VIRIDIAN LEADER's
+identity!
+
+This will be the
+toughest of all
+the GYM LEADERs!
+
+I heard that the
+trainers here
+like ground-type
+POKéMON!
+
+
+Blow me away!
+GIOVANNI was the
+GYM LEADER here?
+
+
+Come again!
+
+
+It's ¥50 for a
+child's ticket.
+
+Would you like to
+come in?
+
+
+Right, ¥50!
+Thank you!
+
+
+You don't have
+enough money.
+
+
+You can't sneak
+in the back way!
+
+Oh, whatever!
+Do you know what
+AMBER is?
+
+
+There's a lab
+somewhere trying
+to resurrect
+ancient POKéMON
+from AMBER.
+
+
+AMBER is fossil-
+ized tree sap.
+
+
+Please go to the
+other side!
+
+
+Take plenty of
+time to look!
+
+
+That is one
+magnificent
+fossil!
+
+
+Ssh! I think that
+this chunk of
+AMBER contains
+POKéMON DNA!
+
+It would be great
+if POKéMON could
+be resurrected
+from it!
+
+But, my colleagues
+just ignore me!
+
+So I have a favor
+to ask!
+
+Take this to a
+POKéMON LAB and
+get it examined!
+
+
+NINTEN received
+OLD AMBER!
+
+
+Ssh! Get the OLD
+AMBER checked!
+
+
+You don't have
+space for this!
+
+
+We are proud of 2
+fossils of very
+rare, prehistoric
+POKéMON!
+
+
+The AMBER is
+clear and gold!
+
+
+MOON STONE?
+
+What's so special
+about it?
+
+
+July 20, 1969!
+
+The 1st lunar
+landing!
+
+I bought a color
+TV to watch it!
+
+
+We have a space
+exhibit now.
+
+
+I want a PIKACHU!
+It's so cute!
+
+I asked my Daddy
+to catch me one!
+
+
+Yeah, a PIKACHU
+soon, I promise!
+
+
+SPACE SHUTTLE
+COLUMBIA
+
+
+Meteorite that
+fell on MT.MOON.
+(MOON STONE?)
+
+
+I'm BROCK!
+I'm PEWTER's GYM
+LEADER!
+
+I believe in rock
+hard defense and
+determination!
+
+That's why my
+POKéMON are all
+the rock-type!
+
+Do you still want
+to challenge me?
+Fine then! Show
+me your best!
+
+
+There are all
+kinds of trainers
+in the world!
+
+You appear to be
+very gifted as a
+POKéMON trainer!
+
+Go to the GYM in
+CERULEAN and test
+your abilities!
+
+
+Wait! Take this
+with you!
+
+
+NINTEN received
+TM34!
+
+
+A TM contains a
+technique that
+can be taught to
+POKéMON!
+
+A TM is good only
+once! So when you
+use one to teach
+a new technique,
+pick the POKéMON
+carefully!
+
+TM34 contains
+BIDE!
+
+Your POKéMON will
+absorb damage in
+battle then pay
+it back double!
+
+
+You don't have
+room for this!
+
+
+I took
+you for granted.
+
+As proof of your
+victory, here's
+the BOULDERBADGE!
+
+NINTEN received
+the BOULDERBADGE!
+
+
+That's an official
+POKéMON LEAGUE
+BADGE!
+
+Its bearer's
+POKéMON become
+more powerful!
+
+The technique
+FLASH can now be
+used any time!
+
+
+Stop right there,
+kid!
+
+You're still light
+years from facing
+BROCK!
+
+
+Darn!
+
+Light years isn't
+time! It measures
+distance!
+
+
+You're pretty hot,
+but not as hot
+as BROCK!
+
+
+Hiya! I can tell
+you have what it
+takes to become a
+POKéMON champ!
+
+I'm no trainer,
+but I can tell
+you how to win!
+
+Let me take you
+to the top!
+
+
+All right! Let's
+get happening!
+
+
+The 1st POKéMON
+out in a match is
+at the top of the
+POKéMON LIST!
+
+By changing the
+order of POKéMON,
+matches could be
+made easier!
+
+
+It's a free
+service! Let's
+get happening!
+
+
+Just as I thought!
+You're POKéMON
+champ material!
+
+
+NIDORAN: Bowbow!
+
+
+NIDORAN sit!
+
+
+Our POKéMON's an
+outsider, so it's
+hard to handle.
+
+An outsider is a
+POKéMON that you
+get in a trade.
+
+It grows fast, but
+it may ignore an
+unskilled trainer
+in battle!
+
+If only we had
+some BADGEs...
+
+
+A shady, old man
+got me to buy
+this really weird
+fish POKéMON!
+
+It's totally weak
+and it cost ¥500!
+
+
+Good things can
+happen if you
+raise POKéMON
+diligently, even
+the weak ones!
+
+
+POKéMON learn new
+techniques as
+they grow!
+
+But, some moves
+must be taught by
+the trainer!
+
+
+POKéMON become
+easier to catch
+when they are
+hurt or asleep!
+
+But, it's not a
+sure thing!
+
+
+What!?
+
+TEAM ROCKET is
+at MT.MOON? Huh?
+I'm on the phone!
+
+Scram!
+
+
+JIGGLYPUFF: Puu
+pupuu!
+
+
+Those miserable
+ROCKETs!
+
+Look what they
+did here!
+
+They stole a TM
+for teaching
+POKéMON how to
+DIG holes!
+
+That cost me a
+bundle, it did!
+
+
+I figure what's
+lost is lost!
+
+I decided to teach
+DIGLETT how to
+DIG without a TM!
+
+
+TEAM ROCKET must
+be trying to DIG
+their way into no
+good!
+
+
+TEAM ROCKET left
+a way out!
+
+
+My husband likes
+trading POKéMON.
+
+If you are a
+collector, would
+you please trade
+with him?
+
+
+That BILL!
+
+I heard that
+he'll do whatever
+it takes to get
+rare POKéMON!
+
+
+Have you heard
+about BILL?
+
+Everyone calls
+him a POKéMANIAC!
+
+I think people
+are just jealous
+of BILL, though.
+
+Who wouldn't want
+to boast about
+their POKéMON?
+
+
+Hi, you're a new
+face!
+
+Trainers who want
+to turn pro have
+to have a policy
+about POKéMON!
+
+What is your
+approach when you
+catch POKéMON?
+
+My policy is an
+all-out offensive
+with water-type
+POKéMON!
+
+
+TM11 teaches
+BUBBLEBEAM!
+
+Use it on an
+aquatic POKéMON!
+
+
+The CASCADEBADGE
+makes all POKéMON
+up to L30 obey!
+
+That includes
+even outsiders!
+
+There's more, you
+can now use CUT
+any time!
+
+You can CUT down
+small bushes to
+open new paths!
+
+You can also have
+my favorite TM!
+
+
+NINTEN received
+TM11!
+
+
+You better make
+room for this!
+
+
+Wow!
+You're too much!
+
+All right!
+
+You can have the
+CASCADEBADGE to
+show you beat me!
+
+
+I'm more than good
+enough for you!
+
+MISTY can wait!
+
+
+You
+overwhelmed me!
+
+
+You have to face
+other trainers to
+find out how good
+you really are.
+
+
+Splash!
+
+I'm first up!
+Let's do it!
+
+
+That
+can't be!
+
+
+MISTY is going to
+keep improving!
+
+She won't lose to
+someone like you!
+
+
+Yo! Champ in
+making!
+
+Here's my advice!
+
+The LEADER, MISTY,
+is a pro who uses
+water POKéMON!
+
+You can drain all
+their water with
+plant POKéMON!
+
+Or, zap them with
+electricity!
+
+
+You beat MISTY!
+What'd I tell ya?
+
+You and me kid,
+we make a pretty
+darn good team!
+
+
+Hi! Welcome to
+our BIKE SHOP.
+
+Have we got just
+the BIKE for you!
+
+
+It's a cool BIKE!
+Do you want it?
+
+
+Sorry! You can't
+afford it!
+
+
+Oh, that's...
+
+A BIKE VOUCHER!
+
+OK! Here you go!
+
+
+NINTEN exchanged
+the BIKE VOUCHER
+for a BICYCLE.
+
+
+Come back again
+some time!
+
+
+How do you like
+your new BICYCLE?
+
+You can take it
+on CYCLING ROAD
+and in caves!
+
+
+You better make
+room for this!
+
+
+A plain city BIKE
+is good enough
+for me!
+
+You can't put a
+shopping basket
+on an MTB!
+
+
+These BIKEs are
+cool, but they're
+way expensive!
+
+
+Wow. Your BIKE is
+really cool!
+
+
+Use REPEL to keep
+bugs and weak
+POKéMON away.
+
+Put your strongest
+POKéMON at the
+top of the list
+for best results!
+
+
+Have you seen any
+RARE CANDY?
+
+It's supposed to
+make POKéMON go
+up one level!
+
+
+POKéMON BADGEs
+are owned only by
+skilled trainers.
+
+I see you have
+at least one.
+
+Those BADGEs have
+amazing secrets!
+
+
+Now then...
+
+Which of the 8
+BADGEs should I
+describe?
+
+
+Come visit me any
+time you wish.
+
+
+The ATTACK of all
+POKéMON increases
+a little bit.
+
+It also lets you
+use FLASH any
+time you desire.
+
+
+POKéMON up to L30
+will obey you.
+
+Any higher, they
+become unruly!
+
+It also lets you
+use CUT outside
+of battle.
+
+
+The SPEED of all
+POKéMON increases
+a little bit.
+
+It also lets you
+use FLY outside
+of battle.
+
+
+POKéMON up to L50
+will obey you.
+
+Any higher, they
+become unruly!
+
+It also lets you
+use STRENGTH out-
+side of battle.
+
+
+The DEFENSE of all
+POKéMON increases
+a little bit.
+
+It also lets you
+use SURF outside
+of battle.
+
+
+POKéMON up to L70
+will obey you.
+
+Any higher, they
+become unruly!
+
+
+Your POKéMON's
+SPECIAL abilities
+increase a bit.
+
+
+All POKéMON will
+obey you!
+
+
+TEAM ROCKET will
+do anything for
+the sake of gold!
+
+
+I saw CUBONE's
+mother die trying
+to escape from
+TEAM ROCKET!
+
+
+POKéMON TOWER was
+erected in the
+memory of POKéMON
+that had died.
+
+
+Did you come to
+pay respects?
+Bless you!
+
+
+I came to pray
+for my CLEFAIRY.
+
+Sniff! I can't
+stop crying...
+
+
+My GROWLITHE...
+Why did you die?
+
+
+I am a CHANNELER!
+There are spirits
+up to mischief!
+
+
+SONY: Hey,
+NINTEN! What
+brings you here?
+Your POKéMON
+don't look dead!
+
+I can at least
+make them faint!
+Let's go, pal!
+
+
+What?
+You stinker!
+
+I took it easy on
+you too!
+
+
+SONY: Well,
+look at all your
+wimpy POKéMON!
+
+Toughen them up a
+bit more!
+
+
+How's your POKéDEX
+coming, pal?
+I just caught a
+CUBONE!
+
+I can't find the
+grown-up MAROWAK
+yet!
+
+I doubt there are
+any left! Well, I
+better get going!
+I've got a lot to
+accomplish, pal!
+
+Smell ya later!
+
+
+Even we could not
+identify the
+wayward GHOSTs!
+
+A SILPH SCOPE
+might be able to
+unmask them.
+
+
+Urrg...Awaa...
+Huhu...graa..
+
+
+Hwa!
+I'm saved!
+
+
+The GHOSTs can be
+identified by the
+SILPH SCOPE.
+
+
+Kekeke....
+Kwaaah!
+
+
+Hmm?
+What am I doing?
+
+
+Sorry! I was
+possessed!
+
+
+Be gone!
+Evil spirit!
+
+
+Whew!
+The spirit left!
+
+
+My friends were
+possessed too!
+
+
+GHOST! No!
+Kwaaah!
+
+
+Where
+is the GHOST?
+
+
+I must have been
+dreaming...
+
+
+Be cursed with
+me! Kwaaah!
+
+
+What!
+
+
+We can't crack
+the identity of
+the GHOSTs.
+
+
+Huhuhu...
+Beat me not!
+
+
+Huh?
+Who? What?
+
+
+May the departed
+souls of POKéMON
+rest in peace...
+
+
+Come, child! I
+sealed this space
+with white magic!
+
+You can rest here!
+
+
+Give...me...
+your...soul...
+
+
+Gasp!
+
+
+I was under
+possession!
+
+
+You...shall...
+join...us...
+
+
+What
+a nightmare!
+
+
+I was possessed!
+
+
+Zombies!
+
+
+Ha?
+
+
+I regained my
+senses!
+
+
+Urgah...
+Urff....
+
+
+Whoo!
+
+
+I fell to evil
+spirits despite
+my training!
+
+
+Entered purified,
+protected zone!
+
+NINTEN's POKéMON
+are fully healed!
+
+
+The GHOST was the
+restless soul of
+CUBONE's mother!
+
+
+The mother's soul
+was calmed.
+
+It departed to
+the afterlife!
+
+
+Give...me...
+blood...
+
+
+Groan!
+
+
+I feel anemic and
+weak...
+
+
+Urff... Kwaah!
+
+
+Some-
+thing fell out!
+
+
+Hair didn't fall
+out! It was an
+evil spirit!
+
+
+Ke..ke...ke...
+ke..ke...ke!!
+
+
+Keee!
+
+
+What's going on
+here?
+
+
+Be gone...
+Intruders...
+
+
+MR.FUJI: Heh? You
+came to save me?
+
+Thank you. But, I
+came here of my
+own free will.
+
+I came to calm
+the soul of
+CUBONE's mother.
+
+I think MAROWAK's
+spirit has gone
+to the afterlife.
+
+I must thank you
+for your kind
+concern!
+
+Follow me to my
+home, POKéMON
+HOUSE at the foot
+of this tower.
+
+
+What do you want?
+Why are you here?
+
+
+I give up!
+
+
+I'm not going to
+forget this!
+
+
+This old guy came
+and complained
+about us harming
+useless POKéMON!
+
+We're talking it
+over as adults!
+
+
+Please!
+No more!
+
+
+POKéMON are only
+good for making
+money!
+
+Stay out of our
+business!
+
+
+You're not saving
+anyone, kid!
+
+
+Don't
+fight us ROCKETs!
+
+
+You're not getting
+away with this!
+
+
+That's odd, MR.FUJI
+isn't here.
+Where'd he go?
+
+
+MR.FUJI had been
+praying alone for
+CUBONE's mother.
+
+
+This is really
+MR.FUJI's house.
+
+He's really kind!
+
+He looks after
+abandoned and
+orphaned POKéMON!
+
+
+It's so warm!
+POKéMON are so
+nice to hug!
+
+
+PSYDUCK: Gwappa!
+
+
+NIDORINO: Gaoo!
+
+
+MR.FUJI: NINTEN.
+
+Your POKéDEX quest
+may fail without
+love for your
+POKéMON.
+
+I think this may
+help your quest.
+
+
+NINTEN received
+a {4B}!
+
+
+Upon hearing POKé
+FLUTE, sleeping
+POKéMON will
+spring awake.
+
+It works on all
+sleeping POKéMON.
+
+
+You must make
+room for this!
+
+
+MR.FUJI: Has my
+FLUTE helped you?
+
+
+POKéMON Monthly
+Grand Prize
+Drawing!
+
+The application
+form is...
+
+Gone! It's been
+clipped out!
+
+
+I'm searching for
+items that raise
+the abilities of
+POKéMON during a
+single battle.
+
+X ATTACK, X
+DEFEND, X SPEED
+and X SPECIAL are
+what I'm after.
+
+Do you know where
+I can get them?
+
+
+You know REVIVE?
+It revives any
+fainted POKéMON!
+
+
+I found a NUGGET
+in the mountains.
+
+I thought it was
+useless, but it
+sold for ¥5000!
+
+
+CUBONE: Kyarugoo!
+
+
+I hate those
+horrible ROCKETs!
+
+That poor CUBONE's
+mother...
+
+It was killed
+trying to escape
+from TEAM ROCKET!
+
+
+The GHOST of
+POKéMON TOWER is
+gone!
+
+Someone must have
+soothed its
+restless soul!
+
+
+Hello, hello!
+I am the official
+NAME RATER!
+
+Want me to rate
+the nicknames of
+your POKéMON?
+
+
+Which POKéMON
+should I look at?
+
+
+{6D} , is it?
+That is a decent
+nickname!
+
+But, would you
+like me to give
+it a nicer name?
+
+How about it?
+
+
+Fine! What should
+we name it?
+
+
+OK! This POKéMON
+has been renamed
+{E9}!
+
+That's a better
+name than before!
+
+
+Fine! Come any
+time you like!
+
+
+{6D}, is it?
+That is a truly
+impeccable name!
+
+Take good care of
+{6D}!
+
+
+Even if they are
+the same level,
+POKéMON can have
+very different
+abilities.
+
+A POKéMON raised
+by a trainer is
+stronger than one
+in the wild.
+
+
+My POKéMON was
+poisoned! It
+fainted while we
+were walking!
+
+
+Won't you admire
+my PIKACHU's
+adorable tail?
+
+
+Humph! My PIKACHU
+is twice as cute
+as that one!
+
+
+I just love my
+SEEL!
+
+It squeals when I
+hug it!
+
+
+Oh dear!
+
+My SEEL is far
+more attractive!
+
+
+PIKACHU: Chu!
+Pikachu!
+
+
+SEEL: Kyuoo!
+
+
+I chair the
+POKéMON Fan Club!
+
+I have collected
+over 100 POKéMON!
+
+I'm very fussy
+when it comes to
+POKéMON!
+
+So...
+
+Did you come
+visit to hear
+about my POKéMON?
+
+
+Good!
+Then listen up!
+
+My favorite
+RAPIDASH...
+
+It...cute...
+lovely...smart...
+plus...amazing...
+you think so?...
+oh yes...it...
+stunning...
+kindly...
+love it!
+
+Hug it...when...
+sleeping...warm
+and cuddly...
+spectacular...
+ravishing...
+...Oops! Look at
+the time! I kept
+you too long!
+
+Thanks for hearing
+me out! I want
+you to have this!
+
+
+NINTEN received
+a {4B}!
+
+
+Exchange that for
+a BICYCLE!
+
+Don't worry, my
+FEAROW will FLY
+me anywhere!
+
+So, I don't need a
+BICYCLE!
+
+I hope you like
+cycling!
+
+
+Oh. Come back
+when you want to
+hear my story!
+
+
+Hello, NINTEN!
+
+Did you come see
+me about my
+POKéMON again?
+
+No? Too bad!
+
+
+Make room for
+this!
+
+
+Our Chairman is
+very vocal about
+POKéMON.
+
+
+Let's all listen
+politely to other
+trainers!
+
+
+If someone brags,
+brag right back!
+
+
+There are evil
+people who will
+use POKéMON for
+criminal acts.
+
+TEAM ROCKET
+traffics in rare
+POKéMON.
+
+They also abandon
+POKéMON that they
+consider not to
+be popular or
+useful.
+
+
+I think POKéMON
+can be good or
+evil. It depends
+on the trainer.
+
+
+Hey, kid! What do
+you think you're
+doing here?
+
+You won't live
+long in combat!
+That's for sure!
+
+I tell you kid,
+electric POKéMON
+saved me during
+the war!
+
+They zapped my
+enemies into
+paralysis!
+
+The same as I'll
+do to you!
+
+
+A little word of
+advice, kid!
+
+Electricity is
+sure powerful!
+
+But, it's useless
+against ground-
+type POKéMON!
+
+
+The THUNDERBADGE
+cranks up your
+POKéMON's SPEED!
+
+It also lets your
+POKéMON FLY any
+time, kid!
+
+You're special,
+kid! Take this!
+
+
+NINTEN received
+{4B}!
+
+
+TM24 contains
+THUNDERBOLT!
+
+Teach it to an
+electric POKéMON!
+
+
+Yo kid, make room
+in your pack!
+
+
+Whoa!
+
+You're the real
+deal, kid!
+
+Fine then, take
+the THUNDERBADGE!
+
+
+When I was in the
+Army, LT.SURGE
+was my strict CO!
+
+
+Stop!
+You're very good!
+
+
+The door won't
+open?
+
+LT.SURGE always
+was cautious!
+
+
+I'm a lightweight,
+but I'm good with
+electricity!
+
+
+Fried!
+
+
+OK, I'll talk!
+
+LT.SURGE said he
+hid door switches
+inside something!
+
+
+This is no place
+for kids!
+
+
+Wow!
+Surprised me!
+
+
+LT.SURGE set up
+double locks!
+Here's a hint!
+
+When you open the
+1st lock, the 2nd
+lock is right
+next to it!
+
+
+Yo! Champ in
+making!
+
+LT.SURGE has a
+nickname. People
+refer to him as
+the Lightning
+American!
+
+He's an expert on
+electric POKéMON!
+
+Birds and water
+POKéMON are at
+risk! Beware of
+paralysis too!
+
+LT.SURGE is very
+cautious!
+
+You'll have to
+break a code to
+get to him!
+
+
+Whew! That match
+was electric!
+
+
+I'm getting my
+PIDGEY to fly a
+letter to SAFFRON
+in the north!
+
+
+PIDGEY: Kurukkoo!
+
+
+Dear PIPPI, I hope
+to see you soon.
+
+I heard SAFFRON
+has problems with
+TEAM ROCKET.
+
+VERMILION appears
+to be safe.
+
+
+
+
+
+I'm the FISHING
+GURU!
+
+I simply Looove
+fishing!
+
+Do you like to
+fish?
+
+
+Grand! I like
+your style!
+
+Take this and
+fish, young one!
+
+NINTEN received
+an {4B}!
+
+
+Fishing is a way
+of life!
+
+From the seas to
+rivers, go out
+and land the big
+one, young one!
+
+
+Oh... That's so
+disappointing...
+
+
+Hello there,
+NINTEN!
+
+How are the fish
+biting?
+
+
+Oh no!
+
+You have no room
+for my gift!
+
+
+Hello! Welcome to
+CELADON DEPT.
+STORE.
+
+The board on the
+right describes
+the store layout.
+
+
+1F: SERVICE
+COUNTER
+
+2F: TRAINER'S
+MARKET
+
+3F: TV GAME SHOP
+
+4F: WISEMAN GIFTS
+
+5F: DRUG STORE
+
+ROOFTOP SQUARE:
+VENDING MACHINES
+
+
+1F: SERVICE
+COUNTER
+
+
+SUPER REPEL keeps
+weak POKéMON at
+bay...
+
+Hmm, it's a more
+powerful REPEL!
+
+
+For long outings,
+you should buy
+REVIVE.
+
+
+Top Grade Items
+for Trainers!
+
+2F: TRAINER'S
+MARKET
+
+
+Oh, hi! I finally
+finished POKéMON!
+
+Not done yet?
+This might be
+useful!
+
+
+NINTEN received
+{4B}!
+
+
+TM18 is COUNTER!
+Not like the one
+I'm leaning on,
+mind you!
+
+
+Your pack is full
+of items!
+
+
+Captured POKéMON
+are registered
+with an ID No.
+and OT, the name
+of the Original
+Trainer that
+caught it!
+
+
+All right!
+
+My buddy's going
+to trade me his
+KANGASKHAN for my
+GRAVELER!
+
+
+Come on GRAVELER!
+
+I love GRAVELER!
+I collect them!
+
+Huh?
+
+GRAVELER turned
+into a different
+POKéMON!
+
+
+You can identify
+POKéMON you got
+in trades by
+their ID Numbers!
+
+
+It's an SNES!
+
+
+An RPG! There's
+no time for that!
+
+
+A sports game!
+Dad'll like that!
+
+
+A puzzle game!
+Looks addictive!
+
+
+A fighting game!
+Looks tough!
+
+
+3F: TV GAME SHOP
+
+
+Red and Blue!
+Both are POKéMON!
+
+
+I'm getting a
+POKé DOLL for my
+girl friend!
+
+
+I heard something
+useful.
+
+You can run from
+wild POKéMON by
+distracting them
+with a POKé DOLL!
+
+
+Express yourself
+with gifts!
+
+4F: WISEMAN GIFTS
+
+Evolution Special!
+Element STONEs on
+sale now!
+
+
+Give her which
+drink?
+
+
+Yay!
+
+FRESH WATER!
+
+Thank you!
+
+You can have this
+from me!
+
+
+NINTEN received
+{4B}!
+
+
+{4B} contains
+ICE BEAM!
+
+It can freeze the
+target sometimes!
+
+
+Yay!
+
+SODA POP!
+
+Thank you!
+
+You can have this
+from me!
+
+
+NINTEN received
+{4B}!
+
+
+{4B} contains
+ROCK SLIDE!
+
+It can spook the
+target sometimes!
+
+
+Yay!
+
+LEMONADE!
+
+Thank you!
+
+You can have this
+from me!
+
+
+NINTEN received
+TM49!
+
+
+TM49 contains
+TRI ATTACK!
+
+
+You don't have
+space for this!
+
+
+No thank you!
+I'm not thirsty
+after all!
+
+
+My sister is a
+trainer, believe
+it or not.
+
+But, she's so
+immature, she
+drives me nuts!
+
+
+I'm thirsty!
+I want something
+to drink!
+
+
+I'm thirsty!
+I want something
+to drink!
+
+Give her a drink?
+
+
+ROOFTOP SQUARE:
+VENDING MACHINES
+
+
+A vending machine!
+Here's the menu!
+
+
+Oops, not enough
+money!
+
+
+{4B}
+popped out!
+
+
+There's no more
+room for stuff!
+
+
+Not thirsty!
+
+
+MEOWTH: Meow!
+
+
+My dear POKéMON
+keep me company.
+
+MEOWTH even brings
+money home!
+
+
+CLEFAIRY: Pi
+pippippi!
+
+
+NIDORAN: Kya
+kyaoo!
+
+
+CELADON MANSION
+Manager's Suite
+
+
+GAME FREAK
+Meeting Room
+
+
+Me? I'm the
+programmer!
+
+
+I'm the graphic
+artist!
+I drew you!
+
+
+I wrote the story!
+Isn't ERIKA cute?
+
+I like MISTY a
+lot too!
+
+Oh, and SABRINA,
+I like her!
+
+
+Is that right?
+
+I'm the game
+designer!
+
+Filling up your
+POKéDEX is tough,
+but don't quit!
+
+When you finish,
+come tell me!
+
+
+Wow! Excellent!
+You completed
+your POKéDEX!
+Congratulations!
+...
+
+
+It's the game
+program! Messing
+with it could bug
+out the game!
+
+
+Someone's playing
+a game instead of
+working!
+
+
+It's the script!
+Better not look
+at the ending!
+
+
+GAME FREAK
+Development Room
+
+
+I KNOW EVERYTHING!
+
+
+I know everything
+about the world
+of POKéMON in
+your GAME BOY!
+
+Get together with
+your friends and
+trade POKéMON!
+
+
+POKé FLUTE awakens
+POKéMON with a
+sound that only
+they can hear!
+
+
+I rode uphill on
+CYCLING ROAD from
+FUCHSIA!
+
+
+Hello. Lovely
+weather isn't it?
+It's so pleasant.
+
+...Oh dear...
+I must have dozed
+off. Welcome.
+
+My name is ERIKA.
+I am the LEADER
+of CELADON GYM.
+
+I teach the art of
+flower arranging.
+My POKéMON are of
+the grass-type.
+
+Oh, I'm sorry, I
+had no idea that
+you wished to
+challenge me.
+
+Very well, but I
+shall not lose.
+
+
+Oh!
+I concede defeat.
+
+You are remarkably
+strong.
+
+I must confer you
+the RAINBOWBADGE.
+
+
+You are cataloging
+POKéMON? I must
+say I'm impressed.
+
+I would never
+collect POKéMON
+if they were
+unattractive.
+
+
+The RAINBOWBADGE
+will make POKéMON
+up to L50 obey.
+
+It also allows
+POKéMON to use
+STRENGTH in and
+out of battle.
+
+Please also take
+this with you.
+
+
+NINTEN received
+{4B}!
+
+
+TM21 contains
+MEGA DRAIN.
+
+Half the damage
+it inflicts is
+drained to heal
+your POKéMON!
+
+
+You should make
+room for this.
+
+
+Hey!
+
+You are not
+allowed in here!
+
+
+You're
+too rough!
+
+
+Bleaah!
+I hope ERIKA
+wipes you out!
+
+
+I was getting
+bored.
+
+
+My
+makeup!
+
+
+Grass-type POKéMON
+are tough against
+the water-type!
+
+They also have an
+edge on rock and
+ground POKéMON!
+
+
+Aren't you the
+peeping Tom?
+
+
+I'm
+in shock!
+
+
+Oh, you weren't
+peeping? We get a
+lot of gawkers!
+
+
+Look at my grass
+POKéMON!
+
+They're so easy
+to raise!
+
+
+No!
+
+
+We only use grass-
+type POKéMON at
+our GYM!
+
+We also use them
+for making flower
+arrangements!
+
+
+Don't bring any
+bugs or fire
+POKéMON in here!
+
+
+Oh!
+You!
+
+
+Our LEADER, ERIKA,
+might be quiet,
+but she's also
+very skilled!
+
+
+Pleased to meet
+you. My hobby is
+POKéMON training.
+
+
+Oh!
+Splendid!
+
+
+I have a blind
+date coming up.
+I have to learn
+to be polite.
+
+
+Welcome to
+CELADON GYM!
+
+You better not
+underestimate
+girl power!
+
+
+Oh!
+Beaten!
+
+
+I didn't bring my
+best POKéMON!
+
+Wait 'til next
+time!
+
+
+Welcome!
+
+You can exchange
+your coins for
+fabulous prizes
+next door.
+
+
+Welcome to ROCKET
+GAME CORNER!
+
+Do you need some
+game coins?
+
+It's ¥1000 for 50
+coins. Would you
+like some?
+
+
+Thanks! Here are
+your 50 coins!
+
+
+No? Please come
+play sometime!
+
+
+You can't afford
+the coins!
+
+
+Oops! Your COIN
+CASE is full.
+
+
+You don't have a
+COIN CASE!
+
+
+Keep this quiet.
+
+It's rumored that
+this place is run
+by TEAM ROCKET.
+
+
+I think these
+machines have
+different odds.
+
+
+Kid, do you want
+to play?
+
+
+NINTEN received
+10 coins!
+
+
+You don't need my
+coins!
+
+
+Wins seem to come
+and go.
+
+
+I'm having a
+wonderful time!
+
+
+Hey!
+
+You have better
+things to do,
+champ in making!
+
+CELADON GYM's
+LEADER is ERIKA!
+She uses grass-
+type POKéMON!
+
+She might appear
+docile, but don't
+be fooled!
+
+
+They offer rare
+POKéMON that can
+be exchanged for
+your coins.
+
+But, I just can't
+seem to win!
+
+
+Games are scary!
+It's so easy to
+get hooked!
+
+
+What's up? Want
+some coins?
+
+
+NINTEN received
+20 coins!
+
+
+You have lots of
+coins!
+
+
+Darn! I need more
+coins for the
+POKéMON I want!
+
+
+Hey, what? You're
+throwing me off!
+Here are some
+coins, shoo!
+
+
+NINTEN received
+20 coins!
+
+
+You've got your
+own coins!
+
+
+The trick is to
+watch the reels
+closely!
+
+
+I'm guarding this
+poster!
+Go away, or else!
+
+
+Dang!
+
+
+Our hideout might
+be discovered! I
+better tell BOSS!
+
+
+Hey!
+
+A switch behind
+the poster!?
+Let's push it!
+
+
+Oops! Forgot the
+COIN CASE!
+
+
+POKéMON ability
+enhancers can be
+bought only here.
+
+Use CALCIUM to
+increase SPECIAL
+abilities.
+
+Use CARBOS to
+increase SPEED.
+
+
+I'm here for
+POKéMON ability
+enhancers.
+
+PROTEIN increases
+ATTACK power.
+
+IRON increases
+DEFENSE!
+
+
+5F: DRUG STORE
+
+
+I sure do fancy
+that PORYGON!
+
+But, it's hard to
+win at slots!
+
+
+I had a major
+haul today!
+
+
+Hi!
+
+We're taking a
+break now.
+
+
+My POKéMON are
+weak, so I often
+have to go to the
+DRUG STORE.
+
+
+Psst! There's a
+basement under
+the GAME CORNER.
+
+
+Munch...
+
+The man at that
+table lost it all
+at the slots.
+
+
+Go ahead! Laugh!
+
+I'm flat out
+busted!
+
+No more slots for
+me! I'm going
+straight!
+
+Here! I won't be
+needing this any-
+more!
+
+
+NINTEN received
+a {4B}!
+
+
+Make room for
+this!
+
+
+I always thought
+I was going to
+win it back...
+
+
+Hehehe! The slots
+just reel in the
+dough, big time!
+
+
+CHIEF!
+
+We just shipped
+2000 POKéMON as
+slot prizes!
+
+
+Don't touch the
+poster at the
+GAME CORNER!
+
+There's no secret
+switch behind it!
+
+
+POKéMON? No, this
+is a hotel for
+people.
+
+We're full up.
+
+
+I'm on vacation
+with my brother
+and boy friend.
+
+CELADON is such a
+pretty city!
+
+
+Why did she bring
+her brother?
+
+
+Do you have a
+SAFARI ZONE flag?
+
+What about cards
+or calendars?
+
+
+Did you try X
+SPEED? It speeds
+up a POKéMON in
+battle!
+
+
+SAFARI ZONE's
+WARDEN is old,
+but still active!
+
+All his teeth are
+false, though.
+
+
+Hmm? You've met
+BILL?
+
+He's my grandson!
+
+He always liked
+collecting things
+even as a child!
+
+
+BILL files his
+own POKéMON data
+on his PC!
+
+Did he show you?
+
+
+You can't win
+with just one
+strong POKéMON.
+
+It's tough, but
+you have to raise
+them evenly.
+
+
+There's a narrow
+trail west of
+VIRIDIAN CITY.
+
+It goes to POKéMON
+LEAGUE HQ.
+The HQ governs
+all trainers.
+
+
+WARDEN: Hif fuff
+hefifoo!
+
+Ha lof ha feef ee
+hafahi ho. Heff
+hee fwee!
+
+
+Ah howhee ho hoo!
+Eef ee hafahi ho!
+
+
+Ha? He ohay heh
+ha hoo ee haheh!
+
+
+NINTEN gave the
+GOLD TEETH to the
+WARDEN!
+
+
+The WARDEN popped
+in his teeth!
+
+
+WARDEN: Thanks,
+kid! No one could
+understand a word
+that I said.
+
+I couldn't work
+that way.
+Let me give you
+something for
+your trouble.
+
+
+NINTEN received
+{4B}!
+
+
+WARDEN: HM04
+teaches STRENGTH!
+
+It lets POKéMON
+move boulders
+when you're out-
+side of battle.
+
+Oh yes, did you
+find SECRET HOUSE
+in SAFARI ZONE?
+
+If you do, you
+win an HM!
+
+I hear it's the
+rare SURF HM.
+
+
+Your pack is
+stuffed full!
+
+
+POKéMON photos
+and fossils.
+
+
+Old POKéMON
+merchandise.
+
+
+Welcome to the
+SAFARI ZONE!
+
+
+For just ¥500,
+you can catch all
+the POKéMON you
+want in the park!
+
+Would you like to
+join the hunt?
+
+
+That'll be ¥500
+please!
+
+We only use a
+special POKé BALL
+here.
+
+NINTEN received
+30 SAFARI BALLs!
+
+
+We'll call you on
+the PA when you
+run out of time
+or SAFARI BALLs!
+
+
+OK! Please come
+again!
+
+
+Oops! Not enough
+money!
+
+
+Leaving early?
+
+
+Please return any
+SAFARI BALLs you
+have left.
+
+
+Good Luck!
+
+
+Did you get a
+good haul?
+Come again!
+
+
+Hi! Is it your
+first time here?
+
+
+SAFARI ZONE has 4
+zones in it.
+
+Each zone has
+different kinds
+of POKéMON. Use
+SAFARI BALLs to
+catch them!
+
+When you run out
+of time or SAFARI
+BALLs, it's game
+over for you!
+
+Before you go,
+open an unused
+POKéMON BOX so
+there's room for
+new POKéMON!
+
+
+Sorry, you're a
+regular here!
+
+
+KOGA: Fwahahaha!
+
+A mere child like
+you dares to
+challenge me?
+
+Very well, I
+shall show you
+true terror as a
+ninja master!
+
+You shall feel
+the despair of
+poison and sleep
+techniques!
+
+
+Humph!
+You have proven
+your worth!
+
+Here! Take the
+SOULBADGE!
+
+
+When afflicted by
+TOXIC, POKéMON
+suffer more and
+more as battle
+progresses!
+
+It will surely
+terrorize foes!
+
+
+Now that you have
+the SOULBADGE,
+the DEFENSE of
+your POKéMON
+increases!
+
+It also lets you
+SURF outside of
+battle!
+
+Ah! Take this
+too!
+
+
+NINTEN received
+{4B}!
+
+TM06 contains
+TOXIC!
+
+It is a secret
+technique over
+400 years old!
+
+
+Make space for
+this, child!
+
+
+Strength isn't
+the key for
+POKéMON!
+
+It's strategy!
+
+I'll show you how
+strategy can beat
+brute strength!
+
+
+What?
+Extraordinary!
+
+
+So, you mix brawn
+with brains?
+Good strategy!
+
+
+I wanted to become
+a ninja, so I
+joined this GYM!
+
+
+I'm done
+for!
+
+
+I will keep on
+training under
+KOGA, my ninja
+master!
+
+
+Let's see you
+beat my special
+techniques!
+
+
+You
+had me fooled!
+
+
+I like poison and
+sleep techniques,
+as they linger
+after battle!
+
+
+Stop right there!
+
+Our invisible
+walls have you
+frustrated?
+
+
+Whoa!
+He's got it!
+
+
+You impressed me!
+Here's a hint!
+
+Look very closely
+for gaps in the
+invisible walls!
+
+
+I also study the
+way of the ninja
+with master KOGA!
+
+Ninja have a long
+history of using
+animals!
+
+
+Awoo!
+
+
+I still have much
+to learn!
+
+
+Master KOGA comes
+from a long line
+of ninjas!
+
+What did you
+descend from?
+
+
+Dropped
+my balls!
+
+
+Where there is
+light, there is
+shadow!
+
+Light and shadow!
+Which do you
+choose?
+
+
+Yo! Champ in
+making!
+
+FUCHSIA GYM is
+riddled with
+invisible walls!
+
+KOGA might appear
+close, but he's
+blocked off!
+
+You have to find
+gaps in the walls
+to reach him!
+
+
+It's amazing how
+ninja can terrify
+even now!
+
+
+We nicknamed the
+WARDEN SLOWPOKE.
+
+He and SLOWPOKE
+both look vacant!
+
+
+SLOWPOKE is very
+knowledgeable
+about POKéMON!
+
+He even has some
+fossils of rare,
+extinct POKéMON!
+
+
+SLOWPOKE came in,
+but I couldn't
+understand him.
+
+I think he's got
+a speech problem!
+
+
+I'm the FISHING
+GURU's older
+brother!
+
+I simply Looove
+fishing!
+
+Do you like to
+fish?
+
+
+Grand! I like
+your style!
+
+Take this and
+fish, young one!
+
+NINTEN received
+a {4B}!
+
+
+Oh... That's so
+disappointing...
+
+
+Hello there,
+NINTEN!
+
+How are the fish
+biting?
+
+
+Oh no!
+
+You have no room
+for my gift!
+
+
+Who are you? There
+shouldn't be
+anyone here.
+
+
+Ouch!
+
+
+A key? I don't
+know what you're
+talking about.
+
+
+A secret switch!
+
+Press it?
+
+
+Who wouldn't?
+
+
+Not quite yet!
+
+
+Hah!
+
+I am BLAINE! I
+am the LEADER of
+CINNABAR GYM!
+
+My fiery POKéMON
+will incinerate
+all challengers!
+
+Hah! You better
+have BURN HEAL!
+
+
+I have
+burnt out!
+
+You have earned
+the VOLCANOBADGE!
+
+
+FIRE BLAST is the
+ultimate fire
+technique!
+
+Don't waste it on
+water POKéMON!
+
+
+Hah!
+
+The VOLCANOBADGE
+heightens the
+SPECIAL abilities
+of your POKéMON!
+
+Here, you can
+have this too!
+
+
+NINTEN received
+{4B}!
+
+
+TM38 contains
+FIRE BLAST!
+
+Teach it to fire-
+type POKéMON!
+
+CHARMELEON or
+PONYTA would be
+good bets!
+
+
+Make room for my
+gift!
+
+
+Do you know how
+hot POKéMON fire
+breath can get?
+
+
+Yow!
+Hot, hot, hot!
+
+
+Fire, or to be
+more precise,
+combustion...
+
+Blah, blah, blah,
+blah...
+
+
+I was a thief, but
+I became straight
+as a trainer!
+
+
+I
+surrender!
+
+
+I can't help
+stealing other
+people's POKéMON!
+
+
+You can't win!
+I have studied
+POKéMON totally!
+
+
+Waah!
+My studies!
+
+
+My theories are
+too complicated
+for you!
+
+
+I just like using
+fire POKéMON!
+
+
+Too hot
+to handle!
+
+
+I wish there was
+a thief POKéMON!
+I'd use that!
+
+
+I know why BLAINE
+became a trainer!
+
+
+Ow!
+
+
+BLAINE was lost
+in the mountains
+when a fiery bird
+POKéMON appeared.
+
+Its light enabled
+BLAINE to find
+his way down!
+
+
+I've been to many
+GYMs, but this is
+my favorite!
+
+
+Yowza!
+Too hot!
+
+
+Us fire POKéMON
+fans like PONYTA
+and NINETALES!
+
+
+Fire is weak
+against H2O!
+
+
+Oh!
+Snuffed out!
+
+
+Water beats fire!
+But, fire melts
+ice POKéMON!
+
+
+Yo! Champ in
+making!
+
+The hot-headed
+BLAINE is a fire
+POKéMON pro!
+
+Douse his spirits
+with water!
+
+You better take
+some BURN HEALs!
+
+
+NINTEN! You beat
+that fire brand!
+
+
+We study POKéMON
+extensively here.
+
+People often bring
+us rare POKéMON
+for examination.
+
+
+A photo of the
+LAB's founder,
+DR.FUJI!
+
+
+POKéMON LAB
+Meeting Room
+
+
+POKéMON LAB
+R-and-D Room
+
+
+POKéMON LAB
+Testing Room
+
+
+I found this very
+strange fossil in
+MT.MOON!
+
+I think it's a
+rare, prehistoric
+POKéMON!
+
+
+Tch-tch-tch!
+I made a cool TM!
+
+It can cause all
+kinds of fun!
+
+
+NINTEN received
+{4B}!
+
+
+Tch-tch-tch!
+That's the sound
+of a METRONOME!
+
+It tweaks your
+POKéMON's brain
+into using moves
+it doesn't know!
+
+
+Your pack is
+crammed full!
+
+
+EEVEE can evolve
+into 1 of 3 kinds
+of POKéMON.
+
+
+There's an e-mail
+message!
+
+...
+
+The 3 legendary
+bird POKéMON are
+ARTICUNO, ZAPDOS
+and MOLTRES.
+
+Their whereabouts
+are unknown.
+
+We plan to explore
+the cavern close
+to CERULEAN.
+
+From: POKéMON
+RESEARCH TEAM
+
+...
+
+
+An amber pipe!
+
+
+Hiya!
+
+I am important
+doctor!
+
+I study here rare
+POKéMON fossils!
+
+You! Have you a
+fossil for me?
+
+
+No! Is too bad!
+
+
+I take a little
+time!
+
+You go for walk a
+little while!
+
+
+Where were you?
+
+Your fossil is
+back to life!
+
+It was {4B}
+like I think!
+
+
+Oh! That is
+{6D} !
+
+It is fossil of
+{4B}, a
+POKéMON that is
+already extinct!
+
+My Resurrection
+Machine will make
+that POKéMON live
+again!
+
+
+So! You hurry and
+give me that!
+
+NINTEN handed
+over {6D}!
+
+
+I take a little
+time!
+
+You go for walk a
+little while!
+
+
+Aiyah! You come
+again!
+
+
+You can cancel
+evolution.
+
+When a POKéMON is
+evolving, you can
+stop it and leave
+it the way it is.
+
+
+Do you have any
+friends?
+
+POKéMON you get
+in trades grow
+very quickly.
+
+I think it's
+worth a try!
+
+
+Don't they have X
+ATTACK? It's good
+for battles!
+
+
+It never hurts to
+have extra items!
+
+
+Yo! Champ in
+making!
+
+At POKéMON LEAGUE,
+you have to face
+the ELITE FOUR in
+succession.
+
+If you lose, you
+have to start all
+over again! This
+is it! Go for it!
+
+
+From here on, you
+face the ELITE
+FOUR one by one!
+
+If you win, a
+door opens to the
+next trainer!
+Good luck!
+
+
+My daughter is so
+self-centered.
+She only has a
+few friends.
+
+
+My daughter likes
+to mimic people.
+
+Her mimicry has
+earned her the
+nickname COPYCAT
+around here!
+
+
+CHANSEY: Chaan!
+Sii!
+
+
+NINTEN: Hi! Do
+you like POKéMON?
+
+NINTEN: Uh no, I
+just asked you.
+
+NINTEN: Huh?
+You're strange!
+
+COPYCAT: Hmm?
+Quit mimicking?
+
+But, that's my
+favorite hobby!
+
+
+Oh wow!
+A POKé DOLL!
+
+For me?
+Thank you!
+
+You can have
+this, then!
+
+
+NINTEN received
+{4B}!
+
+TM31 contains my
+favorite, MIMIC!
+
+Use it on a good
+POKéMON!
+
+
+NINTEN: Hi!
+Thanks for TM31!
+
+NINTEN: Pardon?
+
+NINTEN: Is it
+that fun to mimic
+my every move?
+
+COPYCAT: You bet!
+It's a scream!
+
+
+Don't you want
+this?
+
+
+DODUO: Giiih!
+
+MIRROR MIRROR ON
+THE WALL, WHO IS
+THE FAIREST ONE
+OF ALL?
+
+
+This is a rare
+POKéMON! Huh?
+It's only a doll!
+
+
+A game with MARIO
+wearing a bucket
+on his head!
+
+
+...
+
+My Secrets!
+
+Skill: Mimicry!
+Hobby: Collecting
+dolls!
+Favorite POKéMON:
+CLEFAIRY!
+
+
+Huh? Can't see!
+
+
+Grunt!
+
+I am the KARATE
+MASTER! I am the
+LEADER here!
+
+You wish to
+challenge us?
+Expect no mercy!
+
+Fwaaa!
+
+
+Hwa!
+Arrgh! Beaten!
+
+
+Indeed, I have
+lost!
+
+But, I beseech
+you, do not take
+our emblem as
+your trophy!
+
+In return, I will
+give you a prized
+fighting POKéMON!
+
+Choose whichever
+one you like!
+
+
+Ho!
+
+Stay and train at
+Karate with us!
+
+
+Hoargh! Take your
+shoes off!
+
+
+I give
+up!
+
+
+You wait 'til you
+see our Master!
+
+I'm a small fry
+compared to him!
+
+
+I hear you're
+good! Show me!
+
+
+Judge!
+1 point!
+
+
+Our Master is a
+pro fighter!
+
+
+Nothing tough
+frightens me!
+
+I break boulders
+for training!
+
+
+Yow!
+Stubbed fingers!
+
+
+The only thing
+that frightens us
+is psychic power!
+
+
+Hoohah!
+
+You're trespassing
+in our FIGHTING
+DOJO!
+
+
+Oof!
+I give up!
+
+
+The prime fighters
+across the land
+train here.
+
+
+You want the
+hard kicking
+HITMONLEE?
+
+
+You want the
+piston punching
+HITMONCHAN?
+
+
+Better not get
+greedy...
+
+
+I had a vision of
+your arrival!
+
+I have had psychic
+powers since I
+was a child.
+
+I first learned
+to bend spoons
+with my mind.
+
+I dislike fight-
+ing, but if you
+wish, I will show
+you my powers!
+
+
+I'm
+shocked!
+But, a loss is a
+loss.
+
+I admit I didn't
+work hard enough
+to win!
+
+You earned the
+MARSHBADGE!
+
+
+Everyone has
+psychic power!
+People just don't
+realize it!
+
+
+The MARSHBADGE
+makes POKéMON up
+to L70 obey you!
+
+Stronger POKéMON
+will become wild,
+ignoring your
+orders in battle!
+
+Just don't raise
+your POKéMON too
+much!
+
+Wait, please take
+this TM with you!
+
+
+NINTEN received
+TM46!
+
+
+TM46 is PSYWAVE!
+It uses powerful
+psychic waves to
+inflict damage!
+
+
+Your pack is full
+of other items!
+
+
+Yo! Champ in
+making!
+
+SABRINA's POKéMON
+use psychic power
+instead of force!
+
+Fighting POKéMON
+are weak against
+psychic POKéMON!
+
+They get creamed
+before they can
+even aim a punch!
+
+
+Psychic power,
+huh?
+
+If I had that,
+I'd make a bundle
+at the slots!
+
+
+SABRINA is younger
+than I, but I
+respect her!
+
+
+Not
+good enough!
+
+
+In a battle of
+equals, the one
+with the stronger
+will wins!
+
+If you wish
+to beat SABRINA,
+focus on winning!
+
+
+Does our unseen
+power scare you?
+
+
+I never
+foresaw this!
+
+
+Psychic POKéMON
+fear only ghosts
+and bugs!
+
+
+POKéMON take on
+the appearance of
+their trainers.
+
+Your POKéMON must
+be tough, then!
+
+
+I knew
+it!
+
+
+I must teach
+better techniques
+to my POKéMON!
+
+
+You know that
+power alone isn't
+enough!
+
+
+I don't
+believe this!
+
+
+SABRINA just wiped
+out the KARATE
+MASTER next door!
+
+
+You and I, our
+POKéMON shall
+fight!
+
+
+I lost
+after all!
+
+
+I knew that this
+was going to take
+place.
+
+
+SABRINA is young,
+but she's also
+our LEADER!
+
+You won't reach
+her easily!
+
+
+I lost
+my concentration!
+
+
+There used to be
+2 POKéMON GYMs in
+SAFFRON.
+
+The FIGHTING DOJO
+next door lost
+its GYM status
+when we went and
+creamed them!
+
+
+SAFFRON POKéMON
+GYM is famous for
+its psychics!
+
+You want to see
+SABRINA!
+I can tell!
+
+
+Arrrgh!
+
+
+That's right! I
+used telepathy to
+read your mind!
+
+
+Thank you for
+writing. I hope
+to see you soon!
+
+Hey! Don't look
+at my letter!
+
+
+PIDGEY: Kurukkoo!
+
+
+The COPYCAT is
+cute! I'm getting
+her a POKé DOLL!
+
+
+I was given a PP
+UP as a gift.
+
+It's used for
+increasing the PP
+of techniques!
+
+
+MAX REPEL lasts
+longer than SUPER
+REPEL for keeping
+weaker POKéMON
+away!
+
+
+REVIVE is costly,
+but it revives
+fainted POKéMON!
+
+
+Welcome!
+
+The PRESIDENT is
+in the boardroom
+on 11F!
+
+
+POKéMON growth
+rates differ from
+specie to specie.
+
+
+SILPH CO. is very
+famous. That's
+why it attracted
+TEAM ROCKET!
+
+
+...Wait! Don't
+say a word!
+
+You wanted this!
+
+
+NINTEN received
+{4B}!
+
+
+TM29 is PSYCHIC!
+
+It can lower the
+target's SPECIAL
+abilities.
+
+
+Where do you plan
+to put this?
+
+
+Hi there!
+May I help you?
+
+
+{6D}
+fainted!
+
+
+NINTEN is out of
+useable POKéMON!
+
+NINTEN blacked
+out!
+
+
+REPEL's effect
+wore off.
+
+
+Take your time.
+
+
+{4B}?
+That will be
+¥{50}. OK?
+
+
+Here you are!
+Thank you!
+
+
+You don't have
+enough money.
+
+
+You can't carry
+any more items.
+
+
+What would you
+like to sell?
+
+
+I can pay you
+¥{50} for that.
+
+
+You don't have
+anything to sell.
+
+
+I can't put a
+price on that.
+
+
+Thank you!
+
+
+Is there anything
+else I can do?
+
+
+learned
+{4B}!
+
+
+Which move should
+be forgotten?
+
+
+Abandon learning
+{4B}?
+
+
+
+did not learn
+{4B}!
+
+
+is
+trying to learn
+{4B}!
+
+But, {50}
+can't learn more
+than 4 moves!
+
+Delete an older
+move to make room
+for {4B}?
+
+
+1, 2 and...
+
+
+Poof!
+
+
+{51} forgot
+{6D}!
+
+And...
+
+
+HM techniques
+can't be deleted!
+
+
+Welcome to our
+POKéMON CENTER!
+
+We heal your
+POKéMON back to
+perfect health!
+
+
+Shall we heal your
+POKéMON?
+
+
+OK. We'll need
+your POKéMON.
+
+
+Thank you!
+Your POKéMON are
+fighting fit!
+
+
+We hope to see
+you again!
+
+
+This area is
+reserved for 2
+friends who are
+linked by cable.
+
+
+Welcome to the
+Cable Club!
+
+
+Please apply here.
+
+Before opening
+the link, we have
+to save the game.
+
+
+Please wait.
+
+
+The link has been
+closed because of
+inactivity.
+
+Please contact
+your friend and
+come again!
+
+
+Please come again!
+
+
+We're making
+preparations.
+Please wait.
+
+
+{6D} used
+STRENGTH.
+
+
+{6D} can
+move boulders.
+
+
+The current is
+much too fast!
+
+
+Cycling is fun!
+Forget SURFing!
+
+
+A blinding FLASH
+lights the area!
+
+
+Warp to the last
+POKéMON CENTER.
+
+
+{6D} can't
+use TELEPORT now.
+
+
+{6D} can't
+FLY here.
+
+
+Not healthy
+enough.
+
+
+No! A new BADGE
+is required.
+
+
+You can't use items
+here.
+
+
+You can't get off
+here.
+
+
+NINTEN got
+{6D}!
+
+
+There's no more
+room for POKéMON!
+{50} was
+sent to POKéMON
+BOX {4B} on PC!
+
+
+There's no more
+room for POKéMON!
+
+The POKéMON BOX
+is full and can't
+accept any more!
+
+Change the BOX at
+a POKéMON CENTER!
+
+
+OAK: Hey! Wait!
+Don't go out!
+
+
+OAK: It's unsafe!
+Wild POKéMON live
+in tall grass!
+
+You need your own
+POKéMON for your
+protection.
+I know!
+
+Here, come with
+me!
+
+
+I'm raising
+POKéMON too!
+
+When they get
+strong, they can
+protect me!
+
+
+Technology is
+incredible!
+
+You can now store
+and recall items
+and POKéMON as
+data via PC!
+
+
+OAK POKéMON
+RESEARCH LAB
+
+
+PALLET TOWN
+Shades of your
+journey await!
+
+
+NINTEN's house
+
+
+SONY's house
+
+
+Those POKé BALLs
+at your waist!
+You have POKéMON!
+
+It's great that
+you can carry and
+use POKéMON any
+time, anywhere!
+
+
+This POKéMON GYM
+is always closed.
+
+I wonder who the
+LEADER is?
+
+
+VIRIDIAN GYM's
+LEADER returned!
+
+
+You want to know
+about the 2 kinds
+of caterpillar
+POKéMON?
+
+
+Oh, OK then!
+
+
+CATERPIE has no
+poison, but
+WEEDLE does.
+
+Watch out for its
+POISON STING!
+
+
+Oh Grandpa! Don't
+be so mean!
+He hasn't had his
+coffee yet.
+
+
+When I go shop in
+PEWTER CITY, I
+have to take the
+winding trail in
+VIRIDIAN FOREST.
+
+
+You can't go
+through here!
+
+This is private
+property!
+
+
+Yawn!
+I must have dozed
+off in the sun.
+
+I had this dream
+about a DROWZEE
+eating my dream.
+What's this?
+Where did this TM
+come from?
+
+This is spooky!
+Here, you can
+have this TM.
+
+
+NINTEN received
+TM42!
+
+
+TM42 contains
+DREAM EATER...
+...Snore...
+
+
+You have too much
+stuff already.
+
+
+Ahh, I've had my
+coffee now and I
+feel great!
+
+Sure you can go
+through!
+
+Are you in a
+hurry?
+
+
+I see you're using
+a POKéDEX.
+
+When you catch a
+POKéMON, POKéDEX
+is automatically
+updated.
+
+What? Don't you
+know how to catch
+POKéMON?
+
+I'll show you
+how to then.
+
+
+Time is money...
+Go along then.
+
+
+First, you need
+to weaken the
+target POKéMON.
+
+
+VIRIDIAN CITY
+The Eternally
+Green Paradise
+
+
+TRAINER TIPS
+
+Catch POKéMON
+and expand your
+collection!
+
+The more you have,
+the easier it is
+to fight!
+
+
+TRAINER TIPS
+
+The battle moves
+of POKéMON are
+limited by their
+POWER POINTs, PP.
+
+To replenish PP,
+rest your tired
+POKéMON at a
+POKéMON CENTER!
+
+
+VIRIDIAN CITY
+POKéMON GYM
+
+
+The GYM's doors
+are locked...
+
+
+It's rumored that
+CLEFAIRYs came
+from the moon!
+
+They appeared
+after MOON STONE
+fell on MT.MOON.
+
+
+There aren't many
+serious POKéMON
+trainers here!
+
+They're all like
+BUG CATCHERs,
+but PEWTER GYM's
+BROCK is totally
+into it!
+
+
+Did you check out
+the MUSEUM?
+
+
+Weren't those
+fossils from MT.
+MOON amazing?
+
+
+Really?
+You absolutely
+have to go!
+
+
+It's right here!
+You have to pay
+to get in, but
+it's worth it!
+See you around!
+
+
+Psssst!
+Do you know what
+I'm doing?
+
+
+That's right!
+It's hard work!
+
+
+I'm spraying REPEL
+to keep POKéMON
+out of my garden!
+
+
+You're a trainer
+right? BROCK's
+looking for new
+challengers!
+Follow me!
+
+
+If you have the
+right stuff, go
+take on BROCK!
+
+
+TRAINER TIPS
+
+Any POKéMON that
+takes part in
+battle, however
+short, earns EXP!
+
+
+NOTICE!
+
+Thieves have been
+stealing POKéMON
+fossils at MT.
+MOON! Please call
+PEWTER POLICE
+with any info!
+
+
+PEWTER MUSEUM
+OF SCIENCE
+
+
+PEWTER CITY
+POKéMON GYM
+LEADER: BROCK
+
+The Rock Solid
+POKéMON Trainer!
+
+
+PEWTER CITY
+A Stone Gray
+City
+
+
+SONY: Yo!
+NINTEN!
+
+You're still
+struggling along
+back here?
+
+I'm doing great!
+I caught a bunch
+of strong and
+smart POKéMON!
+
+Here, let me see
+what you caught,
+NINTEN!
+
+
+Hey!
+Take it easy!
+You won already!
+
+
+Heh!
+You're no match
+for my genius!
+
+
+SONY: Hey,
+guess what?
+
+I went to BILL's
+and got him to
+show me his rare
+POKéMON!
+
+That added a lot
+of pages to my
+POKéDEX!
+
+After all, BILL's
+world famous as a
+POKéMANIAC!
+
+He invented the
+POKéMON Storage
+System on PC!
+
+Since you're using
+his system, go
+thank him!
+
+Well, I better
+get rolling!
+Smell ya later!
+
+
+Hey! Stay out!
+It's not your
+yard! Huh? Me?
+
+I'm an innocent
+bystander! Don't
+you believe me?
+
+
+NINTEN recovered
+TM28!
+
+
+I better get
+moving! Bye!
+
+
+Make room for
+this!
+
+I can't run until
+I give it to you!
+
+
+Stop!
+I give up! I'll
+leave quietly!
+
+
+OK! I'll return
+the TM I stole!
+
+
+You're a trainer
+too? Collecting,
+fighting, it's a
+tough life.
+
+
+That bush in
+front of the shop
+is in the way.
+
+There might be a
+way around.
+
+
+You're making an
+encyclopedia on
+POKéMON? That
+sounds amusing.
+
+
+The people here
+were robbed.
+
+It's obvious that
+TEAM ROCKET is
+behind this most
+heinous crime!
+
+Even our POLICE
+force has trouble
+with the ROCKETs!
+
+
+OK! SLOWBRO!
+Use SONICBOOM!
+Come on, SLOWBRO
+pay attention!
+
+
+SLOWBRO punch!
+No! You blew it
+again!
+
+
+SLOWBRO, WITHDRAW!
+No! That's wrong!
+
+It's so hard to
+control POKéMON!
+
+Your POKéMON's
+obedience depends
+on your abilities
+as a trainer!
+
+
+SLOWBRO took a
+snooze...
+
+
+SLOWBRO is
+loafing around...
+
+
+SLOWBRO turned
+away...
+
+
+SLOWBRO
+ignored orders...
+
+
+I want a bright
+red BICYCLE!
+
+I'll keep it at
+home, so it won't
+get dirty!
+
+
+This is CERULEAN
+CAVE! Horribly
+strong POKéMON
+live in there!
+
+The POKéMON LEAGUE
+champion is the
+only person who
+is allowed in!
+
+
+CERULEAN CITY
+A Mysterious,
+Blue Aura
+Surrounds It
+
+
+TRAINER TIPS
+
+Pressing B Button
+during evolution
+cancels the whole
+process.
+
+
+Grass and caves
+handled easily!
+BIKE SHOP
+
+
+CERULEAN CITY
+POKéMON GYM
+LEADER: MISTY
+
+The Tomboyish
+Mermaid!
+
+
+Do you believe in
+GHOSTs?
+
+
+Really? So there
+are believers...
+
+
+Hahaha, I guess
+not.
+
+That white hand
+on your shoulder,
+it's not real.
+
+
+This town is known
+as the grave site
+of POKéMON.
+
+Memorial services
+are held in
+POKéMON TOWER.
+
+
+GHOSTs appeared
+in POKéMON TOWER.
+
+I think they're
+the spirits of
+POKéMON that the
+ROCKETs killed.
+
+
+LAVENDER TOWN
+The Noble Purple
+Town
+
+
+New SILPH SCOPE!
+
+Make the Invisible
+Plain to See!
+
+SILPH CO.
+
+
+LAVENDER VOLUNTEER
+POKéMON HOUSE
+
+
+May the Souls of
+POKéMON Rest Easy
+POKéMON TOWER
+
+
+We're careful
+about pollution!
+
+We've heard GRIMER
+multiplies in
+toxic sludge!
+
+
+Did you see S.S.
+ANNE moored in
+the harbor?
+
+
+So, S.S.ANNE has
+departed!
+
+She'll be back in
+about a year.
+
+
+Welcome to S.S.
+ANNE!
+
+
+Welcome to S.S.
+ANNE!
+
+Excuse me, do you
+have a ticket?
+
+
+NINTEN flashed
+the S.S.TICKET!
+
+Great! Welcome to
+S.S.ANNE!
+
+
+NINTEN doesn't
+have the needed
+S.S.TICKET.
+
+Sorry!
+
+You need a ticket
+to get aboard.
+
+
+The ship set sail.
+
+
+I'm putting up a
+building on this
+plot of land.
+
+My POKéMON is
+tamping the land.
+
+
+MACHOP: Guoh!
+Gogogoh!
+
+
+A MACHOP is
+stomping the land
+flat.
+
+
+S.S.ANNE is a
+famous luxury
+cruise ship.
+
+We visit VERMILION
+once a year.
+
+
+VERMILION CITY
+The Port of
+Exquisite Sunsets
+
+
+NOTICE!
+
+ROUTE 12 may be
+blocked off by a
+sleeping POKéMON.
+
+Detour through
+ROCK TUNNEL to
+LAVENDER TOWN.
+
+VERMILION POLICE
+
+
+POKéMON FAN CLUB
+All POKéMON fans
+welcome!
+
+
+VERMILION CITY
+POKéMON GYM
+LEADER: LT.SURGE
+
+The Lightning
+American!
+
+
+VERMILION HARBOR
+
+
+I got my KOFFING
+in CINNABAR!
+
+It's nice, but it
+breathes poison
+when it's angry!
+
+
+Heheh! This GYM
+is great! It's
+full of women!
+
+
+The GAME CORNER
+is bad for our
+city's image!
+
+
+Moan! I blew it
+all at the slots!
+
+I knew I should
+have cashed in my
+coins for prizes!
+
+
+Hello, there!
+
+I've seen you,
+but I never had a
+chance to talk!
+
+Here's a gift for
+dropping by!
+
+
+NINTEN received
+{4B}!
+
+
+TM41 teaches
+SOFTBOILED!
+
+Only one POKéMON
+can use it!
+
+That POKéMON is
+CHANSEY!
+
+
+Oh, your pack is
+full of items!
+
+
+This is my trusted
+pal, POLIWRATH!
+
+It evolved from
+POLIWHIRL when I
+used WATER STONE!
+
+
+POLIWRATH: Ribi
+ribit!
+
+
+What are you
+staring at?
+
+
+Keep out of TEAM
+ROCKET's way!
+
+
+TRAINER TIPS
+
+X ACCURACY boosts
+the accuracy of
+techniques!
+
+DIRE HIT jacks up
+the likelihood of
+critical hits!
+
+Get your items at
+CELADON DEPT.
+STORE!
+
+
+CELADON CITY
+The City of
+Rainbow Dreams
+
+
+CELADON CITY
+POKéMON GYM
+LEADER: ERIKA
+
+The Nature Loving
+Princess!
+
+
+CELADON MANSION
+
+
+Find what you
+need at CELADON
+DEPT. STORE!
+
+
+TRAINER TIPS
+
+GUARD SPEC.
+protects POKéMON
+against SPECIAL
+attacks such as
+fire and water!
+
+Get your items at
+CELADON DEPT.
+STORE!
+
+
+Coins exchanged
+for prizes!
+PRIZE EXCHANGE
+
+
+ROCKET GAME CORNER
+The playground
+for grown-ups!
+
+
+Did you try the
+SAFARI GAME? Some
+POKéMON can only
+be caught there.
+
+
+SAFARI ZONE has a
+zoo in front of
+the entrance.
+
+Out back is the
+SAFARI GAME for
+catching POKéMON.
+
+
+ERIK: Where's
+SARA? I said I'd
+meet her here.
+
+
+That item ball in
+there is really a
+POKéMON.
+
+
+!
+
+
+FUCHSIA CITY
+Behold! It's
+Passion Pink!
+
+
+SAFARI GAME
+POKéMON-U-CATCH!
+
+
+SAFARI ZONE
+WARDEN's HOME
+
+
+POKéMON PARADISE
+SAFARI ZONE
+
+
+FUCHSIA CITY
+POKéMON GYM
+LEADER: KOGA
+
+The Poisonous
+Ninja Master
+
+
+Name: CHANSEY
+
+Catching one is
+all up to chance.
+
+
+Name: VOLTORB
+
+The very image of
+a POKé BALL.
+
+
+Name: KANGASKHAN
+
+A maternal POKéMON
+that raises its
+young in a pouch
+on its belly.
+
+
+Name: SLOWPOKE
+
+Friendly and very
+slow moving.
+
+
+Name: LAPRAS
+
+A.K.A. the king
+of the seas.
+
+
+Name: OMANYTE
+
+A POKéMON that
+was resurrected
+from a fossil.
+
+
+Name: KABUTO
+
+A POKéMON that
+was resurrected
+from a fossil.
+
+
+...
+
+
+The door is
+locked...
+
+
+CINNABAR GYM's
+BLAINE is an odd
+man who has lived
+here for decades.
+
+
+Scientists conduct
+experiments in
+the burned out
+building.
+
+
+CINNABAR ISLAND
+The Fiery Town of
+Burning Desire
+
+
+POKéMON LAB
+
+
+CINNABAR ISLAND
+POKéMON GYM
+LEADER: BLAINE
+
+The Hot-Headed
+Quiz Master!
+
+
+What do you want?
+Get lost!
+
+
+BOSS said he'll
+take this town!
+
+
+Get out of the
+way!
+
+
+SAFFRON belongs
+to TEAM ROCKET!
+
+
+Being evil makes
+me feel so alive!
+
+
+Ow! Watch where
+you're walking!
+
+
+With SILPH under
+control, we can
+exploit POKéMON
+around the world!
+
+
+You beat TEAM
+ROCKET all alone?
+That's amazing!
+
+
+Yeah! TEAM ROCKET
+is gone!
+It's safe to go
+out again!
+
+
+People should be
+flocking back to
+SAFFRON now.
+
+
+I flew here on my
+PIDGEOT when I
+read about SILPH.
+
+It's already over?
+I missed the
+media action.
+
+
+PIDGEOT: Bi bibii!
+
+
+I saw ROCKET
+BOSS escaping
+SILPH's building.
+
+
+I'm a security
+guard.
+
+Suspicious kids I
+don't allow in!
+
+
+...
+Snore...
+
+Hah! He's taking
+a snooze!
+
+
+SAFFRON CITY
+Shining, Golden
+Land of Commerce
+
+
+FIGHTING DOJO
+
+
+SAFFRON CITY
+POKéMON GYM
+LEADER: SABRINA
+
+The Master of
+Psychic POKéMON!
+
+
+TRAINER TIPS
+
+FULL HEAL cures
+all ailments like
+sleep and burns.
+
+It costs a bit
+more, but it's
+more convenient.
+
+
+TRAINER TIPS
+
+New GREAT BALL
+offers improved
+capture rates.
+
+Try it on those
+hard-to-catch
+POKéMON.
+
+
+SILPH CO.
+OFFICE BUILDING
+
+
+MR.PSYCHIC's
+HOUSE
+
+
+SILPH's latest
+product!
+
+Release to be
+determined...
+
+
+It dodged the
+thrown BALL!
+
+This POKéMON
+can't be caught!
+
+
+You missed the
+POKéMON!
+
+
+Darn! The POKéMON
+broke free!
+
+
+Aww! It appeared
+to be caught!
+
+
+Shoot! It was so
+close too!
+
+
+All right!
+{50} was
+caught!
+
+
+{50} was
+transferred to
+BILL's PC!
+
+
+{50} was
+transferred to
+someone's PC!
+
+
+New POKéDEX data
+will be added for
+{50}!
+
+
+NINTEN got on
+{6D}!
+
+
+There's no place
+to get off!
+
+
+{6D}'s
+{4B} rose.
+
+
+It won't have any
+effect.
+
+
+NINTEN threw
+some BAIT.
+
+
+NINTEN threw a
+ROCK.
+
+
+Played the POKé
+FLUTE.
+
+Now, that's a
+catchy tune!
+
+
+All sleeping
+POKéMON woke up.
+
+
+NINTEN played the
+POKé FLUTE.
+
+
+Coins
+
+
+Yes! ITEMFINDER
+indicates there's
+an item nearby.
+
+
+Nope! ITEMFINDER
+isn't responding.
+
+
+Raise PP of which
+technique?
+
+
+Restore PP of
+which technique?
+
+
+{4B}'s PP
+is maxed out.
+
+
+{4B}'s PP
+increased.
+
+
+PP was restored.
+
+
+Booted up a TM!
+
+
+Booted up an HM!
+
+
+It contained
+{4B}!
+
+Teach {4B}
+to a POKéMON?
+
+
+{6D} is not
+compatible with
+{4B}.
+
+It can't learn
+{4B}.
+
+
+OAK: NINTEN!
+This isn't the
+time to use that!
+
+
+This isn't yours
+to use!
+
+
+It won't have any
+effect.
+
+
+The trainer
+blocked the BALL!
+
+
+Don't be a thief!
+
+
+No cycling
+allowed here.
+
+
+No SURFing on
+{6D} here!
+
+
+The POKéMON BOX
+is full! Can't
+use that item!
+
+
+NINTEN got on the
+{4B}!
+
+
+NINTEN got off
+the {4B}.
+
+
+Threw away
+{6D}.
+
+
+Is it OK to toss
+{50}?
+
+
+That's too impor-
+tant to toss!
+
+
+{6D} knows
+{4B}!
+
+
+Okay, connect the
+cable like so!
+
+
+NINTEN traded
+{50} for
+
+{50}!
+
+
+I'm looking for
+{50}! Wanna
+
+trade one for
+{50}?
+
+
+Awww!
+Oh well...
+
+
+What? That's not
+{50}!
+
+If you get one,
+come back here!
+
+
+Hey thanks!
+
+
+Isn't my old
+{50} great?
+
+
+Hello there! Do
+you want to trade
+
+your {50}
+for {50}?
+
+
+Well, if you
+don't want to...
+
+
+Hmmm? This isn't
+{50}.
+
+Think of me when
+you get one.
+
+
+Thanks!
+
+
+The {50} you
+traded to me
+
+went and evolved!
+
+
+Hi! Do you have
+{50}?
+
+Want to trade it
+for {50}?
+
+
+That's too bad.
+
+
+...This is no
+{50}.
+
+If you get one,
+trade it with me!
+
+
+Thanks pal!
+
+
+How is my old
+{50}?
+
+
+My {50} is
+doing great!
+
+
+There isn't
+anything to CUT!
+
+
+{58} hacked
+away with CUT!
+
+
+
+
+Protected by an
+armor-like hide,
+it is capable of
+
+living in molten
+lava of 3,600
+degrees.
+
+
+The infant rarely
+ventures out of
+its mother's
+
+protective pouch
+until it is 3
+years old.
+
+
+Stiffens its ears
+to sense danger.
+The larger its
+
+horns, the more
+powerful its
+secreted venom.
+
+
+Its magical and
+cute appeal has
+many admirers.
+
+It is rare and
+found only in
+certain areas.
+
+
+Eats bugs in
+grassy areas. It
+has to flap its
+
+short wings at
+high speed to
+stay airborne.
+
+
+Usually found in
+power plants.
+Easily mistaken
+
+for a POKé BALL,
+they have zapped
+many people.
+
+
+It uses its
+powerful tail in
+battle to smash,
+
+constrict, then
+break the prey's
+bones.
+
+
+The SHELLDER that
+is latched onto
+SLOWPOKE's tail
+
+is said to feed
+on the host's left
+over scraps.
+
+
+When the bulb on
+its back grows
+large, it appears
+
+to lose the
+ability to stand
+on its hind legs.
+
+
+Legend has it that
+on rare occasions,
+one of its heads
+
+will drop off and
+continue on as an
+EXEGGCUTE.
+
+
+Its tongue can be
+extended like a
+chameleon's. It
+
+leaves a tingling
+sensation when it
+licks enemies.
+
+
+Often mistaken
+for eggs.
+When disturbed,
+
+they quickly
+gather and attack
+in swarms.
+
+
+Appears in filthy
+areas. Thrives by
+sucking up
+
+polluted sludge
+that is pumped
+out of factories.
+
+
+Under a full moon,
+this POKéMON
+likes to mimic
+
+the shadows of
+people and laugh
+at their fright.
+
+
+Although small,
+its venomous
+barbs render this
+
+POKéMON dangerous.
+The female has
+smaller horns.
+
+
+Its hard scales
+provide strong
+protection. It
+
+uses its hefty
+bulk to execute
+powerful moves.
+
+
+Because it never
+removes its skull
+helmet, no one
+
+has ever seen
+this POKéMON's
+real face.
+
+
+Its massive bones
+are 1000 times
+harder than human
+
+bones. It can
+easily knock a
+trailer flying.
+
+
+A POKéMON that
+has been over-
+hunted almost to
+
+extinction. It
+can ferry people
+across the water.
+
+
+A POKéMON that
+has been admired
+since the past
+
+for its beauty.
+It runs agilely
+as if on wings.
+
+
+So rare that it
+is still said to
+be a mirage by
+
+many experts. Only
+a few people have
+seen it worldwide.
+
+
+Rarely seen in
+the wild. Huge
+and vicious, it
+
+is capable of
+destroying entire
+cities in a rage.
+
+
+Its hard shell
+repels any kind
+of attack.
+
+It is vulnerable
+only when its
+shell is open.
+
+
+Drifts in shallow
+seas. Anglers who
+hook them by
+
+accident are
+often punished by
+its stinging acid.
+
+
+Almost invisible,
+this gaseous
+POKéMON cloaks
+
+the target and
+puts it to sleep
+without notice.
+
+
+With ninja-like
+agility and speed,
+it can create the
+
+illusion that
+there is more
+than one.
+
+
+An enigmatic
+POKéMON that can
+effortlessly
+
+regenerate any
+appendage it
+loses in battle.
+
+
+A brutal POKéMON
+with pressurized
+water jets on its
+
+shell. They are
+used for high
+speed tackles.
+
+
+If it fails to
+crush the victim
+in its pincers,
+
+it will swing it
+around and toss
+it hard.
+
+
+The whole body is
+swathed with wide
+vines that are
+
+similar to sea-
+weed. Its vines
+shake as it walks.
+
+
+Very protective
+of its territory.
+It will bark and
+
+bite to repel
+intruders from
+its space.
+
+
+As it grows, the
+stone portions of
+its body harden
+
+to become similar
+to a diamond, but
+colored black.
+
+
+With its huge and
+magnificent wings,
+it can keep aloft
+
+without ever
+having to land
+for rest.
+
+
+A common sight in
+forests and woods.
+It flaps its
+
+wings at ground
+level to kick up
+blinding sand.
+
+
+Incredibly slow
+and dopey. It
+takes 5 seconds
+
+for it to feel
+pain when under
+attack.
+
+
+It emits special
+alpha waves from
+its body that
+
+induce headaches
+just by being
+close by.
+
+
+Rolls down slopes
+to move. It rolls
+over any obstacle
+
+without slowing
+or changing its
+direction.
+
+
+A rare and elusive
+POKéMON that is
+said to bring
+
+happiness to those
+who manage to get
+it.
+
+
+Its muscular body
+is so powerful, it
+must wear a power
+
+save belt to be
+able to regulate
+its motions.
+
+
+If interrupted
+while it is
+miming, it will
+
+slap around the
+offender with its
+broad hands.
+
+
+When in a hurry,
+its legs lengthen
+progressively.
+
+It runs smoothly
+with extra long,
+loping strides.
+
+
+While apparently
+doing nothing, it
+fires punches in
+
+lightning fast
+volleys that are
+impossible to see.
+
+
+It is rumored that
+the ferocious
+warning markings
+
+on its belly
+differ from area
+to area.
+
+
+A host-parasite
+pair in which the
+parasite mushroom
+
+has taken over the
+host bug. Prefers
+damp places.
+
+
+While lulling its
+enemies with its
+vacant look, this
+
+wily POKéMON will
+use psychokinetic
+powers.
+
+
+Puts enemies to
+sleep then eats
+their dreams.
+
+Occasionally gets
+sick from eating
+bad dreams.
+
+
+Its boulder-like
+body is extremely
+hard. It can
+
+easily withstand
+dynamite blasts
+without damage.
+
+
+Its body always
+burns with an
+orange glow that
+
+enables it to
+hide perfectly
+among flames.
+
+
+Normally found
+near power plants,
+they can wander
+
+away and cause
+major blackouts
+in cities.
+
+
+Formed by several
+MAGNEMITEs linked
+together. They
+
+frequently appear
+when sunspots
+flare up.
+
+
+Because it stores
+several kinds of
+toxic gases in
+
+its body, it is
+prone to exploding
+without warning.
+
+
+Extremely quick to
+anger. It could
+be docile one
+
+moment then
+thrashing away
+the next instant.
+
+
+The protruding
+horn on its head
+is very hard.
+
+It is used for
+bashing through
+thick ice.
+
+
+Lives about one
+yard underground
+where it feeds on
+
+plant roots. It
+sometimes appears
+above ground.
+
+
+When it targets
+an enemy, it
+charges furiously
+
+while whipping its
+body with its
+long tails.
+
+
+The sprig of
+green onions it
+holds is its
+
+weapon. It is
+used much like a
+metal sword.
+
+
+Lives in the
+shadows of tall
+trees where it
+
+eats insects. It
+is attracted by
+light at night.
+
+
+An extremely
+rarely seen
+marine POKéMON.
+
+Its intelligence
+is said to match
+that of humans.
+
+
+A bird that makes
+up for its poor
+flying with its
+
+fast foot speed.
+Leaves giant
+footprints.
+
+
+Its newly grown
+legs prevent it
+from running. It
+
+appears to prefer
+swimming than
+trying to stand.
+
+
+It seductively
+wiggles its hips
+as it walks. It
+
+can cause people
+to dance in
+unison with it.
+
+
+Known as the
+legendary bird of
+fire. Every flap
+
+of its wings
+creates a dazzling
+flash of flames.
+
+
+A legendary bird
+POKéMON that is
+said to appear to
+
+doomed people who
+are lost in icy
+mountains.
+
+
+A legendary bird
+POKéMON that is
+said to appear
+
+from clouds while
+dropping enormous
+lightning bolts.
+
+
+Capable of copying
+an enemy's genetic
+code to instantly
+
+transform itself
+into a duplicate
+of the enemy.
+
+
+Adores circular
+objects. Wanders
+the streets on a
+
+nightly basis to
+look for dropped
+loose change.
+
+
+Its pincers are
+not only powerful
+weapons, they are
+
+used for balance
+when walking
+sideways.
+
+
+At the time of
+birth, it has
+just one tail.
+
+The tail splits
+from its tip as
+it grows older.
+
+
+Very smart and
+very vengeful.
+Grabbing one of
+
+its many tails
+could result in a
+1000-year curse.
+
+
+When several of
+these POKéMON
+gather, their
+
+electricity could
+build and cause
+lightning storms.
+
+
+Its long tail
+serves as a
+ground to protect
+
+itself from its
+own high voltage
+power.
+
+
+Long considered a
+mythical POKéMON
+until recently
+
+when a small
+colony was found
+living underwater.
+
+
+A mystical POKéMON
+that exudes a
+gentle aura.
+
+Has the ability
+to change climate
+conditions.
+
+
+A POKéMON that
+was resurrected
+from a fossil
+
+found in what was
+once the ocean
+floor eons ago.
+
+
+Its sleek shape is
+perfect for swim-
+ming. It slashes
+
+prey with its
+claws and drains
+the body fluids.
+
+
+Known to shoot
+down flying bugs
+with precision
+
+blasts of ink
+from the surface
+of the water.
+
+
+Capable of swim-
+ming backwards by
+rapidly flapping
+
+its wing-like
+pectoral fins and
+stout tail.
+
+
+Burrows deep
+underground in
+arid locations
+
+far from water.
+It only emerges
+to hunt for food.
+
+
+Curls up into a
+spiny ball when
+threatened. It
+
+can roll while
+curled up to
+attack or escape.
+
+
+Although long
+extinct, in rare
+cases, it can be
+
+genetically
+resurrected from
+fossils.
+
+
+A prehistoric
+POKéMON that died
+out when its
+
+heavy shell made
+it impossible to
+catch prey.
+
+
+When its huge eyes
+light up, it sings
+a mysteriously
+
+soothing melody
+that lulls its
+enemies to sleep.
+
+
+The body is soft
+and rubbery. When
+angered, it will
+
+suck in air and
+inflate itself to
+an enormous size.
+
+
+Its genetic code
+is irregular.
+It may mutate if
+
+it is exposed to
+radiation from
+element STONEs.
+
+
+When storing
+thermal energy in
+its body, its
+
+temperature could
+soar to over 1600
+degrees.
+
+
+It accumulates
+negative ions in
+the atmosphere to
+
+blast out 10000-
+volt lightning
+bolts.
+
+
+Lives close to
+water. Its long
+tail is ridged
+
+with a fin which
+is often mistaken
+for a mermaid's.
+
+
+Loves to build
+its muscles.
+It trains in all
+
+styles of martial
+arts to become
+even stronger.
+
+
+Forms colonies in
+perpetually dark
+places. Uses
+
+ultrasonic waves
+to identify and
+approach targets.
+
+
+Moves silently
+and stealthily.
+Eats the eggs of
+
+birds, such as
+PIDGEY and
+SPEAROW, whole.
+
+
+Burrows to suck
+tree roots. The
+mushrooms on its
+
+back grow by draw-
+ing nutrients from
+the bug host.
+
+
+Capable of living
+in or out of
+water. When out
+
+of water, it
+sweats to keep
+its body slimy.
+
+
+An adept swimmer
+at both the front
+crawl and breast
+
+stroke. Easily
+overtakes the best
+human swimmers.
+
+
+Often found in
+forests, eating
+leaves.
+
+It has a sharp
+venomous stinger
+on its head.
+
+
+Almost incapable
+of moving, this
+POKéMON can only
+
+harden its shell
+to protect itself
+from predators.
+
+
+Flies at high
+speed and attacks
+using its large
+
+venomous stingers
+on its forelegs
+and tail.
+
+
+Uses its three
+brains to execute
+complex plans.
+
+While two heads
+sleep, one head
+stays awake.
+
+
+Always furious
+and tenacious to
+boot. It will not
+
+abandon chasing
+its quarry until
+it is caught.
+
+
+A team of DIGLETT
+triplets.
+It triggers huge
+
+earthquakes by
+burrowing 60 miles
+underground.
+
+
+The dust-like
+scales covering
+its wings are
+
+color coded to
+indicate the kinds
+of poison it has.
+
+
+Stores thermal
+energy in its
+body. Swims at a
+
+steady 8 knots
+even in intensely
+cold waters.
+
+
+Its short feet
+are tipped with
+suction pads that
+
+enable it to
+tirelessly climb
+slopes and walls.
+
+
+This POKéMON is
+vulnerable to
+attack while its
+
+shell is soft,
+exposing its weak
+and tender body.
+
+
+In battle, it
+flaps its wings
+at high speed to
+
+release highly
+toxic dust into
+the air.
+
+
+Using its heavy
+muscles, it throws
+powerful punches
+
+that can send the
+victim clear over
+the horizon.
+
+
+Often seen swim-
+ming elegantly by
+lake shores. It
+
+is often mistaken
+for the Japanese
+monster, Kappa.
+
+
+When it locks eyes
+with an enemy, it
+will use a mix of
+
+PSI moves such as
+HYPNOSIS and
+CONFUSION.
+
+
+Once it strikes,
+it will not stop
+draining energy
+
+from the victim
+even if it gets
+too heavy to fly.
+
+
+It was created by
+a scientist after
+years of horrific
+
+gene splicing and
+DNA engineering
+experiments.
+
+
+Very lazy. Just
+eats and sleeps.
+As its rotund
+
+bulk builds, it
+becomes steadily
+more slothful.
+
+
+In the distant
+past, it was
+somewhat stronger
+
+than the horribly
+weak descendants
+that exist today.
+
+
+Thickly covered
+with a filthy,
+vile sludge. It
+
+is so toxic, even
+its footprints
+contain poison.
+
+
+The large pincer
+has 10000 hp of
+crushing power.
+
+However, its huge
+size makes it
+unwieldy to use.
+
+
+When attacked, it
+launches its
+horns in quick
+
+volleys. Its
+innards have
+never been seen.
+
+
+It stores electric
+energy under very
+high pressure.
+
+It often explodes
+with little or no
+provocation.
+
+
+A timid fairy
+POKéMON that is
+rarely seen. It
+
+will run and hide
+the moment it
+senses people.
+
+
+Where two kinds
+of poison gases
+meet, 2 KOFFINGs
+
+can fuse into a
+WEEZING over many
+years.
+
+
+Although its fur
+has many admirers,
+it is tough to
+
+raise as a pet
+because of its
+fickle meanness.
+
+
+The bone it holds
+is its key weapon.
+It throws the
+
+bone skillfully
+like a boomerang
+to KO targets.
+
+
+Because of its
+ability to slip
+through block
+
+walls, it is said
+to be from an-
+other dimension.
+
+
+Using its ability
+to read minds, it
+will identify
+
+impending danger
+and TELEPORT to
+safety.
+
+
+Its brain can out-
+perform a super-
+computer.
+
+Its intelligence
+quotient is said
+to be 5,000.
+
+
+Very protective
+of its sprawling
+territorial area,
+
+this POKéMON will
+fiercely peck at
+any intruder.
+
+
+When hunting, it
+skims the surface
+of water at high
+
+speed to pick off
+unwary prey such
+as MAGIKARP.
+
+
+Its central core
+glows with the
+seven colors of
+
+the rainbow. Some
+people value the
+core as a gem.
+
+
+A strange seed was
+planted on its
+back at birth.
+
+The plant sprouts
+and grows with
+this POKéMON.
+
+
+The plant blooms
+when it is
+absorbing solar
+
+energy. It stays
+on the move to
+seek sunlight.
+
+
+The tentacles are
+normally kept
+short. On hunts,
+
+they are extended
+to ensnare and
+immobilize prey.
+
+
+Its tail fin
+billows like an
+elegant ballroom
+
+dress, giving it
+the nickname of
+the Water Queen.
+
+
+In the autumn
+spawning season,
+they can be seen
+
+swimming power-
+fully up rivers
+and creeks.
+
+
+Its hooves are 10
+times harder than
+diamonds. It can
+
+trample anything
+completely flat
+in little time.
+
+
+Very competitive,
+this POKéMON will
+chase anything
+
+that moves fast
+in the hopes of
+racing it.
+
+
+Bites anything
+when it attacks.
+Small and very
+
+quick, it is a
+common sight in
+many places.
+
+
+It uses its whis-
+kers to maintain
+its balance.
+
+It apparently
+slows down if
+they are cut off.
+
+
+An aggressive
+POKéMON that is
+quick to attack.
+
+The horn on its
+head secretes a
+powerful venom.
+
+
+The female's horn
+develops slowly.
+Prefers physical
+
+attacks such as
+clawing and
+biting.
+
+
+Found in fields
+and mountains.
+Mistaking them
+
+for boulders,
+people often step
+or trip on them.
+
+
+A POKéMON that
+consists entirely
+of programming
+
+code. Capable of
+moving freely in
+cyberspace.
+
+
+A ferocious, pre-
+historic POKéMON
+that goes for the
+
+enemy's throat
+with its serrated
+saw-like fangs.
+
+
+Uses anti-gravity
+to stay suspended.
+Appears without
+
+warning and uses
+THUNDER WAVE and
+similar moves.
+
+
+Obviously prefers
+hot places. When
+it rains, steam
+
+is said to spout
+from the tip of
+its tail.
+
+
+After birth, its
+back swells and
+hardens into a
+
+shell. Powerfully
+sprays foam from
+its mouth.
+
+
+When it swings
+its burning tail,
+it elevates the
+
+temperature to
+unbearably high
+levels.
+
+
+Often hides in
+water to stalk
+unwary prey. For
+
+swimming fast, it
+moves its ears to
+maintain balance.
+
+
+Spits fire that
+is hot enough to
+melt boulders.
+
+Known to cause
+forest fires
+unintentionally.
+
+
+During the day,
+it keeps its face
+buried in the
+
+ground. At night,
+it wanders around
+sowing its seeds.
+
+
+The fluid that
+oozes from its
+mouth isn't drool.
+
+It is a nectar
+that is used to
+attract prey.
+
+
+The larger its
+petals, the more
+toxic pollen it
+
+contains. Its big
+head is heavy and
+hard to hold up.
+
+
+A carnivorous
+POKéMON that traps
+and eats bugs.
+
+It uses its root
+feet to soak up
+needed moisture.
+
+
+It spits out
+POISONPOWDER to
+immobilize the
+
+enemy and then
+finishes it with
+a spray of ACID.
+
+
+Said to live in
+huge colonies
+deep in jungles,
+
+although no one
+has ever returned
+from there.
+
+
+
+POUND
+KARATE CHOP
+DOUBLESLAP
+COMET PUNCH
+MEGA PUNCH
+PAY DAY
+FIRE PUNCH
+ICE PUNCH
+THUNDERPUNCH
+SCRATCH
+VICEGRIP
+GUILLOTINE
+RAZOR WIND
+SWORDS DANCE
+CUT
+GUST
+WING ATTACK
+WHIRLWIND
+FLY
+BIND
+SLAM
+VINE WHIP
+STOMP
+DOUBLE KICK
+MEGA KICK
+JUMP KICK
+ROLLING KICK
+SAND-ATTACK
+HEADBUTT
+HORN ATTACK
+FURY ATTACK
+HORN DRILL
+TACKLE
+BODY SLAM
+WRAP
+TAKE DOWN
+THRASH
+DOUBLE-EDGE
+TAIL WHIP
+POISON STING
+TWINEEDLE
+PIN MISSILE
+LEER
+BITE
+GROWL
+ROAR
+SING
+SUPERSONIC
+SONICBOOM
+DISABLE
+ACID
+EMBER
+FLAMETHROWER
+MIST
+WATER GUN
+HYDRO PUMP
+SURF
+ICE BEAM
+BLIZZARD
+PSYBEAM
+BUBBLEBEAM
+AURORA BEAM
+HYPER BEAM
+PECK
+DRILL PECK
+SUBMISSION
+LOW KICK
+COUNTER
+SEISMIC TOSS
+STRENGTH
+ABSORB
+MEGA DRAIN
+LEECH SEED
+GROWTH
+RAZOR LEAF
+SOLARBEAM
+POISONPOWDER
+STUN SPORE
+SLEEP POWDER
+PETAL DANCE
+STRING SHOT
+DRAGON RAGE
+FIRE SPIN
+THUNDERSHOCK
+THUNDERBOLT
+THUNDER WAVE
+THUNDER
+ROCK THROW
+EARTHQUAKE
+FISSURE
+DIG
+TOXIC
+CONFUSION
+PSYCHIC
+HYPNOSIS
+MEDITATE
+AGILITY
+QUICK ATTACK
+RAGE
+TELEPORT
+NIGHT SHADE
+MIMIC
+SCREECH
+DOUBLE TEAM
+RECOVER
+HARDEN
+MINIMIZE
+SMOKESCREEN
+CONFUSE RAY
+WITHDRAW
+DEFENSE CURL
+BARRIER
+LIGHT SCREEN
+HAZE
+REFLECT
+FOCUS ENERGY
+BIDE
+METRONOME
+MIRROR MOVE
+SELFDESTRUCT
+EGG BOMB
+LICK
+SMOG
+SLUDGE
+BONE CLUB
+FIRE BLAST
+WATERFALL
+CLAMP
+SWIFT
+SKULL BASH
+SPIKE CANNON
+CONSTRICT
+AMNESIA
+KINESIS
+SOFTBOILED
+HI JUMP KICK
+GLARE
+DREAM EATER
+POISON GAS
+BARRAGE
+LEECH LIFE
+LOVELY KISS
+SKY ATTACK
+TRANSFORM
+BUBBLE
+DIZZY PUNCH
+SPORE
+FLASH
+PSYWAVE
+SPLASH
+ACID ARMOR
+CRABHAMMER
+EXPLOSION
+FURY SWIPES
+BONEMERANG
+REST
+ROCK SLIDE
+HYPER FANG
+SHARPEN
+CONVERSION
+TRI ATTACK
+SUPER FANG
+SLASH
+SUBSTITUTE
+STRUGGLE
+
+=EOF=
