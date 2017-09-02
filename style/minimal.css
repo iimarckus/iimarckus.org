@@ -73,3 +73,8 @@ table
 	font-weight: normal;
 	font-variant: small-caps;
 }
+
+img
+{
+	image-rendering: pixelated;
+}
