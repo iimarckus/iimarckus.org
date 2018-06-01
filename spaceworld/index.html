@@ -1,0 +1,120 @@
+<!doctype html>
+<meta charset=utf-8>
+<title>Space World is Real 2401</title>
+<style>
+body {
+	max-width: 75em;
+}
+</style>
+
+<p>2018‐05‐31
+
+<p>
+I came back from hiking on Memorial Day weekend to a handful of days‐old IRC
+queries saying the SpaceWorld demo had leaked.
+One of the queries was from Sanqui.
+Apparently someone anonymous had posted in the pret discord a link to the ROMs
+that was limited to 20 downloads.
+Sanqui downloaded it,
+realized what it was and started preparing for a TCRF release.
+
+<p>
+Why not release it right away?
+
+<ul>
+<li>The news would make a bigger splash if the scope of the new content were known from the start.
+<li>Gaming news sites and YouTubers are parasites.
+TCRF actually reverse engineers games and does original research.
+And yes, <a href="http://tcrfwiki.tumblr.com/post/145420915583/prototype-release-thqs-unreleased-tetris-ds">they</a>
+<a href="https://tcrf.net/Sound_Factory">release</a>
+<a href="http://tcrfwiki.tumblr.com/post/172494662843/air-fortress-fds-prototype">protos</a>.
+They deserve to break the story once in a while.
+<li>It would be cool for English speakers playing through the demo
+(such as it is)
+at the same time as everyone else to understand what’s going on.
+</ul>
+
+<p>
+Sanqui sent me an invite to a new private discord.
+The plan was to simultaneously
+① datamine the ROMs and write a TCRF page
+② disassemble enough of the ROM to support a translation patch
+③ translate the text.
+Hard deadline was one month—Sanqui and I emphasized this repeatedly.
+
+<p>
+We knew from the start it would probably get leaked before that.
+At least a dozen people might have downloaded from the link.
+There were lots of people in the pret discord who saw the resulting discussion
+even if they didn’t download it.
+One guy who had the ROM posted screenshots in other channels,
+spreading the story even more.
+This led to
+<a href="https://boards.4chan.org/vp/thread/35690955#p35690955">
+the first 4chan thread</a>.
+Next thread someone from the private discord posted a couple of things including Pichu,
+but apparently stopped there.
+Later someone else who had the Gold ROM, probably one of the original 20 downloaders,
+leaked it to 4chan.
+After that we posted the half‐finished docs and wiki page publicly.
+
+<h2>Where did the guy who leaked them to Sanqui get them?</h2>
+<p>
+Not a clue.
+
+<h2>Was there an old collector in Japan whose collection spread after he died?</h2>
+<p>
+Don’t know for sure.
+I doubt it.
+Only ever heard it on 4chan, never privately.
+
+<h2>Are they real?</h2>
+<p>
+Yes.
+
+<ul>
+<li>I <a href="https://github.com/pret/pokered/commit/df2b3b739c9cf8a5d63d6f8f342e63bc67525ebc">started</a> the first Pokémon disassembly in 2010;
+the project has grown into fully reverse engineered source code of Red, Blue, Yellow, Crystal, Ruby, Sapphire, Emerald, Pinball, and TCG,
+and in‐progress disassemblies of many more.
+The SpaceWorld ROMs share a significant amount of code with the Japanese versions,
+which have never been disassembled.
+They’re too similar to Pokémon code to be homebrew games.
+But they’re different enough from any released version to
+have been impractical to fake.
+And they don’t bear any of the distinguishing characteristics of hand‐modified ROMs.
+
+<li>The details of the demo match.
+The Pikachu minigame, Pokémon graphics,
+and gameplay descriptions fit all the accounts I’ve read
+(and have heard about for years).
+The Super Game Boy borders, title screen,
+and overworld and battle graphics match known screenshots and video clips.
+
+<li>Studying the ROMs brought to light unnoticed content in the final GSC release.
+Somebody noticed that Sunflora and Pikachu play the shiny animation.
+I checked the code
+and saw that there are two special animations when sending out Pokémon,
+a fade‐in used by Hoothoot and a wave effect that is totally unused.
+I checked GSC’s code to see if the animations still exist,
+<a href="https://tcrf.net/index.php?title=Pokémon_Gold_and_Silver&amp;diff=569383&amp;oldid=557898">and they do</a>.
+Nobody has ever noticed this before.
+That’s not fakeable.
+
+<li>
+Leaked prototypes happen.
+It’s not surprising to see them every now and then,
+especially for a high‐profile game.
+Convincingly faked ROMs don’t happen.
+</ul>
+
+<h2>Is there a Green beta?</h2>
+<p>
+No.
+
+<h2>You’re attention whores!</h2>
+<p>
+Nobody cares.
+
+<h2>The translation would have taken longer than a month, and then they’d never have been released!</h2>
+<p>
+If it had taken longer than a month I would have leaked them myself.
