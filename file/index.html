@@ -1,0 +1,22 @@
+<!doctype html>
+<meta charset=utf-8>
+<title>File upload</title>
+<p>
+If you have files you’d like to pass on without revealing who you are,
+use the buttons below.
+After hitting “Send Files,” you’ll be sent back to the main page.
+<p>
+Please keep it to things I’d be interested in.
+Nintendo‐related stuff is a safe bet.
+<p>
+I don’t track or keep any logs of anyone who uploads using this form.
+That’s intentional.
+But if you don’t trust my assurances,
+download <a href="https://www.torproject.org/">Tor Browser</a> and use
+<a href="http://bdqx5tj6dsd5ukbk2nrl3owgkzkv3hhyt4shmdvf2qgbqy3h7pyni2id.onion/">this hidden service</a> instead.
+Tor prevents me from identifying you even if I try.
+
+<form method="post" enctype="multipart/form-data" action="/upload">
+<p><input type="file" name="file[]" multiple>
+<p><button type="submit">Send Files</button>
+</form>
