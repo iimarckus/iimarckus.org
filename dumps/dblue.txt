@@ -1,6 +1,5 @@
 =Pokemon Blue text dump=
 
-
 MASTER BALL
 ULTRA BALL
 GREAT BALL
