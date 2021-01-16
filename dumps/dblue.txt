@@ -1,5 +1,12 @@
 =Pokemon Blue text dump=
 
+TM  TRAINER
+PC  ROCKET  POKé 
+Enemy  [PK][MN]
+
+
+CANCEL
+
 
 MASTER BALL
 ULTRA BALL
@@ -108,12 +115,14 @@ Waiting...!
 PLEASE WAIT!
 
 
+STATS     TRADE 
+
 
 CANCEL
 
 
 
-
+Trade completed!
 Too bad! The trade
 was canceled!
 
@@ -610,7 +619,7 @@ CHIEF
 SCIENTIST
 ROCKET
 COOLTRAINER♂
-COOLTRAINER
+COOLTRAINER♀
 
 
 
@@ -668,9 +677,13 @@ LANCE
 OLD MAN
 
 
+WHICH TECHNIQUE?
+
 
 disabled!
 
+
+TYPE
 
 
 ATTACK
@@ -854,6 +867,13 @@ FLYCATCHER
 FLYCATCHER
 
 
+CELADON CITY
+ERIKA
+
+
+MONEY 
+COIN 
+
 
 EARTHBADGE
 VOLCANOBADGE
@@ -996,7 +1016,6 @@ POWER PLANT
 
 
 
-TRAINER
 TERRY
 MARCEL
 CHIKUCHIKU
@@ -1094,6 +1113,8 @@ BLUE VERSION STAFF
 5PAAD TESTING
 
 
+VIRIDIAN CITY
+GIOVANNI
 
 
 ?   S  L  P  P  S  N  B  R  N  F  R  Z  P  A  R
